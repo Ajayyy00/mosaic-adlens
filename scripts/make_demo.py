@@ -48,8 +48,11 @@ def draw_scene(scene):
       'detail':[('139192.58','INR / SPEND'),('95216.60','INR / REVENUE'),('139192.58','INR / CONTRIBUTION')],
       'insights':[('Doctor Trust','TOP CREATIVE THEME'),('Weighted ROAS','REVENUE / SPEND'),('Test, then scale','NO CAUSAL CLAIM')],
       'downloads':[('Decimal','PYTHON AUDIT'),('BigInt','INDEPENDENT CHECK'),('JSON + CSV','REPRODUCIBLE EVIDENCE')]}
-    for i,(value,label) in enumerate(callouts[scene['shot']]):
-        y=287+i*188
+    visible_callouts=callouts[scene['shot']]
+    if scene['index']==3:
+        visible_callouts=[('576898.53','INSTAGRAM / INR'),('429321.93','GOOGLE / INR'),('325750.71','YOUTUBE / INR'),('143760.62','META / INR')]
+    for i,(value,label) in enumerate(visible_callouts):
+        y=287+i*(145 if len(visible_callouts)==4 else 188)
         draw.text((x,y),label,font=font(16),fill='#99aabe')
         draw.text((x,y+39),value,font=font(30,True),fill='#c1f580' if i==0 else 'white')
         draw.line((x,y+112,W-54,y+112),fill='#344256',width=1)
@@ -75,7 +78,7 @@ def main():
     concat.write_text(''.join("file '"+p.as_posix()+"'\n" for p in scene_paths),encoding='utf-8')
     # Use a relative subtitle filename so Windows drive colons do not enter filter syntax.
     subprocess.run([ffmpeg,'-y','-loglevel','error','-f','concat','-safe','0','-i',str(concat),
-        '-vf',"subtitles=demo.srt:force_style='FontName=Arial,FontSize=20,PrimaryColour=&H00FFFFFF,OutlineColour=&H00101C2E,BorderStyle=3,Outline=1,Shadow=0,MarginV=20,Alignment=2'",
+        '-vf',"subtitles=demo.srt:force_style='FontName=Arial,FontSize=12,PrimaryColour=&H00FFFFFF,OutlineColour=&H002E1C10,BorderStyle=3,Outline=1,Shadow=0,MarginV=9,Alignment=2'",
         '-c:v','libx264','-preset','fast','-crf','20','-c:a','aac','-b:a','192k','-movflags','+faststart',str(DEMO/'demo.mp4')],cwd=DEMO,check=True)
     probe=subprocess.run([ffmpeg,'-i',str(DEMO/'demo.mp4'),'-f','null','-'],capture_output=True,text=True)
     output=probe.stderr

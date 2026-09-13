@@ -1,0 +1,113 @@
+{
+  "checked_at": "2026-09-13T09:28:39.731921+00:00",
+  "base_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site",
+  "status": "PASS",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 1560,
+      "content_type": "text/html",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/",
+      "anonymous": true
+    },
+    {
+      "path": "/assets/index-DL3b6CAy.js",
+      "status": 200,
+      "bytes": 256794,
+      "content_type": "text/javascript",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/assets/index-DL3b6CAy.js",
+      "anonymous": true
+    },
+    {
+      "path": "/assets/index-BfSP2NzD.css",
+      "status": 200,
+      "bytes": 20058,
+      "content_type": "text/css",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/assets/index-BfSP2NzD.css",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/final-result.json",
+      "status": 200,
+      "bytes": 13813,
+      "content_type": "application/json",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/final-result.json",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/record-results.json",
+      "status": 200,
+      "bytes": 981784,
+      "content_type": "application/json",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/record-results.json",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/category-breakdown.json",
+      "status": 200,
+      "bytes": 1047,
+      "content_type": "application/json",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/category-breakdown.json",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/reconciliation.json",
+      "status": 200,
+      "bytes": 3633,
+      "content_type": "application/json",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/reconciliation.json",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/independent-validation.json",
+      "status": 200,
+      "bytes": 1356,
+      "content_type": "application/json",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/independent-validation.json",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/malformed-records.json",
+      "status": 200,
+      "bytes": 4,
+      "content_type": "application/json",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/malformed-records.json",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/duplicate-records.json",
+      "status": 200,
+      "bytes": 4,
+      "content_type": "application/json",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/duplicate-records.json",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/record-results.csv",
+      "status": 200,
+      "bytes": 111196,
+      "content_type": "text/csv",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/record-results.csv",
+      "anonymous": true
+    },
+    {
+      "path": "/favicon.svg",
+      "status": 200,
+      "bytes": 178,
+      "content_type": "image/svg+xml",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/favicon.svg",
+      "anonymous": true
+    },
+    {
+      "path": "/reports/nonexistent-report.json",
+      "status": 200,
+      "bytes": 1560,
+      "content_type": "text/html",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/nonexistent-report.json",
+      "anonymous": true,
+      "behavior": "Static host SPA fallback: HTML app shell, not a JSON report"
+    }
+  ],
+  "routes": "The five UI views use URL fragments and are verified in real browser QA."
+}

@@ -2,6 +2,8 @@
 
 A reproducible, auditable solution to the Mosaic Fellowship **Content & Creative** Builder Challenge. Explore all 800 official ads, inspect each threshold and trace the exact answer to 13 qualifying records.
 
+**[Open the verified public application](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site)** — no login required. The demo is available locally and is being added to the public download page.
+
 **Computed answer: ₹14,75,731.79 (1475731.79).** Python Decimal and an independent JavaScript BigInt implementation agree on every qualifying ID, count and platform subtotal. No private answer-key match is claimed.
 
 ## Challenge and source
@@ -97,7 +99,7 @@ The build is a static `dist/` directory. Vercel and Netlify configuration files 
 
 Sites hosting is prepared with `.openai/hosting.json`. `python scripts/prepare_deployment.py` packages only validated build output and its hosting manifest into `artifacts/deploy/site.tar.gz`, without destructive cleanup. A source commit must be pushed to the registered Sites repository before saving and publishing that exact version. Public access and HTTP checks are required before reporting success. The actual URL and hosting result are recorded in deployment notes.
 
-A public GitHub repository is a separate official requirement. Local Git Credential Manager provided no GitHub credential at the authentication check; see final deployment notes for the verified repository status. No application is submitted by any script.
+A public GitHub repository is a separate official requirement. An authenticated GitHub browser session is available; source import is being prepared through a public read-only Git endpoint. See deployment notes for the verified repository status. No application is submitted by any script.
 
 ## Demo
 

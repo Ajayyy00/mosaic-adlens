@@ -28,6 +28,8 @@ SCENES=[
   'Creative rankings use total revenue divided by total spend. Doctor Trust, Lifestyle, and Product Demo lead. These synthetic returns are unusually high, so relative underperformance does not automatically mean a whole audience is losing money.'),
  ('downloads','Reproduce the result',
   'Python Decimal and a separate JavaScript integer-cents calculation agree on every flagged ad and platform subtotal. Download the records and reconciliation to reproduce the result. Adlens makes every rupee explainable.'),
+ ('overview','1475731.79 INR / Fully reconciled',
+  'Thirteen ads. Fourteen lakh, seventy-five thousand, seven hundred thirty-one rupees and seventy-nine paise. Every rupee explained.'),
 ]
 
 def stamp(seconds):

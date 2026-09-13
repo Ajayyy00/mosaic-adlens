@@ -1,0 +1,21 @@
+{
+  "duration_seconds": 115.84,
+  "within_90_120_seconds": true,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "decode_passed": true,
+  "audio_present": true,
+  "video_present": true,
+  "voice": "en-US-AndrewNeural",
+  "narration_disclosure": "AI-generated neural male narration",
+  "srt_cues": 43,
+  "cue_timing_valid": true,
+  "caption_text_matches_transcript": true,
+  "source_visuals": "Real public application screenshots, framed and resized on presentation slides",
+  "human_like_quality": "Neural male presenter voice; subjective naturalness is not objectively certified.",
+  "representative_frames": "frames/check-0.png through frames/check-4.png",
+  "audio_intelligibility": "Independent local Whisper ASR recovered the walkthrough, numerical thresholds, record example and final amount; recognition spelling errors include Adlens and paise.",
+  "representative_frames_visually_inspected": true
+}

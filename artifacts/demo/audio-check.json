@@ -1,0 +1,102 @@
+{
+  "method": "Local faster-whisper tiny.en CPU int8",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": " 800 ads for platforms, which campaigns had enough money and time, but still failed to earn back"
+    },
+    {
+      "start": 5.84,
+      "end": 10.48,
+      "text": " their spend. Adlands turns the official mosaic data set into a traceable answer."
+    },
+    {
+      "start": 11.120000000000001,
+      "end": 14.88,
+      "text": " The complete source is preserved with a download timestamp and checks them."
+    },
+    {
+      "start": 14.88,
+      "end": 21.12,
+      "text": " Every ad retains its platform, audience, creative theme, spend, revenue, and running days."
+    },
+    {
+      "start": 21.12,
+      "end": 26.48,
+      "text": " Nothing is sampled out. An ad qualifies only when return on ad spend is below one."
+    },
+    {
+      "start": 26.56,
+      "end": 32.4,
+      "text": " Spend exceeds 5,000 rupees, and it has run for more than 14 days. All three must pass."
+    },
+    {
+      "start": 32.4,
+      "end": 41.04,
+      "text": " It's full spend counts once. The result, 14 lakh, 75,731 rupees, and 79 pace."
+    },
+    {
+      "start": 41.04,
+      "end": 47.44,
+      "text": " 13 ads qualify. Instagram contributes the most, and the four platform totals reconcile exactly to"
+    },
+    {
+      "start": 47.44,
+      "end": 53.760000000000005,
+      "text": " the answer. The Explorer makes that result practical. Filter by platform, audience, or creative"
+    },
+    {
+      "start": 53.76,
+      "end": 58.96,
+      "text": " theme. Search for an individual ad, sort its performance, and open the evidence behind its"
+    },
+    {
+      "start": 58.96,
+      "end": 65.52,
+      "text": " classification. Take this Instagram ad. It spent roughly one lakh, 39,000 rupees, and earned about"
+    },
+    {
+      "start": 65.52,
+      "end": 73.52,
+      "text": " 95,000. Its reported return is 0.68, over 65 days. All three checks pass, so its full spend"
+    },
+    {
+      "start": 73.52,
+      "end": 79.68,
+      "text": " contributes once. The exact amounts and original source index remain visible. Creative rankings"
+    },
+    {
+      "start": 79.68,
+      "end": 85.36000000000001,
+      "text": " use total revenue divided by total spend. Dr. Trust, lifestyle, and product demo lead."
+    },
+    {
+      "start": 85.36000000000001,
+      "end": 90.56,
+      "text": " These synthetic returns are unusually high, so relative under performance does not automatically mean"
+    },
+    {
+      "start": 90.56,
+      "end": 96.88000000000001,
+      "text": " a whole audience is losing money. Python decimal and a separate JavaScript integer sense calculation"
+    },
+    {
+      "start": 96.88000000000001,
+      "end": 103.44000000000001,
+      "text": " agree on every flagged ad and platform subtotal. Download the records and reconciliation to reproduce"
+    },
+    {
+      "start": 103.44,
+      "end": 114.08,
+      "text": " the result. Adlands makes every rupee explainable. 13 ads, 14 lakh, 75,731 rupees, and 79 pace."
+    },
+    {
+      "start": 114.08,
+      "end": 119.36,
+      "text": " Every rupee explained."
+    }
+  ],
+  "note": "ASR corroborates intelligibility, but is not a human assessment of voice naturalness."
+}

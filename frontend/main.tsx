@@ -594,6 +594,9 @@ function App() {
                       <label>
                         Minimum spend (₹)
                         <input
+                          type="number"
+                          min="0"
+                          step="0.01"
                           inputMode="decimal"
                           value={minimum}
                           onChange={(e) => update(setMinimum, e.target.value)}
@@ -935,6 +938,27 @@ function App() {
               )}
               {view === "downloads" && (
                 <section className="panel download-list">
+                  <div>
+                    <BarChart3 size={25} />
+                    <div>
+                      <h2>Narrated product demo</h2>
+                      <p>
+                        115.84 seconds · HD walkthrough · male neural narration
+                        and burned captions.
+                      </p>
+                      <small>
+                        demo.mp4 · separate SRT and transcript available
+                      </small>
+                    </div>
+                    <a
+                      className="button secondary"
+                      href="/demo/demo.mp4"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Watch demo <ArrowUpRight size={16} />
+                    </a>
+                  </div>
                   {[
                     [
                       "final-result.json",

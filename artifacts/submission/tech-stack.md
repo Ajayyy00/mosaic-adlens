@@ -5,6 +5,6 @@
 - Independent validation: Node.js 22, BigInt, raw JSON numeric-lexeme preservation; node:test.
 - Storage: immutable official JSON and generated static JSON/CSV; no database or runtime backend.
 - Testing: Python unittest, node:test, ESLint, TypeScript compiler, real browser QA through Codex browser tools, HTTP requests.
-- Deployment: static build; Sites/Cloudflare-managed hosting prepared; actual deployment state is in deployment-notes.md. Vercel and Netlify configs also supplied.
+- Deployment: verified public OpenAI Sites / Cloudflare-managed static hosting. Vercel and Netlify configs also supplied.
 - Video: Microsoft Edge neural male voice (en-US-AndrewNeural) through edge-tts, Pillow composition of real browser screenshots, FFmpeg H.264/AAC rendering. Generated voice is disclosed, not represented as a human recording.
 - Source control: Git; public GitHub publication requires authenticated ownership.

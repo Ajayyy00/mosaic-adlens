@@ -16,3 +16,7 @@ artifacts/qa/*.png
 *.log
 artifacts/deploy/
 *.tsbuildinfo
+public/source.git/
+public/demo/demo.mp4
+artifacts/demo/concat.txt
+artifacts/demo/ffmpeg-validation.txt

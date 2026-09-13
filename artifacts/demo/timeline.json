@@ -1,7 +1,7 @@
 {
   "voice": "en-US-AndrewNeural",
   "disclosure": "AI-generated neural male narration",
-  "duration": 107.19999999999999,
+  "duration": 115.79999999999998,
   "scenes": [
     {
       "index": 0,
@@ -82,6 +82,16 @@
       "duration": 14.1,
       "audio_duration": 13.728,
       "audio": "narration-7.mp3"
+    },
+    {
+      "index": 8,
+      "shot": "overview",
+      "title": "1475731.79 INR / Fully reconciled",
+      "text": "Thirteen ads. Fourteen lakh, seventy-five thousand, seven hundred thirty-one rupees and seventy-nine paise. Every rupee explained.",
+      "start": 107.19999999999999,
+      "duration": 8.6,
+      "audio_duration": 8.232,
+      "audio": "narration-8.mp3"
     }
   ],
   "cues": [
@@ -284,6 +294,21 @@
       "start": 105.426375,
       "end": 106.479666,
       "text": "rupee explainable"
+    },
+    {
+      "start": 107.304166,
+      "end": 110.97316599999999,
+      "text": "Thirteen ads Fourteen lakh seventy-five thousand seven"
+    },
+    {
+      "start": 110.98470799999998,
+      "end": 114.28333299999998,
+      "text": "hundred thirty-one rupees and seventy-nine paise Every"
+    },
+    {
+      "start": 114.29491599999999,
+      "end": 115.09349999999999,
+      "text": "rupee explained"
     }
   ]
 }
