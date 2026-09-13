@@ -1,6 +1,7 @@
 """Anonymous production checks: no cookies, credentials or browser session."""
 import csv
 import io
+import hashlib
 import json
 import re
 import sys
@@ -41,6 +42,20 @@ status,_=get('/favicon.svg'); assert status['status']==200
 missing,missing_body=get('/reports/nonexistent-report.json')
 assert missing['status']==404 or (missing['status']==200 and b'id="root"' in missing_body), 'Unknown path returned unexpected content'
 missing['behavior']='HTTP 404' if missing['status']==404 else 'Static host SPA fallback: HTML app shell, not a JSON report'
+media_hashes={
+    'demo.mp4':'2ec56503d093bd26ce4ab299867a57bef95e6bd78322508018335d6c7422314d',
+    'demo.srt':'60a5afee5ec6141141db80168ff8a8df5061b5c6e50f322edf1200bc47f73443',
+    'transcript.txt':'22a1ef5a4034f775ed44f8aff3084a9d48ab9097de9261ec28237fd80ee954ea',
+}
+for media,expected_hash in media_hashes.items():
+    status,body=get('/demo/'+media)
+    status['sha256']=hashlib.sha256(body).hexdigest()
+    assert status['status']==200 and status['sha256']==expected_hash
+    status['matches_pinned_hash']=True
+    local=ROOT/'public/demo'/media
+    if local.exists():
+        assert body==local.read_bytes()
+        status['matches_local']=True
 report={'checked_at':datetime.now(timezone.utc).isoformat(),'base_url':BASE,'status':'PASS','checks':checks,
         'routes':'The five UI views use URL fragments and are verified in real browser QA.'}
 (ROOT/'artifacts/qa').mkdir(exist_ok=True,parents=True)
