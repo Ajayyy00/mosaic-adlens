@@ -2,7 +2,7 @@
 
 A reproducible, auditable solution to the Mosaic Fellowship **Content & Creative** Builder Challenge. Explore all 800 official ads, inspect each threshold and trace the exact answer to 13 qualifying records.
 
-**[Open the verified public application](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site)** — no login required. The demo is available locally and is being added to the public download page.
+**[Open the verified public application](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site)** — no login required. **[Watch the 115.84-second demo](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/demo.mp4)**. **[Public GitHub source](https://github.com/Ajayyy00/mosaic-adlens)**.
 
 **Computed answer: ₹14,75,731.79 (1475731.79).** Python Decimal and an independent JavaScript BigInt implementation agree on every qualifying ID, count and platform subtotal. No private answer-key match is claimed.
 
@@ -99,11 +99,11 @@ The build is a static `dist/` directory. Vercel and Netlify configuration files 
 
 Sites hosting is prepared with `.openai/hosting.json`. `python scripts/prepare_deployment.py` packages only validated build output and its hosting manifest into `artifacts/deploy/site.tar.gz`, without destructive cleanup. A source commit must be pushed to the registered Sites repository before saving and publishing that exact version. Public access and HTTP checks are required before reporting success. The actual URL and hosting result are recorded in deployment notes.
 
-A public GitHub repository is a separate official requirement. An authenticated GitHub browser session is available; source import is being prepared through a public read-only Git endpoint. See deployment notes for the verified repository status. No application is submitted by any script.
+The public GitHub repository is [Ajayyy00/mosaic-adlens](https://github.com/Ajayyy00/mosaic-adlens). Anonymous Git access verified the deployed source commit, and `npm ci` followed by `npm run check` passed in a clean checkout. No application is submitted by any script.
 
 ## Demo
 
-The narrated demo artifacts belong in `artifacts/demo/`: `demo.mp4`, `demo.srt`, and `transcript.txt`. Video rendering additionally needs `edge-tts`, `Pillow`, and `imageio-ffmpeg`. Real browser screenshots are the visual source. See `scripts/make_demo.py` and `artifacts/demo/validation.json` for reproducibility and actual validation results. Generated audio/video and temporary capture files are ignored by Git.
+The narrated demo artifacts are in `artifacts/demo/`: `demo.mp4`, `demo.srt`, and `transcript.txt`. The MP4 is publicly hosted at the demo link above; [captions](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/demo.srt) and [transcript](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/transcript.txt) are also public. Video rendering additionally needs `edge-tts`, `Pillow`, and `imageio-ffmpeg`. Real browser screenshots are the visual source and must be recaptured to render from a fresh checkout. See `scripts/make_demo.py` and `artifacts/demo/validation.json` for actual validation results. Generated audio/video and temporary capture files are ignored by Git. `python scripts/http_check.py` verifies deployed reports and pinned media hashes without requiring a local MP4.
 
 ## Project structure
 
