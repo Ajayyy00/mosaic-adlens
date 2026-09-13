@@ -1,0 +1,63 @@
+{
+  "implementation": "Node.js BigInt, raw official JSON, independent predicates and grouping",
+  "status": "PASS",
+  "source_sha256": "75560e463afcec73fed96bd4c3a4105ef1772f0f3d7c50a43572e6953e752474",
+  "records": 800,
+  "count": 13,
+  "total": "1475731.79",
+  "recomputed_ratio_total": "1475731.79",
+  "duplicate_ids": 0,
+  "identical_repeats": 0,
+  "categories": [
+    {
+      "category": "Google",
+      "count": 5,
+      "amount": "429321.93",
+      "record_ids": [
+        "AD-0030",
+        "AD-0098",
+        "AD-0194",
+        "AD-0214",
+        "AD-0528"
+      ]
+    },
+    {
+      "category": "Instagram",
+      "count": 5,
+      "amount": "576898.53",
+      "record_ids": [
+        "AD-0029",
+        "AD-0140",
+        "AD-0241",
+        "AD-0322",
+        "AD-0536"
+      ]
+    },
+    {
+      "category": "Meta",
+      "count": 1,
+      "amount": "143760.62",
+      "record_ids": [
+        "AD-0683"
+      ]
+    },
+    {
+      "category": "YouTube",
+      "count": 2,
+      "amount": "325750.71",
+      "record_ids": [
+        "AD-0136",
+        "AD-0154"
+      ]
+    }
+  ],
+  "comparisons": [
+    "record count",
+    "flagged count",
+    "all platform counts",
+    "all platform amounts",
+    "all flagged IDs",
+    "grand total"
+  ],
+  "rounding": "All monetary inputs verified to <=2 decimal places; integer cents require no rounding."
+}

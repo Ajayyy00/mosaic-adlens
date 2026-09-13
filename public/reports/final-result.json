@@ -1,0 +1,487 @@
+{
+  "status": "PASS",
+  "answer": "1475731.79",
+  "exact_answer": "1475731.79",
+  "currency": "INR",
+  "records_processed": 800,
+  "valid_records": 800,
+  "flagged_records": 13,
+  "malformed_count": 0,
+  "duplicate_count": 0,
+  "total_spend": "78036687.57",
+  "total_revenue": "7714031865.66",
+  "categories": [
+    {
+      "category": "Google",
+      "count": 5,
+      "amount": "429321.93",
+      "exact_amount": "429321.93",
+      "record_ids": [
+        "AD-0030",
+        "AD-0098",
+        "AD-0194",
+        "AD-0214",
+        "AD-0528"
+      ],
+      "description": "Qualifying wasted spend on Google"
+    },
+    {
+      "category": "Instagram",
+      "count": 5,
+      "amount": "576898.53",
+      "exact_amount": "576898.53",
+      "record_ids": [
+        "AD-0029",
+        "AD-0140",
+        "AD-0241",
+        "AD-0322",
+        "AD-0536"
+      ],
+      "description": "Qualifying wasted spend on Instagram"
+    },
+    {
+      "category": "Meta",
+      "count": 1,
+      "amount": "143760.62",
+      "exact_amount": "143760.62",
+      "record_ids": [
+        "AD-0683"
+      ],
+      "description": "Qualifying wasted spend on Meta"
+    },
+    {
+      "category": "YouTube",
+      "count": 2,
+      "amount": "325750.71",
+      "exact_amount": "325750.71",
+      "record_ids": [
+        "AD-0136",
+        "AD-0154"
+      ],
+      "description": "Qualifying wasted spend on YouTube"
+    }
+  ],
+  "rule": "roas < 1.0 AND spend > 5000 AND days_running > 14",
+  "rank_method": "Weighted ROAS = sum(revenue) / sum(spend); worst ascending, best descending; labels break ties.",
+  "worst_audiences": [
+    {
+      "platform": "Meta",
+      "target_audience": "M 18-24",
+      "count": 30,
+      "spend": "2658221.88",
+      "revenue": "177132767.82",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "66.63580988205544376905061062848523389628"
+    },
+    {
+      "platform": "YouTube",
+      "target_audience": "M 18-24",
+      "count": 23,
+      "spend": "2349241.84",
+      "revenue": "157798726.28",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "67.17006465370972619830404518931946146507"
+    },
+    {
+      "platform": "Google",
+      "target_audience": "F 25-34",
+      "count": 36,
+      "spend": "3489334.03",
+      "revenue": "236747262.88",
+      "wasted_spend": "163085.90",
+      "flagged_count": 2,
+      "weighted_roas": "67.84883901757035281600712787018558954071"
+    }
+  ],
+  "best_themes": [
+    {
+      "creative_theme": "Doctor Trust",
+      "count": 111,
+      "spend": "10907002.42",
+      "revenue": "1336168149.46",
+      "wasted_spend": "257391.93",
+      "flagged_count": 2,
+      "weighted_roas": "122.5055334185944005685844525557554611783"
+    },
+    {
+      "creative_theme": "Lifestyle",
+      "count": 99,
+      "spend": "9371423.79",
+      "revenue": "1031606258.22",
+      "wasted_spend": "139192.58",
+      "flagged_count": 1,
+      "weighted_roas": "110.0799922548375117288341092085005367151"
+    },
+    {
+      "creative_theme": "Product Demo",
+      "count": 92,
+      "spend": "8617886.66",
+      "revenue": "913064940.27",
+      "wasted_spend": "151230.27",
+      "flagged_count": 2,
+      "weighted_roas": "105.9499824368773956467884203991144158306"
+    }
+  ],
+  "audience_groups": [
+    {
+      "platform": "Meta",
+      "target_audience": "M 18-24",
+      "count": 30,
+      "spend": "2658221.88",
+      "revenue": "177132767.82",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "66.63580988205544376905061062848523389628"
+    },
+    {
+      "platform": "YouTube",
+      "target_audience": "M 18-24",
+      "count": 23,
+      "spend": "2349241.84",
+      "revenue": "157798726.28",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "67.17006465370972619830404518931946146507"
+    },
+    {
+      "platform": "Google",
+      "target_audience": "F 25-34",
+      "count": 36,
+      "spend": "3489334.03",
+      "revenue": "236747262.88",
+      "wasted_spend": "163085.90",
+      "flagged_count": 2,
+      "weighted_roas": "67.84883901757035281600712787018558954071"
+    },
+    {
+      "platform": "Meta",
+      "target_audience": "M 35-44",
+      "count": 36,
+      "spend": "4010563.95",
+      "revenue": "287165944.26",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "71.60238506108349176180073129116916337913"
+    },
+    {
+      "platform": "Google",
+      "target_audience": "M 25-34",
+      "count": 44,
+      "spend": "3837304.40",
+      "revenue": "278948087.03",
+      "wasted_spend": "70999.24",
+      "flagged_count": 1,
+      "weighted_roas": "72.69376050281546598179701354940723493294"
+    },
+    {
+      "platform": "YouTube",
+      "target_audience": "F 25-34",
+      "count": 24,
+      "spend": "2270697.74",
+      "revenue": "170720874.04",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "75.18432375768339823159378315142904048515"
+    },
+    {
+      "platform": "Instagram",
+      "target_audience": "M 35-44",
+      "count": 35,
+      "spend": "3687303.53",
+      "revenue": "296561070.91",
+      "wasted_spend": "139192.58",
+      "flagged_count": 1,
+      "weighted_roas": "80.42762644766594520088233690921560775334"
+    },
+    {
+      "platform": "YouTube",
+      "target_audience": "F 35-44",
+      "count": 38,
+      "spend": "3957219.52",
+      "revenue": "325649778.06",
+      "wasted_spend": "186392.69",
+      "flagged_count": 1,
+      "weighted_roas": "82.29257346329879622144388896575543021682"
+    },
+    {
+      "platform": "Google",
+      "target_audience": "M 35-44",
+      "count": 25,
+      "spend": "2551986.36",
+      "revenue": "219418392.95",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "85.97945364802028173849643929915048605511"
+    },
+    {
+      "platform": "Instagram",
+      "target_audience": "M 25-34",
+      "count": 42,
+      "spend": "4109527.34",
+      "revenue": "365404727.84",
+      "wasted_spend": "124817.59",
+      "flagged_count": 1,
+      "weighted_roas": "88.91648542725110571961786729468503791485"
+    },
+    {
+      "platform": "Instagram",
+      "target_audience": "F 18-24",
+      "count": 37,
+      "spend": "3990989.73",
+      "revenue": "356649855.65",
+      "wasted_spend": "134584.56",
+      "flagged_count": 1,
+      "weighted_roas": "89.36376181804907826710944705938895011890"
+    },
+    {
+      "platform": "YouTube",
+      "target_audience": "F 18-24",
+      "count": 28,
+      "spend": "2416083.13",
+      "revenue": "245020564.21",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "101.4123070384585649584002517330601948286"
+    },
+    {
+      "platform": "Meta",
+      "target_audience": "F 25-34",
+      "count": 48,
+      "spend": "5291992.53",
+      "revenue": "543891271.49",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "102.7762734748229132515423259677201396201"
+    },
+    {
+      "platform": "Instagram",
+      "target_audience": "F 25-34",
+      "count": 25,
+      "spend": "2450082.00",
+      "revenue": "257578668.24",
+      "wasted_spend": "89573.47",
+      "flagged_count": 1,
+      "weighted_roas": "105.1306316441653789546635581992765956405"
+    },
+    {
+      "platform": "Google",
+      "target_audience": "F 35-44",
+      "count": 36,
+      "spend": "3437857.48",
+      "revenue": "368874187.94",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "107.2976963373129708681233638574220360060"
+    },
+    {
+      "platform": "YouTube",
+      "target_audience": "M 35-44",
+      "count": 28,
+      "spend": "2498821.42",
+      "revenue": "274903481.05",
+      "wasted_spend": "139358.02",
+      "flagged_count": 1,
+      "weighted_roas": "110.0132561893918773915424496401187404581"
+    },
+    {
+      "platform": "Google",
+      "target_audience": "F 18-24",
+      "count": 32,
+      "spend": "2979059.22",
+      "revenue": "331728125.72",
+      "wasted_spend": "32555.65",
+      "flagged_count": 1,
+      "weighted_roas": "111.3533170112677384103831275969062474696"
+    },
+    {
+      "platform": "Meta",
+      "target_audience": "F 18-24",
+      "count": 38,
+      "spend": "3280759.12",
+      "revenue": "389793962.12",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "118.8121248353033611318590192625906652970"
+    },
+    {
+      "platform": "Meta",
+      "target_audience": "M 25-34",
+      "count": 34,
+      "spend": "2925221.00",
+      "revenue": "351957911.03",
+      "wasted_spend": "143760.62",
+      "flagged_count": 1,
+      "weighted_roas": "120.3184002268546547423254516496360445929"
+    },
+    {
+      "platform": "Meta",
+      "target_audience": "F 35-44",
+      "count": 36,
+      "spend": "3704407.49",
+      "revenue": "445825839.27",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "120.3501073986868545069268283981360808662"
+    },
+    {
+      "platform": "Google",
+      "target_audience": "M 18-24",
+      "count": 30,
+      "spend": "2843858.42",
+      "revenue": "367584518.54",
+      "wasted_spend": "162681.14",
+      "flagged_count": 1,
+      "weighted_roas": "129.2555620754144293863968094445433046558"
+    },
+    {
+      "platform": "YouTube",
+      "target_audience": "M 25-34",
+      "count": 31,
+      "spend": "3152141.66",
+      "revenue": "412113551.88",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "130.7408093708580343435453341903421942020"
+    },
+    {
+      "platform": "Instagram",
+      "target_audience": "M 18-24",
+      "count": 32,
+      "spend": "2819864.72",
+      "revenue": "387994611.36",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "137.5933421940893675211483194839219095588"
+    },
+    {
+      "platform": "Instagram",
+      "target_audience": "F 35-44",
+      "count": 32,
+      "spend": "3324149.06",
+      "revenue": "464567685.09",
+      "wasted_spend": "88730.33",
+      "flagged_count": 1,
+      "weighted_roas": "139.7553709850785090846678217251785935255"
+    }
+  ],
+  "theme_groups": [
+    {
+      "creative_theme": "Doctor Trust",
+      "count": 111,
+      "spend": "10907002.42",
+      "revenue": "1336168149.46",
+      "wasted_spend": "257391.93",
+      "flagged_count": 2,
+      "weighted_roas": "122.5055334185944005685844525557554611783"
+    },
+    {
+      "creative_theme": "Lifestyle",
+      "count": 99,
+      "spend": "9371423.79",
+      "revenue": "1031606258.22",
+      "wasted_spend": "139192.58",
+      "flagged_count": 1,
+      "weighted_roas": "110.0799922548375117288341092085005367151"
+    },
+    {
+      "creative_theme": "Product Demo",
+      "count": 92,
+      "spend": "8617886.66",
+      "revenue": "913064940.27",
+      "wasted_spend": "151230.27",
+      "flagged_count": 2,
+      "weighted_roas": "105.9499824368773956467884203991144158306"
+    },
+    {
+      "creative_theme": "Infographic",
+      "count": 100,
+      "spend": "10237245.51",
+      "revenue": "998587619.02",
+      "wasted_spend": "143760.62",
+      "flagged_count": 1,
+      "weighted_roas": "97.54456099001966789795197556026962959883"
+    },
+    {
+      "creative_theme": "Celebrity Endorsement",
+      "count": 103,
+      "spend": "10195650.07",
+      "revenue": "970549960.20",
+      "wasted_spend": "443171.45",
+      "flagged_count": 4,
+      "weighted_roas": "95.19255305316691787951878972244876191597"
+    },
+    {
+      "creative_theme": "UGC Style",
+      "count": 93,
+      "spend": "8835793.89",
+      "revenue": "816131870.44",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "92.36655818371517038634770598977835595484"
+    },
+    {
+      "creative_theme": "Before/After",
+      "count": 111,
+      "spend": "10325657.95",
+      "revenue": "869905269.32",
+      "wasted_spend": "340984.94",
+      "flagged_count": 3,
+      "weighted_roas": "84.24695777570280642503754445981817555752"
+    },
+    {
+      "creative_theme": "Testimonial",
+      "count": 91,
+      "spend": "9546027.28",
+      "revenue": "778017798.73",
+      "wasted_spend": "0.00",
+      "flagged_count": 0,
+      "weighted_roas": "81.50173636734044615049539225703951686172"
+    }
+  ],
+  "warnings": [
+    {
+      "ad_id": "AD-0207",
+      "kind": "roas_threshold_rounding",
+      "reported_roas": 1,
+      "computed_roas": "0.9953665163338303769908428091809757302425",
+      "changes_final_classification": false
+    }
+  ],
+  "dataset": {
+    "filename": "content_ads.json",
+    "source_url": "https://mosaicfellowship.in/data/content_ads.json",
+    "downloaded_at": "2026-09-13T04:36:25.240490+00:00",
+    "bytes": 486217,
+    "sha256": "75560e463afcec73fed96bd4c3a4105ef1772f0f3d7c50a43572e6953e752474",
+    "row_count": 800,
+    "fields": [
+      "ad_id",
+      "platform",
+      "ad_type",
+      "brand",
+      "category",
+      "target_audience",
+      "creative_theme",
+      "status",
+      "start_date",
+      "days_running",
+      "spend",
+      "impressions",
+      "clicks",
+      "ctr",
+      "conversions",
+      "revenue",
+      "roas",
+      "cpc",
+      "cpa",
+      "creative_score",
+      "landing_page_score",
+      "frequency",
+      "video_completion_rate"
+    ],
+    "official_synthetic_data": true
+  },
+  "generated_at": "2026-09-13T04:50:59.080897+00:00"
+}

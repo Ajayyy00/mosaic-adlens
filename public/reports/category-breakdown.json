@@ -1,0 +1,51 @@
+[
+  {
+    "category": "Google",
+    "count": 5,
+    "amount": "429321.93",
+    "exact_amount": "429321.93",
+    "record_ids": [
+      "AD-0030",
+      "AD-0098",
+      "AD-0194",
+      "AD-0214",
+      "AD-0528"
+    ],
+    "description": "Qualifying wasted spend on Google"
+  },
+  {
+    "category": "Instagram",
+    "count": 5,
+    "amount": "576898.53",
+    "exact_amount": "576898.53",
+    "record_ids": [
+      "AD-0029",
+      "AD-0140",
+      "AD-0241",
+      "AD-0322",
+      "AD-0536"
+    ],
+    "description": "Qualifying wasted spend on Instagram"
+  },
+  {
+    "category": "Meta",
+    "count": 1,
+    "amount": "143760.62",
+    "exact_amount": "143760.62",
+    "record_ids": [
+      "AD-0683"
+    ],
+    "description": "Qualifying wasted spend on Meta"
+  },
+  {
+    "category": "YouTube",
+    "count": 2,
+    "amount": "325750.71",
+    "exact_amount": "325750.71",
+    "record_ids": [
+      "AD-0136",
+      "AD-0154"
+    ],
+    "description": "Qualifying wasted spend on YouTube"
+  }
+]

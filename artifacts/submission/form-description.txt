@@ -1,0 +1,1 @@
+Adlens audits all 800 official Mosaic ads and traces ₹14,75,731.79 in wasted spend to 13 records. Python Decimal and independent JavaScript BigInt calculations agree exactly. Explore filters, per-ad threshold evidence, platform reconciliation, creative rankings and downloadable JSON/CSV reports. Every rupee is counted once and linked to its source.

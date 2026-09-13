@@ -1,0 +1,801 @@
+ad_id,platform,target_audience,creative_theme,status,start_date,days_running,spend,revenue,roas,audit_status,contribution,explanation,source_pointer
+AD-0001,Meta,F 25-34,Celebrity Endorsement,Completed,2025-07-18,37,146875.11,19121965.21,130.19,Not flagged,0.00,Excluded: roas_below_one.,/0
+AD-0002,Instagram,F 35-44,Product Demo,Active,2025-04-02,2,164139.88,75934842.01,462.62,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/1
+AD-0003,Google,M 25-34,Infographic,Active,2025-09-10,72,71406.29,925321.53,12.96,Not flagged,0.00,Excluded: roas_below_one.,/2
+AD-0004,Instagram,M 18-24,Testimonial,Completed,2025-02-07,59,178383.21,15074432.4,84.51,Not flagged,0.00,Excluded: roas_below_one.,/3
+AD-0005,Google,M 18-24,Infographic,Completed,2025-07-19,55,107030.09,6911876.79,64.58,Not flagged,0.00,Excluded: roas_below_one.,/4
+AD-0006,Instagram,M 35-44,Lifestyle,Completed,2025-03-27,25,52301.02,196962.95,3.77,Not flagged,0.00,Excluded: roas_below_one.,/5
+AD-0007,Google,F 35-44,Celebrity Endorsement,Active,2025-02-14,17,35044.11,2225477.27,63.51,Not flagged,0.00,Excluded: roas_below_one.,/6
+AD-0008,Meta,F 35-44,Before/After,Completed,2025-11-05,43,180216.25,11742306.72,65.16,Not flagged,0.00,Excluded: roas_below_one.,/7
+AD-0009,Google,F 35-44,Celebrity Endorsement,Completed,2025-02-07,51,159686.64,1737983.17,10.88,Not flagged,0.00,Excluded: roas_below_one.,/8
+AD-0010,Instagram,F 25-34,Product Demo,Active,2025-05-09,35,35895.31,2798788.66,77.97,Not flagged,0.00,Excluded: roas_below_one.,/9
+AD-0011,YouTube,F 18-24,UGC Style,Active,2025-11-17,10,128133.63,4450973.98,34.74,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/10
+AD-0012,YouTube,F 35-44,Before/After,Active,2025-11-13,74,50051.93,9583970.38,191.48,Not flagged,0.00,Excluded: roas_below_one.,/11
+AD-0013,Instagram,F 18-24,Celebrity Endorsement,Paused,2025-05-25,14,116214.68,9147211.77,78.71,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/12
+AD-0014,Meta,M 35-44,Before/After,Paused,2025-10-11,82,103053.46,283524.12,2.75,Not flagged,0.00,Excluded: roas_below_one.,/13
+AD-0015,Instagram,F 18-24,Doctor Trust,Paused,2025-03-05,53,120014.45,1427462.66,11.89,Not flagged,0.00,Excluded: roas_below_one.,/14
+AD-0016,Instagram,F 25-34,Product Demo,Paused,2025-02-11,28,130071.05,15701903.98,120.72,Not flagged,0.00,Excluded: roas_below_one.,/15
+AD-0017,Instagram,M 18-24,Celebrity Endorsement,Active,2025-03-09,5,124506.18,41291553.84,331.64,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/16
+AD-0018,Meta,M 18-24,Product Demo,Active,2025-01-25,13,48462.6,10764568.34,222.12,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/17
+AD-0019,Meta,M 18-24,Before/After,Active,2025-10-10,59,170114.76,33248267.39,195.45,Not flagged,0.00,Excluded: roas_below_one.,/18
+AD-0020,YouTube,M 25-34,Doctor Trust,Active,2025-08-21,65,160814.02,53409794.83,332.12,Not flagged,0.00,Excluded: roas_below_one.,/19
+AD-0021,Instagram,F 18-24,Before/After,Active,2025-05-14,10,164994.29,2961740.6,17.95,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/20
+AD-0022,Meta,M 35-44,Celebrity Endorsement,Paused,2025-01-11,68,189285.65,28876260.56,152.55,Not flagged,0.00,Excluded: roas_below_one.,/21
+AD-0023,Google,M 25-34,Infographic,Paused,2025-07-11,27,116839.99,737490.63,6.31,Not flagged,0.00,Excluded: roas_below_one.,/22
+AD-0024,YouTube,M 25-34,Testimonial,Paused,2025-09-13,73,135198.78,13170418.45,97.42,Not flagged,0.00,Excluded: roas_below_one.,/23
+AD-0025,YouTube,M 35-44,Testimonial,Active,2025-06-01,34,143983.3,1980606.27,13.76,Not flagged,0.00,Excluded: roas_below_one.,/24
+AD-0026,Instagram,F 25-34,Before/After,Paused,2025-07-07,70,33575.68,3061647.07,91.19,Not flagged,0.00,Excluded: roas_below_one.,/25
+AD-0027,Google,M 25-34,Infographic,Active,2025-11-20,31,53503.65,6190245.59,115.7,Not flagged,0.00,Excluded: roas_below_one.,/26
+AD-0028,Google,M 25-34,Lifestyle,Completed,2025-07-27,69,31328.14,3891041.3,124.2,Not flagged,0.00,Excluded: roas_below_one.,/27
+AD-0029,Instagram,M 35-44,Lifestyle,Paused,2025-11-17,65,139192.58,95216.6,0.68,Wasted spend,139192.58,All three strict thresholds pass; full spend counts once in Instagram.,/28
+AD-0030,Google,M 18-24,Before/After,Active,2025-07-28,21,162681.14,140391.58,0.86,Wasted spend,162681.14,All three strict thresholds pass; full spend counts once in Google.,/29
+AD-0031,Google,M 35-44,Infographic,Paused,2025-04-11,53,142219.74,3216010.55,22.61,Not flagged,0.00,Excluded: roas_below_one.,/30
+AD-0032,YouTube,M 25-34,Product Demo,Paused,2025-04-18,30,175667.97,14530804.24,82.72,Not flagged,0.00,Excluded: roas_below_one.,/31
+AD-0033,Meta,M 35-44,Product Demo,Active,2025-05-08,1,161714.08,7214339.03,44.61,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/32
+AD-0034,Google,M 35-44,Infographic,Paused,2025-10-07,24,98927.03,5469070.35,55.28,Not flagged,0.00,Excluded: roas_below_one.,/33
+AD-0035,Meta,M 25-34,Product Demo,Active,2025-06-22,65,131746.04,43316405.16,328.79,Not flagged,0.00,Excluded: roas_below_one.,/34
+AD-0036,Meta,F 35-44,Celebrity Endorsement,Paused,2025-11-20,14,141137.73,3472551.37,24.6,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/35
+AD-0037,Meta,M 35-44,UGC Style,Completed,2025-08-06,3,77766.83,6277657.94,80.72,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/36
+AD-0038,Instagram,M 35-44,Celebrity Endorsement,Completed,2025-10-22,10,90873.52,1495683.66,16.46,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/37
+AD-0039,Google,M 35-44,Celebrity Endorsement,Completed,2025-06-17,25,146084.64,6157886.48,42.15,Not flagged,0.00,Excluded: roas_below_one.,/38
+AD-0040,YouTube,M 35-44,Infographic,Completed,2025-02-19,36,32681.76,3558534.57,108.88,Not flagged,0.00,Excluded: roas_below_one.,/39
+AD-0041,Meta,F 25-34,Testimonial,Active,2025-11-24,85,54108.22,4518173.43,83.5,Not flagged,0.00,Excluded: roas_below_one.,/40
+AD-0042,Instagram,M 25-34,Product Demo,Active,2025-11-03,80,77039.13,808774.32,10.5,Not flagged,0.00,Excluded: roas_below_one.,/41
+AD-0043,YouTube,F 18-24,Product Demo,Active,2025-08-03,27,76825.84,415597.3,5.41,Not flagged,0.00,Excluded: roas_below_one.,/42
+AD-0044,Instagram,F 18-24,UGC Style,Active,2025-09-08,74,34770.39,161564.68,4.65,Not flagged,0.00,Excluded: roas_below_one.,/43
+AD-0045,Meta,F 18-24,Doctor Trust,Completed,2025-02-05,6,122367.42,27869285.56,227.75,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/44
+AD-0046,Meta,M 18-24,Doctor Trust,Completed,2025-02-16,65,27141.39,907505.72,33.44,Not flagged,0.00,Excluded: roas_below_one.,/45
+AD-0047,Meta,F 18-24,Lifestyle,Completed,2025-09-17,71,44802.8,3044636.12,67.96,Not flagged,0.00,Excluded: roas_below_one.,/46
+AD-0048,Meta,M 18-24,Before/After,Active,2025-01-08,17,1711.67,16505.21,9.64,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/47
+AD-0049,YouTube,F 25-34,Lifestyle,Paused,2025-08-22,70,26754.18,6908452.52,258.22,Not flagged,0.00,Excluded: roas_below_one.,/48
+AD-0050,Meta,M 18-24,Doctor Trust,Paused,2025-04-09,71,111898.41,156165.22,1.4,Not flagged,0.00,Excluded: roas_below_one.,/49
+AD-0051,Google,F 35-44,Testimonial,Active,2025-09-10,24,33335.93,1434352.08,43.03,Not flagged,0.00,Excluded: roas_below_one.,/50
+AD-0052,Meta,M 18-24,Product Demo,Paused,2025-03-28,62,158984.18,1893748.67,11.91,Not flagged,0.00,Excluded: roas_below_one.,/51
+AD-0053,Google,F 35-44,Before/After,Paused,2025-04-07,51,39625.73,1214766.55,30.66,Not flagged,0.00,Excluded: roas_below_one.,/52
+AD-0054,Instagram,F 18-24,Testimonial,Paused,2025-09-27,28,4987.82,394149.99,79.02,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/53
+AD-0055,Instagram,F 18-24,Before/After,Active,2025-07-26,86,113432.7,5220694.24,46.02,Not flagged,0.00,Excluded: roas_below_one.,/54
+AD-0056,Google,F 35-44,Lifestyle,Completed,2025-05-19,1,56876.87,102652.16,1.8,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/55
+AD-0057,Meta,F 25-34,UGC Style,Active,2025-07-07,1,67005.35,4383244.08,65.42,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/56
+AD-0058,YouTube,M 25-34,Before/After,Completed,2025-02-17,87,141706.52,2447549.63,17.27,Not flagged,0.00,Excluded: roas_below_one.,/57
+AD-0059,Google,M 25-34,Infographic,Active,2025-07-02,6,108398.09,19863748.28,183.25,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/58
+AD-0060,Google,F 25-34,Doctor Trust,Active,2025-08-14,79,100482.42,9245834.44,92.01,Not flagged,0.00,Excluded: roas_below_one.,/59
+AD-0061,Meta,F 25-34,Lifestyle,Completed,2025-02-25,36,174524.1,37536379.76,215.08,Not flagged,0.00,Excluded: roas_below_one.,/60
+AD-0062,Google,F 25-34,Celebrity Endorsement,Active,2025-07-15,40,4580.7,65172.78,14.23,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/61
+AD-0063,Instagram,F 18-24,Product Demo,Active,2025-11-18,65,92359.93,9014173.2,97.6,Not flagged,0.00,Excluded: roas_below_one.,/62
+AD-0064,Meta,F 18-24,Before/After,Completed,2025-05-08,75,110023.99,23498475.26,213.58,Not flagged,0.00,Excluded: roas_below_one.,/63
+AD-0065,Meta,F 25-34,Testimonial,Completed,2025-05-21,67,92794.99,16668059.27,179.62,Not flagged,0.00,Excluded: roas_below_one.,/64
+AD-0066,Instagram,M 35-44,Before/After,Completed,2025-04-17,8,160487.67,22473744.16,140.03,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/65
+AD-0067,YouTube,F 35-44,Product Demo,Paused,2025-09-08,6,82457.51,29165.04,0.35,Not flagged,0.00,Excluded: running_over_14_days.,/66
+AD-0068,Google,M 25-34,Lifestyle,Paused,2025-01-02,8,34633.84,17083539.48,493.26,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/67
+AD-0069,Instagram,F 18-24,Before/After,Paused,2025-02-07,1,43037.77,187977.7,4.37,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/68
+AD-0070,Meta,F 18-24,Infographic,Active,2025-03-08,1,165286.86,20286452.78,122.73,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/69
+AD-0071,YouTube,M 35-44,Testimonial,Active,2025-11-08,84,131806.87,6015509.43,45.64,Not flagged,0.00,Excluded: roas_below_one.,/70
+AD-0072,YouTube,M 35-44,Doctor Trust,Active,2025-04-16,14,199998.91,33468193.88,167.34,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/71
+AD-0073,Google,M 35-44,Infographic,Paused,2025-01-23,73,180496.03,66267168.5,367.14,Not flagged,0.00,Excluded: roas_below_one.,/72
+AD-0074,YouTube,F 25-34,Celebrity Endorsement,Active,2025-10-02,37,1804.46,66532.07,36.87,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/73
+AD-0075,Instagram,F 35-44,Celebrity Endorsement,Completed,2025-10-07,18,170374.74,2441216.38,14.33,Not flagged,0.00,Excluded: roas_below_one.,/74
+AD-0076,Meta,F 35-44,Infographic,Completed,2025-11-21,36,142070.75,19045006.21,134.05,Not flagged,0.00,Excluded: roas_below_one.,/75
+AD-0077,Meta,M 25-34,Product Demo,Active,2025-04-14,80,27118.66,2550588.13,94.05,Not flagged,0.00,Excluded: roas_below_one.,/76
+AD-0078,Meta,F 25-34,Celebrity Endorsement,Paused,2025-01-21,35,161481.6,1300626.8,8.05,Not flagged,0.00,Excluded: roas_below_one.,/77
+AD-0079,Google,F 35-44,Before/After,Active,2025-09-17,19,124894.69,2952423.05,23.64,Not flagged,0.00,Excluded: roas_below_one.,/78
+AD-0080,YouTube,M 35-44,Before/After,Active,2025-07-25,40,129587.87,5676181.29,43.8,Not flagged,0.00,Excluded: roas_below_one.,/79
+AD-0081,Google,M 25-34,Testimonial,Active,2025-09-21,51,198660.54,1552284.9,7.81,Not flagged,0.00,Excluded: roas_below_one.,/80
+AD-0082,YouTube,M 18-24,Lifestyle,Paused,2025-11-24,37,100793.82,1383792.07,13.73,Not flagged,0.00,Excluded: roas_below_one.,/81
+AD-0083,Meta,M 35-44,UGC Style,Completed,2025-09-24,81,189407.2,4420439.84,23.34,Not flagged,0.00,Excluded: roas_below_one.,/82
+AD-0084,Meta,M 25-34,Doctor Trust,Paused,2025-09-07,6,63022.65,1424154.79,22.6,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/83
+AD-0085,Meta,F 18-24,Celebrity Endorsement,Active,2025-09-18,75,78211.81,1904456.41,24.35,Not flagged,0.00,Excluded: roas_below_one.,/84
+AD-0086,Instagram,F 35-44,Celebrity Endorsement,Completed,2025-05-16,47,189814.28,9826301.58,51.77,Not flagged,0.00,Excluded: roas_below_one.,/85
+AD-0087,Instagram,M 25-34,Lifestyle,Paused,2025-07-14,80,109873.59,1473066.73,13.41,Not flagged,0.00,Excluded: roas_below_one.,/86
+AD-0088,Google,M 35-44,Lifestyle,Completed,2025-11-01,30,2899.55,57576.11,19.86,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/87
+AD-0089,YouTube,M 25-34,Product Demo,Active,2025-09-04,65,187968.21,8749365.81,46.55,Not flagged,0.00,Excluded: roas_below_one.,/88
+AD-0090,Instagram,M 35-44,Lifestyle,Paused,2025-07-04,17,79951.36,4925091.34,61.6,Not flagged,0.00,Excluded: roas_below_one.,/89
+AD-0091,Meta,F 25-34,Lifestyle,Paused,2025-04-14,5,120595.9,1856641.76,15.4,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/90
+AD-0092,Meta,F 18-24,UGC Style,Paused,2025-10-13,45,71986.98,11793003.31,163.82,Not flagged,0.00,Excluded: roas_below_one.,/91
+AD-0093,Google,F 35-44,Before/After,Paused,2025-03-21,43,32626.1,4759272.63,145.87,Not flagged,0.00,Excluded: roas_below_one.,/92
+AD-0094,YouTube,M 25-34,Infographic,Paused,2025-04-20,48,121931.18,1532784.66,12.57,Not flagged,0.00,Excluded: roas_below_one.,/93
+AD-0095,Instagram,M 35-44,Product Demo,Active,2025-05-03,13,9401.25,7455252.09,793.01,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/94
+AD-0096,Instagram,F 25-34,Testimonial,Paused,2025-10-02,56,48509.12,2493220.88,51.4,Not flagged,0.00,Excluded: roas_below_one.,/95
+AD-0097,Meta,F 18-24,Doctor Trust,Paused,2025-03-23,60,78250.07,406537.07,5.2,Not flagged,0.00,Excluded: roas_below_one.,/96
+AD-0098,Google,M 25-34,Doctor Trust,Completed,2025-04-26,69,70999.24,49734.98,0.7,Wasted spend,70999.24,All three strict thresholds pass; full spend counts once in Google.,/97
+AD-0099,Google,M 18-24,Lifestyle,Completed,2025-11-17,62,183436.76,68071923.85,371.09,Not flagged,0.00,Excluded: roas_below_one.,/98
+AD-0100,Google,F 35-44,Celebrity Endorsement,Active,2025-08-10,75,57010.5,335539.43,5.89,Not flagged,0.00,Excluded: roas_below_one.,/99
+AD-0101,Google,F 25-34,Product Demo,Completed,2025-03-04,51,35846.68,30779399.27,858.64,Not flagged,0.00,Excluded: roas_below_one.,/100
+AD-0102,Meta,M 18-24,Product Demo,Active,2025-05-12,23,154190.01,21667901.15,140.53,Not flagged,0.00,Excluded: roas_below_one.,/101
+AD-0103,Instagram,F 25-34,Lifestyle,Paused,2025-02-16,20,62532.01,27362847.9,437.58,Not flagged,0.00,Excluded: roas_below_one.,/102
+AD-0104,Meta,M 18-24,Infographic,Paused,2025-09-04,68,18215.78,3542300.21,194.46,Not flagged,0.00,Excluded: roas_below_one.,/103
+AD-0105,Google,F 25-34,UGC Style,Active,2025-09-24,8,88283.1,1380950.93,15.64,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/104
+AD-0106,Meta,M 35-44,Testimonial,Completed,2025-01-23,45,64323.1,366312.27,5.69,Not flagged,0.00,Excluded: roas_below_one.,/105
+AD-0107,YouTube,M 25-34,Product Demo,Active,2025-04-02,62,181645.27,43728688.17,240.74,Not flagged,0.00,Excluded: roas_below_one.,/106
+AD-0108,Instagram,M 18-24,Lifestyle,Paused,2025-10-26,25,52156.56,23972021.44,459.62,Not flagged,0.00,Excluded: roas_below_one.,/107
+AD-0109,Meta,M 35-44,UGC Style,Paused,2025-04-02,72,161358.95,760237.07,4.71,Not flagged,0.00,Excluded: roas_below_one.,/108
+AD-0110,Google,F 25-34,Lifestyle,Completed,2025-08-24,44,1634.75,9704.43,5.94,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/109
+AD-0111,Google,F 18-24,Testimonial,Active,2025-11-08,13,153404.98,16846266.88,109.82,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/110
+AD-0112,Google,M 25-34,UGC Style,Paused,2025-04-10,71,83460.07,2534874.05,30.37,Not flagged,0.00,Excluded: roas_below_one.,/111
+AD-0113,Instagram,M 35-44,UGC Style,Paused,2025-07-27,63,15044.6,345254.84,22.95,Not flagged,0.00,Excluded: roas_below_one.,/112
+AD-0114,Google,F 18-24,Doctor Trust,Active,2025-10-15,54,78055.62,9774405.51,125.22,Not flagged,0.00,Excluded: roas_below_one.,/113
+AD-0115,Google,F 25-34,Lifestyle,Completed,2025-02-13,58,74489.57,336261.83,4.51,Not flagged,0.00,Excluded: roas_below_one.,/114
+AD-0116,Meta,M 35-44,Celebrity Endorsement,Active,2025-06-24,23,93404.94,448585.34,4.8,Not flagged,0.00,Excluded: roas_below_one.,/115
+AD-0117,YouTube,F 18-24,Testimonial,Paused,2025-09-07,27,88793.54,1166316.59,13.14,Not flagged,0.00,Excluded: roas_below_one.,/116
+AD-0118,Google,F 35-44,Celebrity Endorsement,Completed,2025-03-11,40,116296.77,1299122.13,11.17,Not flagged,0.00,Excluded: roas_below_one.,/117
+AD-0119,Meta,M 25-34,UGC Style,Completed,2025-02-01,86,93938.61,5237850.51,55.76,Not flagged,0.00,Excluded: roas_below_one.,/118
+AD-0120,Google,M 18-24,UGC Style,Completed,2025-04-23,88,177345.45,23466372.66,132.32,Not flagged,0.00,Excluded: roas_below_one.,/119
+AD-0121,Instagram,F 25-34,Lifestyle,Paused,2025-03-26,35,98013.81,2154389.81,21.98,Not flagged,0.00,Excluded: roas_below_one.,/120
+AD-0122,Meta,F 18-24,Infographic,Paused,2025-09-13,49,43835.11,7780839.72,177.5,Not flagged,0.00,Excluded: roas_below_one.,/121
+AD-0123,YouTube,M 18-24,Infographic,Completed,2025-08-22,10,121050.68,32894792.42,271.74,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/122
+AD-0124,Google,F 25-34,UGC Style,Paused,2025-02-04,71,73571.27,3661985.68,49.77,Not flagged,0.00,Excluded: roas_below_one.,/123
+AD-0125,Meta,F 18-24,Infographic,Active,2025-09-22,69,14225.34,1966102.11,138.21,Not flagged,0.00,Excluded: roas_below_one.,/124
+AD-0126,Meta,M 18-24,Celebrity Endorsement,Completed,2025-05-08,67,11377.81,362736.62,31.88,Not flagged,0.00,Excluded: roas_below_one.,/125
+AD-0127,Meta,M 25-34,Celebrity Endorsement,Active,2025-11-16,4,70801.03,3578037.89,50.54,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/126
+AD-0128,Meta,F 18-24,Lifestyle,Completed,2025-06-07,6,92467.76,26979415.03,291.77,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/127
+AD-0129,Google,M 18-24,Lifestyle,Completed,2025-07-01,4,162936.5,51087391.43,313.54,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/128
+AD-0130,Meta,M 25-34,Lifestyle,Completed,2025-01-25,72,23466.22,2026696.07,86.37,Not flagged,0.00,Excluded: roas_below_one.,/129
+AD-0131,YouTube,F 18-24,Infographic,Paused,2025-09-25,33,132634.84,20029445.66,151.01,Not flagged,0.00,Excluded: roas_below_one.,/130
+AD-0132,Meta,F 18-24,Before/After,Active,2025-06-07,67,28128.5,2680350.75,95.29,Not flagged,0.00,Excluded: roas_below_one.,/131
+AD-0133,Meta,M 25-34,Testimonial,Completed,2025-10-22,59,113617.19,3533811.71,31.1,Not flagged,0.00,Excluded: roas_below_one.,/132
+AD-0134,Google,M 25-34,UGC Style,Active,2025-07-11,50,130067.39,10865460.41,83.54,Not flagged,0.00,Excluded: roas_below_one.,/133
+AD-0135,YouTube,F 25-34,Lifestyle,Active,2025-01-21,70,67560.46,2878288.17,42.6,Not flagged,0.00,Excluded: roas_below_one.,/134
+AD-0136,YouTube,M 35-44,Celebrity Endorsement,Active,2025-06-02,42,139358.02,132162.29,0.95,Wasted spend,139358.02,All three strict thresholds pass; full spend counts once in YouTube.,/135
+AD-0137,YouTube,M 25-34,UGC Style,Paused,2025-01-09,76,136910.26,82981350.6,606.1,Not flagged,0.00,Excluded: roas_below_one.,/136
+AD-0138,YouTube,F 18-24,Infographic,Active,2025-02-24,57,107010.55,5196391.69,48.56,Not flagged,0.00,Excluded: roas_below_one.,/137
+AD-0139,Meta,F 35-44,Infographic,Completed,2025-06-17,15,45052.22,1405858.4,31.21,Not flagged,0.00,Excluded: roas_below_one.,/138
+AD-0140,Instagram,F 35-44,Before/After,Paused,2025-01-25,83,88730.33,23531.69,0.27,Wasted spend,88730.33,All three strict thresholds pass; full spend counts once in Instagram.,/139
+AD-0141,Meta,M 35-44,Product Demo,Paused,2025-02-05,77,121754.79,15437569.01,126.79,Not flagged,0.00,Excluded: roas_below_one.,/140
+AD-0142,Instagram,F 18-24,Doctor Trust,Paused,2025-01-18,16,98589.99,13996625.55,141.97,Not flagged,0.00,Excluded: roas_below_one.,/141
+AD-0143,Instagram,F 35-44,Before/After,Active,2025-03-01,12,28014.79,466521.64,16.65,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/142
+AD-0144,Google,F 25-34,Infographic,Paused,2025-05-10,21,119666.63,5357922.33,44.77,Not flagged,0.00,Excluded: roas_below_one.,/143
+AD-0145,Meta,M 35-44,Testimonial,Completed,2025-10-09,84,100596.54,1982766.71,19.71,Not flagged,0.00,Excluded: roas_below_one.,/144
+AD-0146,Instagram,F 35-44,Lifestyle,Active,2025-06-10,20,154262.2,10839302.55,70.27,Not flagged,0.00,Excluded: roas_below_one.,/145
+AD-0147,Meta,F 35-44,Infographic,Active,2025-01-20,12,196292.88,4040211.54,20.58,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/146
+AD-0148,Meta,M 25-34,Product Demo,Completed,2025-04-15,21,79980.68,13403680.67,167.59,Not flagged,0.00,Excluded: roas_below_one.,/147
+AD-0149,Meta,F 35-44,Doctor Trust,Paused,2025-01-26,29,180690.55,16075277.66,88.97,Not flagged,0.00,Excluded: roas_below_one.,/148
+AD-0150,Meta,F 35-44,Doctor Trust,Paused,2025-09-11,52,190447.2,568289.61,2.98,Not flagged,0.00,Excluded: roas_below_one.,/149
+AD-0151,Google,F 25-34,Doctor Trust,Active,2025-09-08,63,165600.72,12485940.1,75.4,Not flagged,0.00,Excluded: roas_below_one.,/150
+AD-0152,Meta,M 25-34,Product Demo,Active,2025-10-15,69,117579.81,29084130.89,247.36,Not flagged,0.00,Excluded: roas_below_one.,/151
+AD-0153,YouTube,M 25-34,Before/After,Active,2025-01-03,80,52134.67,13638448.1,261.6,Not flagged,0.00,Excluded: roas_below_one.,/152
+AD-0154,YouTube,F 35-44,Doctor Trust,Completed,2025-08-10,46,186392.69,170941.25,0.92,Wasted spend,186392.69,All three strict thresholds pass; full spend counts once in YouTube.,/153
+AD-0155,YouTube,M 25-34,Infographic,Active,2025-01-22,25,88488.51,10982534.92,124.11,Not flagged,0.00,Excluded: roas_below_one.,/154
+AD-0156,Instagram,M 25-34,Before/After,Completed,2025-05-02,4,162930.17,676933,4.15,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/155
+AD-0157,Meta,F 18-24,Doctor Trust,Paused,2025-08-28,20,184543.78,33739720.2,182.83,Not flagged,0.00,Excluded: roas_below_one.,/156
+AD-0158,Instagram,M 18-24,Before/After,Paused,2025-04-23,77,182128.5,6421613.01,35.26,Not flagged,0.00,Excluded: roas_below_one.,/157
+AD-0159,Google,F 35-44,Lifestyle,Paused,2025-04-13,46,141796.43,17261324.3,121.73,Not flagged,0.00,Excluded: roas_below_one.,/158
+AD-0160,Instagram,M 18-24,Infographic,Active,2025-11-06,34,63351.89,6459116.6,101.96,Not flagged,0.00,Excluded: roas_below_one.,/159
+AD-0161,Meta,F 25-34,Doctor Trust,Active,2025-08-15,74,121696.54,9429700.59,77.49,Not flagged,0.00,Excluded: roas_below_one.,/160
+AD-0162,Meta,F 35-44,Testimonial,Paused,2025-10-28,44,66214.64,1804331.78,27.25,Not flagged,0.00,Excluded: roas_below_one.,/161
+AD-0163,YouTube,F 35-44,UGC Style,Paused,2025-05-09,21,90195.28,1184155.15,13.13,Not flagged,0.00,Excluded: roas_below_one.,/162
+AD-0164,Instagram,F 35-44,Celebrity Endorsement,Completed,2025-11-04,62,150137.7,12229692.77,81.46,Not flagged,0.00,Excluded: roas_below_one.,/163
+AD-0165,Instagram,F 18-24,Testimonial,Completed,2025-06-08,64,76840.99,6897464.35,89.76,Not flagged,0.00,Excluded: roas_below_one.,/164
+AD-0166,Instagram,M 35-44,Infographic,Completed,2025-03-13,62,152031.03,18809711.28,123.72,Not flagged,0.00,Excluded: roas_below_one.,/165
+AD-0167,Instagram,M 25-34,Doctor Trust,Paused,2025-08-21,13,17442.36,838707.79,48.08,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/166
+AD-0168,Google,F 25-34,Lifestyle,Active,2025-01-02,44,158491.5,5415785.42,34.17,Not flagged,0.00,Excluded: roas_below_one.,/167
+AD-0169,YouTube,F 18-24,Product Demo,Active,2025-10-25,49,2088.04,95267.88,45.63,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/168
+AD-0170,Meta,M 18-24,Celebrity Endorsement,Active,2025-10-13,88,10454.59,285174.72,27.28,Not flagged,0.00,Excluded: roas_below_one.,/169
+AD-0171,Google,M 25-34,Doctor Trust,Paused,2025-03-04,65,73047.39,6897689.15,94.43,Not flagged,0.00,Excluded: roas_below_one.,/170
+AD-0172,YouTube,F 18-24,Doctor Trust,Completed,2025-08-26,31,23732.36,1976029.34,83.26,Not flagged,0.00,Excluded: roas_below_one.,/171
+AD-0173,Meta,F 35-44,Lifestyle,Completed,2025-08-14,42,61444.38,10175903.04,165.61,Not flagged,0.00,Excluded: roas_below_one.,/172
+AD-0174,Meta,F 25-34,UGC Style,Completed,2025-10-08,24,62590.66,16337224.78,261.02,Not flagged,0.00,Excluded: roas_below_one.,/173
+AD-0175,Google,F 35-44,Testimonial,Paused,2025-04-08,63,81733.36,17162712.59,209.98,Not flagged,0.00,Excluded: roas_below_one.,/174
+AD-0176,Meta,F 18-24,Doctor Trust,Paused,2025-08-23,29,80767.1,7055971.53,87.36,Not flagged,0.00,Excluded: roas_below_one.,/175
+AD-0177,Meta,M 18-24,UGC Style,Active,2025-09-27,55,98217.72,2741255.4,27.91,Not flagged,0.00,Excluded: roas_below_one.,/176
+AD-0178,Meta,F 18-24,Testimonial,Completed,2025-05-26,79,70533.03,13538106.27,191.94,Not flagged,0.00,Excluded: roas_below_one.,/177
+AD-0179,Meta,F 25-34,Lifestyle,Completed,2025-11-20,74,125955.34,14857771.46,117.96,Not flagged,0.00,Excluded: roas_below_one.,/178
+AD-0180,Meta,F 18-24,Celebrity Endorsement,Active,2025-06-04,51,7003.76,502419.18,71.74,Not flagged,0.00,Excluded: roas_below_one.,/179
+AD-0181,Google,F 25-34,Celebrity Endorsement,Completed,2025-09-16,41,132783.93,5188361.66,39.07,Not flagged,0.00,Excluded: roas_below_one.,/180
+AD-0182,Google,M 18-24,Celebrity Endorsement,Paused,2025-10-24,15,65591.32,1917871.94,29.24,Not flagged,0.00,Excluded: roas_below_one.,/181
+AD-0183,Meta,F 25-34,Product Demo,Completed,2025-08-09,59,96825.93,4772218.42,49.29,Not flagged,0.00,Excluded: roas_below_one.,/182
+AD-0184,Instagram,F 18-24,Doctor Trust,Completed,2025-08-10,20,197038.93,61074787.21,309.96,Not flagged,0.00,Excluded: roas_below_one.,/183
+AD-0185,Google,F 35-44,Lifestyle,Paused,2025-02-26,62,181047.52,8549162.72,47.22,Not flagged,0.00,Excluded: roas_below_one.,/184
+AD-0186,Instagram,F 35-44,Celebrity Endorsement,Active,2025-01-24,30,195710.09,5415101.32,27.67,Not flagged,0.00,Excluded: roas_below_one.,/185
+AD-0187,Google,F 25-34,Before/After,Active,2025-05-09,28,196026.63,3167881.94,16.16,Not flagged,0.00,Excluded: roas_below_one.,/186
+AD-0188,Meta,F 25-34,Product Demo,Paused,2025-07-23,33,132449.69,11092977.37,83.75,Not flagged,0.00,Excluded: roas_below_one.,/187
+AD-0189,Google,F 35-44,Celebrity Endorsement,Paused,2025-07-21,55,104738.89,2079717.77,19.86,Not flagged,0.00,Excluded: roas_below_one.,/188
+AD-0190,Instagram,F 25-34,Testimonial,Completed,2025-06-08,5,51056.3,18514.06,0.36,Not flagged,0.00,Excluded: running_over_14_days.,/189
+AD-0191,YouTube,F 35-44,Lifestyle,Paused,2025-01-03,80,108273.42,4078298.73,37.67,Not flagged,0.00,Excluded: roas_below_one.,/190
+AD-0192,Instagram,M 25-34,Testimonial,Completed,2025-10-28,85,119756.69,5447987.36,45.49,Not flagged,0.00,Excluded: roas_below_one.,/191
+AD-0193,YouTube,M 25-34,Testimonial,Active,2025-01-15,85,68130.37,3964622.48,58.19,Not flagged,0.00,Excluded: roas_below_one.,/192
+AD-0194,Google,F 25-34,Celebrity Endorsement,Active,2025-10-22,55,44411.28,3659.34,0.08,Wasted spend,44411.28,All three strict thresholds pass; full spend counts once in Google.,/193
+AD-0195,Google,F 25-34,Doctor Trust,Completed,2025-07-07,29,74275.02,4496344.2,60.54,Not flagged,0.00,Excluded: roas_below_one.,/194
+AD-0196,Instagram,M 25-34,Product Demo,Completed,2025-09-01,35,51150.87,123758.89,2.42,Not flagged,0.00,Excluded: roas_below_one.,/195
+AD-0197,Google,F 35-44,Doctor Trust,Completed,2025-09-10,10,109790.24,8360448.51,76.15,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/196
+AD-0198,Meta,F 25-34,Celebrity Endorsement,Completed,2025-04-18,20,107623.55,5360548.16,49.81,Not flagged,0.00,Excluded: roas_below_one.,/197
+AD-0199,Meta,F 35-44,Lifestyle,Active,2025-08-21,16,188763.65,34502694.64,182.78,Not flagged,0.00,Excluded: roas_below_one.,/198
+AD-0200,Meta,M 18-24,Lifestyle,Completed,2025-02-28,58,129029.64,2234509.1,17.32,Not flagged,0.00,Excluded: roas_below_one.,/199
+AD-0201,Google,F 18-24,Infographic,Paused,2025-02-13,86,106525.91,2644491.08,24.82,Not flagged,0.00,Excluded: roas_below_one.,/200
+AD-0202,Google,M 35-44,Testimonial,Completed,2025-11-14,81,18682.84,1410011.75,75.47,Not flagged,0.00,Excluded: roas_below_one.,/201
+AD-0203,Google,M 25-34,Doctor Trust,Active,2025-06-19,21,27141.58,8324877.08,306.72,Not flagged,0.00,Excluded: roas_below_one.,/202
+AD-0204,Google,F 35-44,Lifestyle,Paused,2025-03-21,17,104292.41,191380.86,1.84,Not flagged,0.00,Excluded: roas_below_one.,/203
+AD-0205,Meta,M 25-34,Celebrity Endorsement,Paused,2025-08-23,69,34420.13,13453343.3,390.86,Not flagged,0.00,Excluded: roas_below_one.,/204
+AD-0206,Google,F 18-24,Before/After,Paused,2025-11-27,23,27456.98,192315.45,7,Not flagged,0.00,Excluded: roas_below_one.,/205
+AD-0207,YouTube,M 18-24,Testimonial,Completed,2025-06-07,8,52470.24,52227.12,1,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/206
+AD-0208,Instagram,M 25-34,Before/After,Active,2025-09-17,60,136909.96,87017705.64,635.58,Not flagged,0.00,Excluded: roas_below_one.,/207
+AD-0209,Meta,F 25-34,Before/After,Active,2025-03-13,65,14275.82,484410.48,33.93,Not flagged,0.00,Excluded: roas_below_one.,/208
+AD-0210,YouTube,F 18-24,Infographic,Completed,2025-05-21,80,19442.28,4301430.3,221.24,Not flagged,0.00,Excluded: roas_below_one.,/209
+AD-0211,YouTube,M 18-24,Before/After,Active,2025-08-23,20,53603.04,1525184.86,28.45,Not flagged,0.00,Excluded: roas_below_one.,/210
+AD-0212,YouTube,F 25-34,Doctor Trust,Active,2025-05-04,85,68305.13,8205845.53,120.14,Not flagged,0.00,Excluded: roas_below_one.,/211
+AD-0213,Google,M 25-34,Doctor Trust,Completed,2025-11-10,23,40793.17,9881768.68,242.24,Not flagged,0.00,Excluded: roas_below_one.,/212
+AD-0214,Google,F 18-24,Product Demo,Completed,2025-05-13,26,32555.65,28017.88,0.86,Wasted spend,32555.65,All three strict thresholds pass; full spend counts once in Google.,/213
+AD-0215,Meta,F 25-34,Doctor Trust,Paused,2025-03-09,3,125701.99,13665708.75,108.72,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/214
+AD-0216,Google,F 35-44,Testimonial,Active,2025-01-28,50,198674.97,36545506.43,183.95,Not flagged,0.00,Excluded: roas_below_one.,/215
+AD-0217,Google,F 35-44,Lifestyle,Paused,2025-05-11,43,88090.16,1296338.52,14.72,Not flagged,0.00,Excluded: roas_below_one.,/216
+AD-0218,Meta,M 35-44,UGC Style,Paused,2025-08-17,39,24167.73,2547444.51,105.41,Not flagged,0.00,Excluded: roas_below_one.,/217
+AD-0219,YouTube,M 18-24,Testimonial,Active,2025-04-01,83,30776.24,10166960.88,330.35,Not flagged,0.00,Excluded: roas_below_one.,/218
+AD-0220,YouTube,M 35-44,UGC Style,Completed,2025-09-05,3,73910.72,1178867.68,15.95,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/219
+AD-0221,Google,F 25-34,Before/After,Active,2025-06-09,28,84594.01,1901410.1,22.48,Not flagged,0.00,Excluded: roas_below_one.,/220
+AD-0222,YouTube,M 25-34,Testimonial,Completed,2025-07-25,85,125674.47,3877637.34,30.85,Not flagged,0.00,Excluded: roas_below_one.,/221
+AD-0223,Instagram,F 18-24,Testimonial,Active,2025-07-14,79,174858.47,11931029.37,68.23,Not flagged,0.00,Excluded: roas_below_one.,/222
+AD-0224,Google,F 25-34,Doctor Trust,Completed,2025-02-03,46,165413.3,25575947.87,154.62,Not flagged,0.00,Excluded: roas_below_one.,/223
+AD-0225,Meta,M 35-44,Doctor Trust,Active,2025-09-16,11,12143.48,1017233.66,83.77,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/224
+AD-0226,YouTube,F 18-24,Celebrity Endorsement,Active,2025-07-28,27,8724.03,229869.78,26.35,Not flagged,0.00,Excluded: roas_below_one.,/225
+AD-0227,Meta,F 25-34,Doctor Trust,Paused,2025-05-09,19,23546.36,1123283.9,47.71,Not flagged,0.00,Excluded: roas_below_one.,/226
+AD-0228,Google,M 18-24,Testimonial,Active,2025-01-02,83,197421.39,17672786.88,89.52,Not flagged,0.00,Excluded: roas_below_one.,/227
+AD-0229,Instagram,M 18-24,Doctor Trust,Active,2025-01-24,36,20068.32,55124.58,2.75,Not flagged,0.00,Excluded: roas_below_one.,/228
+AD-0230,Instagram,M 35-44,Doctor Trust,Paused,2025-02-28,26,168613.76,61189279.81,362.9,Not flagged,0.00,Excluded: roas_below_one.,/229
+AD-0231,Google,F 18-24,Lifestyle,Active,2025-01-11,82,91180.95,2564778.79,28.13,Not flagged,0.00,Excluded: roas_below_one.,/230
+AD-0232,Google,M 18-24,Product Demo,Active,2025-05-19,64,106201.24,83916301.99,790.16,Not flagged,0.00,Excluded: roas_below_one.,/231
+AD-0233,Google,M 25-34,Infographic,Active,2025-01-19,77,25828.2,523712.78,20.28,Not flagged,0.00,Excluded: roas_below_one.,/232
+AD-0234,YouTube,F 25-34,Lifestyle,Paused,2025-07-20,2,169347.94,13139098.54,77.59,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/233
+AD-0235,YouTube,F 35-44,Celebrity Endorsement,Completed,2025-07-17,9,22922.44,12611939.72,550.2,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/234
+AD-0236,Meta,F 18-24,Before/After,Paused,2025-09-02,49,5219.67,292594.7,56.06,Not flagged,0.00,Excluded: roas_below_one.,/235
+AD-0237,Meta,M 35-44,Infographic,Active,2025-07-04,78,7917.5,338233.25,42.72,Not flagged,0.00,Excluded: roas_below_one.,/236
+AD-0238,Instagram,M 18-24,Infographic,Active,2025-01-15,79,7686.54,150244.71,19.55,Not flagged,0.00,Excluded: roas_below_one.,/237
+AD-0239,Meta,F 25-34,UGC Style,Active,2025-06-07,78,194398.94,18956566.33,97.51,Not flagged,0.00,Excluded: roas_below_one.,/238
+AD-0240,Google,F 18-24,Testimonial,Completed,2025-04-26,58,3159.8,106679.12,33.76,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/239
+AD-0241,Instagram,M 25-34,Celebrity Endorsement,Paused,2025-01-05,24,124817.59,47791.86,0.38,Wasted spend,124817.59,All three strict thresholds pass; full spend counts once in Instagram.,/240
+AD-0242,Instagram,F 18-24,Product Demo,Paused,2025-08-17,41,178429.94,17368475.4,97.34,Not flagged,0.00,Excluded: roas_below_one.,/241
+AD-0243,YouTube,F 35-44,Infographic,Paused,2025-05-03,27,104538.61,8975047.75,85.85,Not flagged,0.00,Excluded: roas_below_one.,/242
+AD-0244,Google,M 25-34,UGC Style,Active,2025-05-09,49,152019.09,13912409.71,91.52,Not flagged,0.00,Excluded: roas_below_one.,/243
+AD-0245,Google,M 18-24,Doctor Trust,Active,2025-02-16,15,27178.26,8079128.25,297.26,Not flagged,0.00,Excluded: roas_below_one.,/244
+AD-0246,YouTube,F 35-44,Celebrity Endorsement,Completed,2025-01-04,38,49829.78,17269618.31,346.57,Not flagged,0.00,Excluded: roas_below_one.,/245
+AD-0247,YouTube,M 18-24,Lifestyle,Paused,2025-07-08,69,138813.77,21391259.31,154.1,Not flagged,0.00,Excluded: roas_below_one.,/246
+AD-0248,Instagram,F 18-24,Product Demo,Completed,2025-06-16,50,88008.2,3419679.91,38.86,Not flagged,0.00,Excluded: roas_below_one.,/247
+AD-0249,YouTube,F 18-24,Infographic,Completed,2025-08-26,54,94431.05,5703695.58,60.4,Not flagged,0.00,Excluded: roas_below_one.,/248
+AD-0250,Google,F 18-24,UGC Style,Paused,2025-03-05,50,20774.69,302428.43,14.56,Not flagged,0.00,Excluded: roas_below_one.,/249
+AD-0251,Instagram,F 25-34,Before/After,Paused,2025-08-02,20,86809.76,2306214.64,26.57,Not flagged,0.00,Excluded: roas_below_one.,/250
+AD-0252,Instagram,M 35-44,Infographic,Paused,2025-01-14,67,154920.52,1680984.24,10.85,Not flagged,0.00,Excluded: roas_below_one.,/251
+AD-0253,YouTube,M 25-34,Infographic,Paused,2025-05-26,84,17429.73,541379.85,31.06,Not flagged,0.00,Excluded: roas_below_one.,/252
+AD-0254,Meta,F 18-24,Doctor Trust,Paused,2025-10-08,42,155124.04,16749327.58,107.97,Not flagged,0.00,Excluded: roas_below_one.,/253
+AD-0255,Google,M 18-24,Doctor Trust,Paused,2025-08-17,15,179058.21,8137896.35,45.45,Not flagged,0.00,Excluded: roas_below_one.,/254
+AD-0256,Google,M 35-44,Infographic,Paused,2025-02-12,45,180047.12,530798.54,2.95,Not flagged,0.00,Excluded: roas_below_one.,/255
+AD-0257,YouTube,M 18-24,UGC Style,Paused,2025-07-19,77,107950.31,941667.31,8.72,Not flagged,0.00,Excluded: roas_below_one.,/256
+AD-0258,YouTube,M 18-24,Celebrity Endorsement,Paused,2025-07-12,31,190243.69,3937873.43,20.7,Not flagged,0.00,Excluded: roas_below_one.,/257
+AD-0259,Google,M 35-44,Lifestyle,Active,2025-09-04,67,86176.03,5464833.18,63.41,Not flagged,0.00,Excluded: roas_below_one.,/258
+AD-0260,YouTube,F 25-34,Product Demo,Paused,2025-03-18,55,185828.78,16813195.5,90.48,Not flagged,0.00,Excluded: roas_below_one.,/259
+AD-0261,YouTube,M 35-44,Product Demo,Paused,2025-05-28,59,675.48,39050.66,57.81,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/260
+AD-0262,Meta,F 18-24,Celebrity Endorsement,Active,2025-11-11,5,28190.87,1595888.44,56.61,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/261
+AD-0263,Instagram,F 18-24,Lifestyle,Paused,2025-11-10,51,94672.03,439724.07,4.64,Not flagged,0.00,Excluded: roas_below_one.,/262
+AD-0264,Google,F 18-24,Before/After,Paused,2025-07-03,26,56190.45,19157935.45,340.95,Not flagged,0.00,Excluded: roas_below_one.,/263
+AD-0265,Google,M 25-34,Celebrity Endorsement,Active,2025-05-25,34,29171.73,2425633.77,83.15,Not flagged,0.00,Excluded: roas_below_one.,/264
+AD-0266,Google,M 25-34,Doctor Trust,Completed,2025-10-05,15,49358.37,1388980.22,28.14,Not flagged,0.00,Excluded: roas_below_one.,/265
+AD-0267,Instagram,F 25-34,Lifestyle,Active,2025-07-18,23,150176.03,29555347.96,196.8,Not flagged,0.00,Excluded: roas_below_one.,/266
+AD-0268,Meta,F 18-24,Product Demo,Active,2025-08-24,2,41955.6,573043.64,13.66,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/267
+AD-0269,Meta,M 18-24,Lifestyle,Paused,2025-02-16,34,33152.2,370674.63,11.18,Not flagged,0.00,Excluded: roas_below_one.,/268
+AD-0270,Meta,F 35-44,Lifestyle,Completed,2025-09-04,62,152222.77,7063142.52,46.4,Not flagged,0.00,Excluded: roas_below_one.,/269
+AD-0271,YouTube,M 18-24,Lifestyle,Completed,2025-08-18,70,50979.45,670425.75,13.15,Not flagged,0.00,Excluded: roas_below_one.,/270
+AD-0272,YouTube,M 25-34,Testimonial,Completed,2025-11-04,21,45062.85,1406114.49,31.2,Not flagged,0.00,Excluded: roas_below_one.,/271
+AD-0273,YouTube,M 25-34,Before/After,Completed,2025-01-26,88,101834.36,256905.57,2.52,Not flagged,0.00,Excluded: roas_below_one.,/272
+AD-0274,Instagram,M 18-24,Before/After,Paused,2025-02-26,77,105938.65,36651031.7,345.96,Not flagged,0.00,Excluded: roas_below_one.,/273
+AD-0275,YouTube,F 35-44,Infographic,Paused,2025-03-28,29,80902.74,23678479.28,292.68,Not flagged,0.00,Excluded: roas_below_one.,/274
+AD-0276,YouTube,M 18-24,Before/After,Paused,2025-09-07,64,168415.45,8265169.7,49.08,Not flagged,0.00,Excluded: roas_below_one.,/275
+AD-0277,Meta,F 35-44,UGC Style,Completed,2025-09-03,39,64577.93,700127.29,10.84,Not flagged,0.00,Excluded: roas_below_one.,/276
+AD-0278,Meta,M 25-34,Testimonial,Active,2025-04-09,34,161084.01,3837377.57,23.82,Not flagged,0.00,Excluded: roas_below_one.,/277
+AD-0279,Instagram,M 25-34,Lifestyle,Active,2025-01-04,43,18999.02,1120530.99,58.98,Not flagged,0.00,Excluded: roas_below_one.,/278
+AD-0280,YouTube,M 35-44,Before/After,Completed,2025-03-09,90,195460.14,19299467.73,98.74,Not flagged,0.00,Excluded: roas_below_one.,/279
+AD-0281,Instagram,F 25-34,Before/After,Active,2025-10-09,55,26733.24,504880.39,18.89,Not flagged,0.00,Excluded: roas_below_one.,/280
+AD-0282,YouTube,M 25-34,Before/After,Completed,2025-09-14,70,13398.95,590613.05,44.08,Not flagged,0.00,Excluded: roas_below_one.,/281
+AD-0283,Meta,M 25-34,Celebrity Endorsement,Completed,2025-11-01,17,11399.34,600038.44,52.64,Not flagged,0.00,Excluded: roas_below_one.,/282
+AD-0284,Instagram,F 35-44,Doctor Trust,Completed,2025-08-08,23,196888.7,34808600.19,176.79,Not flagged,0.00,Excluded: roas_below_one.,/283
+AD-0285,Google,M 18-24,Doctor Trust,Paused,2025-07-20,23,72412.55,1650371.74,22.79,Not flagged,0.00,Excluded: roas_below_one.,/284
+AD-0286,Google,M 35-44,Celebrity Endorsement,Paused,2025-05-21,9,64306.5,627338.61,9.76,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/285
+AD-0287,YouTube,F 25-34,Before/After,Completed,2025-02-27,26,109165.64,570780.21,5.23,Not flagged,0.00,Excluded: roas_below_one.,/286
+AD-0288,Instagram,F 35-44,Lifestyle,Paused,2025-02-05,12,26825.01,9802990.96,365.44,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/287
+AD-0289,Meta,M 18-24,Testimonial,Active,2025-03-07,82,114622.17,2507514.18,21.88,Not flagged,0.00,Excluded: roas_below_one.,/288
+AD-0290,Google,F 35-44,Infographic,Paused,2025-10-11,70,160935.28,32942735.32,204.7,Not flagged,0.00,Excluded: roas_below_one.,/289
+AD-0291,Meta,F 35-44,Celebrity Endorsement,Paused,2025-09-24,7,177079.14,1934030.34,10.92,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/290
+AD-0292,YouTube,M 18-24,Infographic,Active,2025-10-14,26,82807.06,375402.53,4.53,Not flagged,0.00,Excluded: roas_below_one.,/291
+AD-0293,Instagram,F 18-24,UGC Style,Paused,2025-01-14,86,55346.73,8903664.43,160.87,Not flagged,0.00,Excluded: roas_below_one.,/292
+AD-0294,Instagram,M 25-34,Celebrity Endorsement,Paused,2025-03-22,70,167947.77,18262415.48,108.74,Not flagged,0.00,Excluded: roas_below_one.,/293
+AD-0295,Instagram,M 25-34,Celebrity Endorsement,Completed,2025-02-12,83,126265.72,7137535.28,56.53,Not flagged,0.00,Excluded: roas_below_one.,/294
+AD-0296,YouTube,F 25-34,UGC Style,Active,2025-07-25,55,199170.06,656727.72,3.3,Not flagged,0.00,Excluded: roas_below_one.,/295
+AD-0297,Meta,F 35-44,Infographic,Completed,2025-06-06,65,133697.44,231700.74,1.73,Not flagged,0.00,Excluded: roas_below_one.,/296
+AD-0298,Meta,M 35-44,Testimonial,Completed,2025-02-28,77,184961,1227024.56,6.63,Not flagged,0.00,Excluded: roas_below_one.,/297
+AD-0299,Google,F 18-24,Testimonial,Completed,2025-01-25,11,22712.42,3271796.67,144.05,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/298
+AD-0300,Instagram,F 18-24,Before/After,Completed,2025-10-13,3,197479.49,33944969.44,171.89,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/299
+AD-0301,YouTube,M 35-44,Before/After,Paused,2025-06-05,8,103316.27,8961357.68,86.74,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/300
+AD-0302,YouTube,M 18-24,Doctor Trust,Completed,2025-11-04,43,49869.57,5607440.76,112.44,Not flagged,0.00,Excluded: roas_below_one.,/301
+AD-0303,Instagram,M 18-24,Before/After,Paused,2025-09-04,40,54181.18,217030.88,4.01,Not flagged,0.00,Excluded: roas_below_one.,/302
+AD-0304,Instagram,M 35-44,Doctor Trust,Active,2025-05-26,46,71192.54,9532102.1,133.89,Not flagged,0.00,Excluded: roas_below_one.,/303
+AD-0305,Instagram,F 18-24,Testimonial,Completed,2025-07-10,60,53457.91,1631708.56,30.52,Not flagged,0.00,Excluded: roas_below_one.,/304
+AD-0306,Instagram,F 35-44,Doctor Trust,Completed,2025-07-02,24,177872.08,18358103.68,103.21,Not flagged,0.00,Excluded: roas_below_one.,/305
+AD-0307,Instagram,M 25-34,Infographic,Paused,2025-01-01,8,50144.43,218472.25,4.36,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/306
+AD-0308,Meta,M 25-34,UGC Style,Active,2025-09-07,7,98604.41,7692517.07,78.01,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/307
+AD-0309,YouTube,F 25-34,UGC Style,Paused,2025-04-18,76,90412.28,1895180.32,20.96,Not flagged,0.00,Excluded: roas_below_one.,/308
+AD-0310,YouTube,M 25-34,Product Demo,Active,2025-03-04,17,64713.55,23100725.07,356.97,Not flagged,0.00,Excluded: roas_below_one.,/309
+AD-0311,Google,F 18-24,Product Demo,Completed,2025-08-19,76,97515.7,1360108.86,13.95,Not flagged,0.00,Excluded: roas_below_one.,/310
+AD-0312,Google,M 25-34,Product Demo,Completed,2025-06-01,27,167291.92,5053151.22,30.21,Not flagged,0.00,Excluded: roas_below_one.,/311
+AD-0313,YouTube,M 35-44,UGC Style,Active,2025-10-27,33,65594.03,9203256.78,140.31,Not flagged,0.00,Excluded: roas_below_one.,/312
+AD-0314,YouTube,M 35-44,UGC Style,Active,2025-04-19,50,99079.66,1465419.85,14.79,Not flagged,0.00,Excluded: roas_below_one.,/313
+AD-0315,YouTube,F 18-24,Celebrity Endorsement,Active,2025-01-12,9,138910.37,28367981.42,204.22,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/314
+AD-0316,Meta,M 18-24,UGC Style,Completed,2025-02-10,88,171721,5756335.46,33.52,Not flagged,0.00,Excluded: roas_below_one.,/315
+AD-0317,Instagram,M 18-24,Product Demo,Completed,2025-03-25,71,139897.87,8103018.29,57.92,Not flagged,0.00,Excluded: roas_below_one.,/316
+AD-0318,Meta,M 18-24,Infographic,Active,2025-09-09,3,81894.92,3364766.06,41.09,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/317
+AD-0319,Google,F 35-44,Lifestyle,Completed,2025-04-20,3,148096.9,55863752.61,377.21,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/318
+AD-0320,Google,M 18-24,UGC Style,Completed,2025-08-18,15,196579.75,36507896.49,185.72,Not flagged,0.00,Excluded: roas_below_one.,/319
+AD-0321,Instagram,M 25-34,Testimonial,Active,2025-04-11,5,22319.42,425171.1,19.05,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/320
+AD-0322,Instagram,F 25-34,Before/After,Paused,2025-10-02,23,89573.47,13623.59,0.15,Wasted spend,89573.47,All three strict thresholds pass; full spend counts once in Instagram.,/321
+AD-0323,YouTube,F 35-44,Testimonial,Completed,2025-05-16,33,141654.38,5672814.49,40.05,Not flagged,0.00,Excluded: roas_below_one.,/322
+AD-0324,YouTube,F 35-44,Celebrity Endorsement,Active,2025-10-14,85,119224.71,189059.95,1.59,Not flagged,0.00,Excluded: roas_below_one.,/323
+AD-0325,Google,F 25-34,Celebrity Endorsement,Active,2025-05-26,48,120088.99,28704586.87,239.03,Not flagged,0.00,Excluded: roas_below_one.,/324
+AD-0326,Meta,M 18-24,Doctor Trust,Active,2025-11-01,29,98248.14,4491469.91,45.72,Not flagged,0.00,Excluded: roas_below_one.,/325
+AD-0327,Google,F 25-34,Before/After,Active,2025-07-16,31,86141.53,8784191.51,101.97,Not flagged,0.00,Excluded: roas_below_one.,/326
+AD-0328,Meta,F 18-24,Product Demo,Completed,2025-06-26,43,115083.89,6361618.47,55.28,Not flagged,0.00,Excluded: roas_below_one.,/327
+AD-0329,Instagram,F 35-44,Infographic,Paused,2025-01-21,86,12441.47,360936.28,29.01,Not flagged,0.00,Excluded: roas_below_one.,/328
+AD-0330,YouTube,M 35-44,Doctor Trust,Active,2025-02-07,24,67505.9,11147677.26,165.14,Not flagged,0.00,Excluded: roas_below_one.,/329
+AD-0331,Meta,F 35-44,UGC Style,Completed,2025-06-25,2,167149.74,49628525.12,296.91,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/330
+AD-0332,Meta,M 35-44,Celebrity Endorsement,Completed,2025-06-20,87,70797.04,6388398.81,90.24,Not flagged,0.00,Excluded: roas_below_one.,/331
+AD-0333,Instagram,M 25-34,Lifestyle,Completed,2025-05-24,72,55978.26,20849985.83,372.47,Not flagged,0.00,Excluded: roas_below_one.,/332
+AD-0334,Meta,M 35-44,Product Demo,Active,2025-10-22,68,149603.47,1585915.28,10.6,Not flagged,0.00,Excluded: roas_below_one.,/333
+AD-0335,Instagram,M 35-44,Product Demo,Active,2025-08-14,69,176237.85,919012.26,5.21,Not flagged,0.00,Excluded: roas_below_one.,/334
+AD-0336,Instagram,M 18-24,Testimonial,Paused,2025-11-18,5,24125.98,76137.83,3.16,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/335
+AD-0337,Meta,F 25-34,Doctor Trust,Completed,2025-09-14,70,137921.81,3799752.07,27.55,Not flagged,0.00,Excluded: roas_below_one.,/336
+AD-0338,YouTube,F 35-44,Product Demo,Completed,2025-02-19,31,38135.28,12445830.63,326.36,Not flagged,0.00,Excluded: roas_below_one.,/337
+AD-0339,Instagram,F 18-24,Testimonial,Paused,2025-09-01,48,168685.56,7274666.28,43.13,Not flagged,0.00,Excluded: roas_below_one.,/338
+AD-0340,Instagram,M 18-24,Lifestyle,Completed,2025-09-11,49,96402.48,16594149.29,172.13,Not flagged,0.00,Excluded: roas_below_one.,/339
+AD-0341,Meta,M 35-44,Infographic,Completed,2025-11-24,60,100391.66,4207969.78,41.92,Not flagged,0.00,Excluded: roas_below_one.,/340
+AD-0342,Instagram,M 25-34,Lifestyle,Completed,2025-07-20,36,47792.85,6774012.89,141.74,Not flagged,0.00,Excluded: roas_below_one.,/341
+AD-0343,YouTube,M 35-44,Infographic,Active,2025-10-21,50,38108.95,1403213.98,36.82,Not flagged,0.00,Excluded: roas_below_one.,/342
+AD-0344,Meta,M 25-34,Product Demo,Paused,2025-09-17,20,66539.86,143971.57,2.16,Not flagged,0.00,Excluded: roas_below_one.,/343
+AD-0345,Instagram,M 35-44,Infographic,Completed,2025-04-14,48,72987.57,5805736.6,79.54,Not flagged,0.00,Excluded: roas_below_one.,/344
+AD-0346,Instagram,F 25-34,Lifestyle,Paused,2025-04-16,90,124937.3,13351014.85,106.86,Not flagged,0.00,Excluded: roas_below_one.,/345
+AD-0347,Instagram,F 18-24,Lifestyle,Paused,2025-04-06,72,125858.93,5290780.97,42.04,Not flagged,0.00,Excluded: roas_below_one.,/346
+AD-0348,Meta,F 35-44,Celebrity Endorsement,Paused,2025-04-27,39,181813.12,68917206.48,379.06,Not flagged,0.00,Excluded: roas_below_one.,/347
+AD-0349,Google,F 35-44,Before/After,Active,2025-10-13,85,54862.31,13411856.35,244.46,Not flagged,0.00,Excluded: roas_below_one.,/348
+AD-0350,Google,F 35-44,Testimonial,Active,2025-09-06,40,95666.01,7501943.94,78.42,Not flagged,0.00,Excluded: roas_below_one.,/349
+AD-0351,Google,F 25-34,UGC Style,Paused,2025-02-16,62,147514.28,4445123.78,30.13,Not flagged,0.00,Excluded: roas_below_one.,/350
+AD-0352,Meta,M 18-24,Doctor Trust,Active,2025-01-10,65,134058.33,177604.56,1.32,Not flagged,0.00,Excluded: roas_below_one.,/351
+AD-0353,Instagram,M 35-44,Doctor Trust,Paused,2025-05-23,55,38756.51,6557970.49,169.21,Not flagged,0.00,Excluded: roas_below_one.,/352
+AD-0354,Meta,M 25-34,Doctor Trust,Paused,2025-01-06,78,93401.48,3081713.29,32.99,Not flagged,0.00,Excluded: roas_below_one.,/353
+AD-0355,Meta,F 35-44,Testimonial,Paused,2025-08-05,89,14789.42,183850.07,12.43,Not flagged,0.00,Excluded: roas_below_one.,/354
+AD-0356,Google,M 25-34,Doctor Trust,Paused,2025-08-01,21,123842.42,3282904.27,26.51,Not flagged,0.00,Excluded: roas_below_one.,/355
+AD-0357,YouTube,M 18-24,Celebrity Endorsement,Paused,2025-02-05,12,97862.89,563350.02,5.76,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/356
+AD-0358,YouTube,F 25-34,Infographic,Paused,2025-06-25,11,20054.3,3471336.91,173.1,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/357
+AD-0359,Meta,F 18-24,UGC Style,Active,2025-08-01,90,175750.53,2824533.62,16.07,Not flagged,0.00,Excluded: roas_below_one.,/358
+AD-0360,YouTube,F 35-44,Doctor Trust,Completed,2025-05-03,64,156199.58,4417389.05,28.28,Not flagged,0.00,Excluded: roas_below_one.,/359
+AD-0361,Meta,F 18-24,Before/After,Completed,2025-10-01,9,82335.57,1592809.73,19.35,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/360
+AD-0362,Google,M 18-24,UGC Style,Paused,2025-11-04,65,13078.68,858229.18,65.62,Not flagged,0.00,Excluded: roas_below_one.,/361
+AD-0363,Meta,M 25-34,Doctor Trust,Completed,2025-06-26,38,96474.24,14403621.88,149.3,Not flagged,0.00,Excluded: roas_below_one.,/362
+AD-0364,Instagram,M 35-44,Celebrity Endorsement,Paused,2025-11-08,37,141809.3,39857043.81,281.06,Not flagged,0.00,Excluded: roas_below_one.,/363
+AD-0365,Meta,F 25-34,Testimonial,Paused,2025-05-23,43,187478.89,25961077.85,138.47,Not flagged,0.00,Excluded: roas_below_one.,/364
+AD-0366,YouTube,M 25-34,Before/After,Paused,2025-10-28,59,20590.23,880787.61,42.78,Not flagged,0.00,Excluded: roas_below_one.,/365
+AD-0367,Meta,F 35-44,Before/After,Active,2025-03-27,75,40185.02,736198.66,18.32,Not flagged,0.00,Excluded: roas_below_one.,/366
+AD-0368,YouTube,F 18-24,Testimonial,Active,2025-08-22,4,103928.64,2796476.18,26.91,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/367
+AD-0369,Instagram,M 25-34,Doctor Trust,Paused,2025-09-07,1,34688.58,690659.18,19.91,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/368
+AD-0370,Instagram,F 25-34,Celebrity Endorsement,Paused,2025-09-01,37,59463.35,9040554.06,152.04,Not flagged,0.00,Excluded: roas_below_one.,/369
+AD-0371,Instagram,F 18-24,Before/After,Active,2025-06-02,55,171468.05,6593408.53,38.45,Not flagged,0.00,Excluded: roas_below_one.,/370
+AD-0372,Meta,M 35-44,Testimonial,Completed,2025-07-23,84,171401.08,8941661.16,52.17,Not flagged,0.00,Excluded: roas_below_one.,/371
+AD-0373,YouTube,F 35-44,Celebrity Endorsement,Paused,2025-10-09,42,113366.42,6703174.83,59.13,Not flagged,0.00,Excluded: roas_below_one.,/372
+AD-0374,YouTube,M 25-34,Testimonial,Active,2025-04-25,14,121077.57,2890532.2,23.87,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/373
+AD-0375,Meta,F 25-34,Product Demo,Active,2025-05-21,27,115307.88,14511285.18,125.85,Not flagged,0.00,Excluded: roas_below_one.,/374
+AD-0376,Instagram,M 35-44,Celebrity Endorsement,Active,2025-02-20,76,154458.03,3499835.37,22.66,Not flagged,0.00,Excluded: roas_below_one.,/375
+AD-0377,Meta,F 18-24,UGC Style,Completed,2025-02-12,78,50521.07,2827470.11,55.97,Not flagged,0.00,Excluded: roas_below_one.,/376
+AD-0378,Google,M 35-44,Lifestyle,Paused,2025-03-13,52,71611.04,1620953.25,22.64,Not flagged,0.00,Excluded: roas_below_one.,/377
+AD-0379,Meta,M 18-24,Celebrity Endorsement,Active,2025-09-23,46,154690.24,3004555.64,19.42,Not flagged,0.00,Excluded: roas_below_one.,/378
+AD-0380,YouTube,F 35-44,Doctor Trust,Active,2025-05-25,83,28643.56,22414870.33,782.54,Not flagged,0.00,Excluded: roas_below_one.,/379
+AD-0381,Instagram,M 25-34,Testimonial,Active,2025-05-10,37,176985.88,21374811.78,120.77,Not flagged,0.00,Excluded: roas_below_one.,/380
+AD-0382,YouTube,M 25-34,UGC Style,Completed,2025-07-07,75,89060.63,18674041.77,209.68,Not flagged,0.00,Excluded: roas_below_one.,/381
+AD-0383,Google,M 35-44,Before/After,Completed,2025-08-21,20,73747.53,1203909.19,16.32,Not flagged,0.00,Excluded: roas_below_one.,/382
+AD-0384,Instagram,M 18-24,UGC Style,Paused,2025-03-07,38,199097.54,5941986.91,29.84,Not flagged,0.00,Excluded: roas_below_one.,/383
+AD-0385,Google,M 18-24,Testimonial,Completed,2025-01-21,29,111245.24,3874303.59,34.83,Not flagged,0.00,Excluded: roas_below_one.,/384
+AD-0386,Google,M 25-34,Product Demo,Active,2025-04-17,43,111434.12,17044526.29,152.96,Not flagged,0.00,Excluded: roas_below_one.,/385
+AD-0387,Instagram,F 35-44,UGC Style,Paused,2025-09-03,31,78862.09,8412307.51,106.67,Not flagged,0.00,Excluded: roas_below_one.,/386
+AD-0388,Instagram,M 35-44,Before/After,Active,2025-03-28,27,181908.97,13155822.85,72.32,Not flagged,0.00,Excluded: roas_below_one.,/387
+AD-0389,Instagram,M 25-34,Testimonial,Completed,2025-03-12,69,15715.66,140120.98,8.92,Not flagged,0.00,Excluded: roas_below_one.,/388
+AD-0390,Instagram,M 25-34,Celebrity Endorsement,Completed,2025-09-16,74,127459.35,24808692.46,194.64,Not flagged,0.00,Excluded: roas_below_one.,/389
+AD-0391,YouTube,M 25-34,Testimonial,Paused,2025-07-09,47,193076.44,16686662.74,86.43,Not flagged,0.00,Excluded: roas_below_one.,/390
+AD-0392,Google,M 25-34,Lifestyle,Completed,2025-07-17,82,73429.86,1237043.77,16.85,Not flagged,0.00,Excluded: roas_below_one.,/391
+AD-0393,Google,M 35-44,Celebrity Endorsement,Paused,2025-05-03,42,17700.55,200188.71,11.31,Not flagged,0.00,Excluded: roas_below_one.,/392
+AD-0394,Meta,F 25-34,Product Demo,Active,2025-01-28,24,76436.17,24439704.42,319.74,Not flagged,0.00,Excluded: roas_below_one.,/393
+AD-0395,Instagram,M 35-44,Testimonial,Active,2025-11-28,83,56786.35,4000426.75,70.45,Not flagged,0.00,Excluded: roas_below_one.,/394
+AD-0396,Instagram,F 35-44,Lifestyle,Paused,2025-11-07,75,56826.9,1140032.63,20.06,Not flagged,0.00,Excluded: roas_below_one.,/395
+AD-0397,Google,F 18-24,Before/After,Paused,2025-09-02,17,188062.51,11092151.5,58.98,Not flagged,0.00,Excluded: roas_below_one.,/396
+AD-0398,Instagram,F 18-24,Before/After,Paused,2025-01-18,47,115731.02,3611447.51,31.21,Not flagged,0.00,Excluded: roas_below_one.,/397
+AD-0399,Instagram,M 25-34,UGC Style,Active,2025-03-08,46,194146.27,585315.09,3.01,Not flagged,0.00,Excluded: roas_below_one.,/398
+AD-0400,Google,M 18-24,UGC Style,Paused,2025-11-03,5,88778.67,2387361.76,26.89,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/399
+AD-0401,Meta,M 35-44,Infographic,Completed,2025-06-15,74,135621.74,10320587.97,76.1,Not flagged,0.00,Excluded: roas_below_one.,/400
+AD-0402,Google,F 18-24,Doctor Trust,Paused,2025-01-26,44,73879.1,23348067.45,316.03,Not flagged,0.00,Excluded: roas_below_one.,/401
+AD-0403,Meta,F 25-34,Before/After,Paused,2025-09-15,65,164460.39,2064819.54,12.56,Not flagged,0.00,Excluded: roas_below_one.,/402
+AD-0404,Meta,F 18-24,UGC Style,Paused,2025-06-14,9,31501.38,6586925.6,209.1,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/403
+AD-0405,Instagram,M 25-34,Product Demo,Completed,2025-09-12,58,61780.15,8969208.4,145.18,Not flagged,0.00,Excluded: roas_below_one.,/404
+AD-0406,Instagram,M 18-24,Doctor Trust,Completed,2025-09-05,78,102704.24,19288476.76,187.81,Not flagged,0.00,Excluded: roas_below_one.,/405
+AD-0407,Meta,F 35-44,Product Demo,Completed,2025-03-07,26,188501.15,14603985.54,77.47,Not flagged,0.00,Excluded: roas_below_one.,/406
+AD-0408,Google,F 35-44,Before/After,Completed,2025-02-25,38,57841.2,18577347.74,321.18,Not flagged,0.00,Excluded: roas_below_one.,/407
+AD-0409,Meta,M 25-34,Doctor Trust,Completed,2025-05-09,66,63414.46,4444157.65,70.08,Not flagged,0.00,Excluded: roas_below_one.,/408
+AD-0410,YouTube,F 35-44,Testimonial,Paused,2025-05-13,49,162733.84,22549247.06,138.57,Not flagged,0.00,Excluded: roas_below_one.,/409
+AD-0411,Meta,F 18-24,Testimonial,Completed,2025-11-04,71,116905.21,35825575.49,306.45,Not flagged,0.00,Excluded: roas_below_one.,/410
+AD-0412,Meta,F 18-24,Celebrity Endorsement,Completed,2025-05-10,13,5517.32,546847.58,99.11,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/411
+AD-0413,YouTube,F 35-44,Before/After,Active,2025-06-06,60,92320.26,4613920.58,49.98,Not flagged,0.00,Excluded: roas_below_one.,/412
+AD-0414,Google,M 18-24,Before/After,Completed,2025-04-21,83,26007.87,9226048.64,354.74,Not flagged,0.00,Excluded: roas_below_one.,/413
+AD-0415,Instagram,M 25-34,Infographic,Completed,2025-03-06,71,5586.66,16576.06,2.97,Not flagged,0.00,Excluded: roas_below_one.,/414
+AD-0416,Google,F 18-24,UGC Style,Paused,2025-03-21,85,139164.61,21454297.86,154.16,Not flagged,0.00,Excluded: roas_below_one.,/415
+AD-0417,Instagram,M 35-44,Doctor Trust,Active,2025-04-01,18,40565.9,2017074.91,49.72,Not flagged,0.00,Excluded: roas_below_one.,/416
+AD-0418,YouTube,F 35-44,Celebrity Endorsement,Active,2025-07-03,52,197388.75,1817414.15,9.21,Not flagged,0.00,Excluded: roas_below_one.,/417
+AD-0419,Instagram,F 35-44,Doctor Trust,Active,2025-11-03,59,60889.17,5957804.23,97.85,Not flagged,0.00,Excluded: roas_below_one.,/418
+AD-0420,Meta,F 35-44,Lifestyle,Active,2025-06-27,8,16138.76,1111755.96,68.89,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/419
+AD-0421,Meta,F 18-24,Before/After,Paused,2025-02-16,24,2064.37,131100.99,63.51,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/420
+AD-0422,Google,M 35-44,Testimonial,Paused,2025-08-24,84,162850.99,2214188.65,13.6,Not flagged,0.00,Excluded: roas_below_one.,/421
+AD-0423,Google,F 35-44,Product Demo,Active,2025-09-03,40,932.88,460485.8,493.62,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/422
+AD-0424,Instagram,M 35-44,Infographic,Completed,2025-10-03,38,123139.63,7740588.01,62.86,Not flagged,0.00,Excluded: roas_below_one.,/423
+AD-0425,Google,M 18-24,Before/After,Paused,2025-11-16,13,87586.92,3663063.32,41.82,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/424
+AD-0426,Google,F 18-24,Infographic,Paused,2025-01-08,13,184760.21,3543872.14,19.18,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/425
+AD-0427,Instagram,M 18-24,Doctor Trust,Active,2025-07-09,5,124424.73,241890.22,1.94,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/426
+AD-0428,Instagram,M 35-44,Doctor Trust,Paused,2025-11-28,26,5346.77,138132.42,25.83,Not flagged,0.00,Excluded: roas_below_one.,/427
+AD-0429,YouTube,M 18-24,Lifestyle,Paused,2025-11-26,58,87046.33,2615489.05,30.05,Not flagged,0.00,Excluded: roas_below_one.,/428
+AD-0430,Meta,F 35-44,UGC Style,Active,2025-10-03,85,3245.04,5698.5,1.76,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/429
+AD-0431,YouTube,M 18-24,Celebrity Endorsement,Completed,2025-02-02,10,125313.55,12709013.65,101.42,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/430
+AD-0432,Google,M 18-24,Doctor Trust,Completed,2025-02-15,88,90129.59,11114169.28,123.31,Not flagged,0.00,Excluded: roas_below_one.,/431
+AD-0433,YouTube,M 35-44,Testimonial,Paused,2025-07-21,31,92368.38,36522837.52,395.4,Not flagged,0.00,Excluded: roas_below_one.,/432
+AD-0434,Instagram,F 35-44,Lifestyle,Paused,2025-05-26,74,64506.62,2629144.88,40.76,Not flagged,0.00,Excluded: roas_below_one.,/433
+AD-0435,Google,F 18-24,Celebrity Endorsement,Paused,2025-04-12,27,83383.95,2065568.67,24.77,Not flagged,0.00,Excluded: roas_below_one.,/434
+AD-0436,Google,M 35-44,Testimonial,Completed,2025-03-21,89,68486.76,6932329.85,101.22,Not flagged,0.00,Excluded: roas_below_one.,/435
+AD-0437,Instagram,F 35-44,Infographic,Paused,2025-02-16,15,192841.74,6599680.51,34.22,Not flagged,0.00,Excluded: roas_below_one.,/436
+AD-0438,YouTube,F 35-44,Before/After,Active,2025-08-02,67,38683.51,6871320.99,177.63,Not flagged,0.00,Excluded: roas_below_one.,/437
+AD-0439,Google,M 18-24,Product Demo,Active,2025-01-27,22,91721.51,2843835.61,31.01,Not flagged,0.00,Excluded: roas_below_one.,/438
+AD-0440,Meta,M 35-44,UGC Style,Paused,2025-01-01,75,62815.02,4263131.53,67.87,Not flagged,0.00,Excluded: roas_below_one.,/439
+AD-0441,YouTube,F 25-34,Celebrity Endorsement,Active,2025-07-18,36,59091.02,264637.81,4.48,Not flagged,0.00,Excluded: roas_below_one.,/440
+AD-0442,Meta,M 35-44,Before/After,Active,2025-11-15,74,30099.62,1200171.61,39.87,Not flagged,0.00,Excluded: roas_below_one.,/441
+AD-0443,Instagram,F 35-44,Doctor Trust,Paused,2025-08-14,27,90755.9,47807756.87,526.77,Not flagged,0.00,Excluded: roas_below_one.,/442
+AD-0444,Instagram,M 18-24,UGC Style,Active,2025-02-17,60,111535.27,4489310.51,40.25,Not flagged,0.00,Excluded: roas_below_one.,/443
+AD-0445,Instagram,M 35-44,Lifestyle,Active,2025-05-07,35,118607.3,293567.76,2.48,Not flagged,0.00,Excluded: roas_below_one.,/444
+AD-0446,YouTube,M 35-44,Before/After,Completed,2025-09-03,24,46512.05,1270826.82,27.32,Not flagged,0.00,Excluded: roas_below_one.,/445
+AD-0447,Meta,F 35-44,Product Demo,Paused,2025-01-11,43,25762.1,513936.97,19.95,Not flagged,0.00,Excluded: roas_below_one.,/446
+AD-0448,Instagram,M 35-44,Testimonial,Completed,2025-05-22,46,191646.34,9399632.7,49.05,Not flagged,0.00,Excluded: roas_below_one.,/447
+AD-0449,YouTube,F 35-44,Celebrity Endorsement,Active,2025-01-18,81,194077.52,2290410.03,11.8,Not flagged,0.00,Excluded: roas_below_one.,/448
+AD-0450,Google,M 25-34,UGC Style,Completed,2025-03-04,22,38929.28,13920616.19,357.59,Not flagged,0.00,Excluded: roas_below_one.,/449
+AD-0451,Meta,F 25-34,Doctor Trust,Paused,2025-01-06,57,125133.07,32439909.9,259.24,Not flagged,0.00,Excluded: roas_below_one.,/450
+AD-0452,Google,M 25-34,Product Demo,Active,2025-05-06,31,43656.07,998679.14,22.88,Not flagged,0.00,Excluded: roas_below_one.,/451
+AD-0453,YouTube,M 18-24,UGC Style,Active,2025-05-05,83,85816.46,2895853.08,33.74,Not flagged,0.00,Excluded: roas_below_one.,/452
+AD-0454,Instagram,M 25-34,Celebrity Endorsement,Paused,2025-03-01,17,121126.07,10490090.65,86.6,Not flagged,0.00,Excluded: roas_below_one.,/453
+AD-0455,Instagram,M 18-24,Celebrity Endorsement,Active,2025-02-08,16,32199.86,2068351.27,64.23,Not flagged,0.00,Excluded: roas_below_one.,/454
+AD-0456,YouTube,M 18-24,Doctor Trust,Completed,2025-02-01,34,53902.24,6652271.78,123.41,Not flagged,0.00,Excluded: roas_below_one.,/455
+AD-0457,Meta,M 35-44,Testimonial,Active,2025-09-22,65,163874.92,48561590.23,296.33,Not flagged,0.00,Excluded: roas_below_one.,/456
+AD-0458,YouTube,F 25-34,Testimonial,Completed,2025-10-16,20,173009.03,876926.29,5.07,Not flagged,0.00,Excluded: roas_below_one.,/457
+AD-0459,Google,F 35-44,Before/After,Active,2025-10-08,14,7208.97,130452.81,18.1,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/458
+AD-0460,YouTube,F 35-44,Infographic,Active,2025-04-25,71,115952.9,3852598.23,33.23,Not flagged,0.00,Excluded: roas_below_one.,/459
+AD-0461,Instagram,M 18-24,Celebrity Endorsement,Completed,2025-10-16,48,4165.9,236056.38,56.66,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/460
+AD-0462,YouTube,F 35-44,Infographic,Completed,2025-05-11,80,145165.05,729520.49,5.03,Not flagged,0.00,Excluded: roas_below_one.,/461
+AD-0463,YouTube,M 18-24,Product Demo,Active,2025-08-20,27,56953.75,14103569.62,247.63,Not flagged,0.00,Excluded: roas_below_one.,/462
+AD-0464,Google,F 18-24,Infographic,Completed,2025-04-01,77,61819.3,52872592.85,855.28,Not flagged,0.00,Excluded: roas_below_one.,/463
+AD-0465,Instagram,F 25-34,Infographic,Paused,2025-01-02,76,190157.78,74814877.47,393.44,Not flagged,0.00,Excluded: roas_below_one.,/464
+AD-0466,Instagram,F 35-44,Doctor Trust,Paused,2025-08-18,88,94298.82,285898.13,3.03,Not flagged,0.00,Excluded: roas_below_one.,/465
+AD-0467,Instagram,M 18-24,Before/After,Completed,2025-02-03,3,75760.32,4422663.62,58.38,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/466
+AD-0468,Meta,M 25-34,Product Demo,Active,2025-04-17,61,98298.98,5405698.22,54.99,Not flagged,0.00,Excluded: roas_below_one.,/467
+AD-0469,Meta,M 18-24,Infographic,Active,2025-11-12,42,152532.37,15063186.17,98.75,Not flagged,0.00,Excluded: roas_below_one.,/468
+AD-0470,Meta,F 25-34,Doctor Trust,Active,2025-11-27,12,18421.03,2394664.25,130,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/469
+AD-0471,Instagram,M 35-44,Before/After,Active,2025-01-15,42,139582.95,7334656.47,52.55,Not flagged,0.00,Excluded: roas_below_one.,/470
+AD-0472,YouTube,M 35-44,Lifestyle,Paused,2025-08-06,69,19574.92,1510160.54,77.15,Not flagged,0.00,Excluded: roas_below_one.,/471
+AD-0473,YouTube,F 35-44,Lifestyle,Active,2025-03-21,28,147422.36,6454555.62,43.78,Not flagged,0.00,Excluded: roas_below_one.,/472
+AD-0474,Google,F 25-34,Product Demo,Completed,2025-11-19,16,126635.8,14242751.73,112.47,Not flagged,0.00,Excluded: roas_below_one.,/473
+AD-0475,Google,M 25-34,Before/After,Completed,2025-07-06,6,133189.22,7661410.08,57.52,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/474
+AD-0476,Meta,M 35-44,Before/After,Paused,2025-10-09,85,100948.32,5013337.14,49.66,Not flagged,0.00,Excluded: roas_below_one.,/475
+AD-0477,Instagram,F 18-24,Lifestyle,Completed,2025-01-11,9,56613.52,7231086.76,127.73,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/476
+AD-0478,YouTube,M 35-44,Doctor Trust,Paused,2025-02-24,71,178369.12,42509971.4,238.33,Not flagged,0.00,Excluded: roas_below_one.,/477
+AD-0479,Instagram,M 25-34,Product Demo,Completed,2025-10-27,70,44918.74,1602267.34,35.67,Not flagged,0.00,Excluded: roas_below_one.,/478
+AD-0480,Meta,M 25-34,Infographic,Completed,2025-11-23,39,33651.11,2082729.67,61.89,Not flagged,0.00,Excluded: roas_below_one.,/479
+AD-0481,YouTube,M 35-44,Before/After,Completed,2025-06-21,19,151451.73,1747460.81,11.54,Not flagged,0.00,Excluded: roas_below_one.,/480
+AD-0482,Meta,M 25-34,UGC Style,Completed,2025-08-07,85,138936.04,2420472.01,17.42,Not flagged,0.00,Excluded: roas_below_one.,/481
+AD-0483,Google,F 18-24,Testimonial,Paused,2025-05-22,81,46188.82,1058173.98,22.91,Not flagged,0.00,Excluded: roas_below_one.,/482
+AD-0484,Instagram,M 18-24,Product Demo,Completed,2025-04-25,86,4297.1,136700.91,31.81,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/483
+AD-0485,Google,M 25-34,Lifestyle,Paused,2025-05-06,71,139571.48,3638541.25,26.07,Not flagged,0.00,Excluded: roas_below_one.,/484
+AD-0486,YouTube,M 18-24,Infographic,Active,2025-09-14,34,106024.6,8484983.18,80.03,Not flagged,0.00,Excluded: roas_below_one.,/485
+AD-0487,Google,F 18-24,Lifestyle,Completed,2025-11-04,31,53707.07,1905506.97,35.48,Not flagged,0.00,Excluded: roas_below_one.,/486
+AD-0488,Meta,M 35-44,Lifestyle,Completed,2025-05-22,83,83420.68,22680868.29,271.89,Not flagged,0.00,Excluded: roas_below_one.,/487
+AD-0489,Meta,M 25-34,UGC Style,Completed,2025-01-21,12,42656.71,1376123.87,32.26,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/488
+AD-0490,Google,M 25-34,Doctor Trust,Completed,2025-06-18,6,59955.75,10074322.28,168.03,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/489
+AD-0491,Instagram,F 25-34,Doctor Trust,Completed,2025-04-09,17,184734,11569759.83,62.63,Not flagged,0.00,Excluded: roas_below_one.,/490
+AD-0492,YouTube,F 35-44,Testimonial,Active,2025-06-02,39,175694.2,2441826.98,13.9,Not flagged,0.00,Excluded: roas_below_one.,/491
+AD-0493,YouTube,F 35-44,Testimonial,Paused,2025-08-05,73,145191.22,417410.57,2.87,Not flagged,0.00,Excluded: roas_below_one.,/492
+AD-0494,Meta,F 25-34,Celebrity Endorsement,Active,2025-07-04,36,166332.21,53210641.14,319.91,Not flagged,0.00,Excluded: roas_below_one.,/493
+AD-0495,Google,M 25-34,Celebrity Endorsement,Completed,2025-10-10,11,12746.22,739026.52,57.98,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/494
+AD-0496,Instagram,M 25-34,Celebrity Endorsement,Paused,2025-09-04,20,69030.13,752951.36,10.91,Not flagged,0.00,Excluded: roas_below_one.,/495
+AD-0497,Google,F 18-24,Celebrity Endorsement,Active,2025-03-25,85,161982.45,19177715.39,118.39,Not flagged,0.00,Excluded: roas_below_one.,/496
+AD-0498,Google,F 18-24,Infographic,Completed,2025-05-13,29,18590.1,927135.22,49.87,Not flagged,0.00,Excluded: roas_below_one.,/497
+AD-0499,Meta,M 35-44,Lifestyle,Active,2025-08-13,88,105215.18,5821834.35,55.33,Not flagged,0.00,Excluded: roas_below_one.,/498
+AD-0500,Meta,M 18-24,Doctor Trust,Completed,2025-04-10,34,83491.59,3842764.6,46.03,Not flagged,0.00,Excluded: roas_below_one.,/499
+AD-0501,Instagram,F 18-24,Testimonial,Completed,2025-01-02,14,93660.98,172813.59,1.85,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/500
+AD-0502,YouTube,F 18-24,Before/After,Active,2025-09-08,79,189295.75,13181459.56,69.63,Not flagged,0.00,Excluded: roas_below_one.,/501
+AD-0503,Instagram,M 25-34,Doctor Trust,Completed,2025-09-26,50,186088.55,12215910.27,65.65,Not flagged,0.00,Excluded: roas_below_one.,/502
+AD-0504,Google,F 25-34,Before/After,Paused,2025-03-26,34,29230.86,903598.52,30.91,Not flagged,0.00,Excluded: roas_below_one.,/503
+AD-0505,Google,M 35-44,Doctor Trust,Completed,2025-07-25,73,135777.29,34735804.17,255.83,Not flagged,0.00,Excluded: roas_below_one.,/504
+AD-0506,YouTube,F 35-44,UGC Style,Active,2025-08-03,21,199053.93,15180479.08,76.26,Not flagged,0.00,Excluded: roas_below_one.,/505
+AD-0507,YouTube,F 25-34,Lifestyle,Active,2025-05-02,36,183787,10877546.23,59.19,Not flagged,0.00,Excluded: roas_below_one.,/506
+AD-0508,YouTube,F 18-24,Before/After,Paused,2025-03-03,30,163099.71,3024513.41,18.54,Not flagged,0.00,Excluded: roas_below_one.,/507
+AD-0509,Meta,F 35-44,Infographic,Completed,2025-04-03,62,55015.02,19480978.67,354.1,Not flagged,0.00,Excluded: roas_below_one.,/508
+AD-0510,Google,M 35-44,Infographic,Paused,2025-05-02,54,166706.98,13996447.19,83.96,Not flagged,0.00,Excluded: roas_below_one.,/509
+AD-0511,Google,F 25-34,UGC Style,Completed,2025-10-15,13,19700.74,351274.17,17.83,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/510
+AD-0512,Google,F 18-24,Celebrity Endorsement,Active,2025-11-12,20,157907.2,17037841.65,107.9,Not flagged,0.00,Excluded: roas_below_one.,/511
+AD-0513,Instagram,F 18-24,Before/After,Active,2025-10-07,34,160351.52,9563385.01,59.64,Not flagged,0.00,Excluded: roas_below_one.,/512
+AD-0514,Instagram,M 25-34,UGC Style,Paused,2025-03-06,39,70207.13,10076716.35,143.53,Not flagged,0.00,Excluded: roas_below_one.,/513
+AD-0515,Instagram,F 25-34,Doctor Trust,Completed,2025-07-15,68,31913.36,1100581.55,34.49,Not flagged,0.00,Excluded: roas_below_one.,/514
+AD-0516,Meta,M 18-24,Product Demo,Completed,2025-04-11,76,28695.25,2489096.51,86.74,Not flagged,0.00,Excluded: roas_below_one.,/515
+AD-0517,Google,M 18-24,Lifestyle,Active,2025-05-28,23,29976.27,1820738.98,60.74,Not flagged,0.00,Excluded: roas_below_one.,/516
+AD-0518,YouTube,M 35-44,Infographic,Active,2025-06-02,58,62596.21,701243.39,11.2,Not flagged,0.00,Excluded: roas_below_one.,/517
+AD-0519,Instagram,F 25-34,Doctor Trust,Paused,2025-03-19,24,91968.94,1129231.33,12.28,Not flagged,0.00,Excluded: roas_below_one.,/518
+AD-0520,Instagram,M 35-44,Testimonial,Active,2025-02-10,28,2081.86,71900.68,34.54,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/519
+AD-0521,Google,M 18-24,Before/After,Paused,2025-03-20,23,39900.56,2430196.3,60.91,Not flagged,0.00,Excluded: roas_below_one.,/520
+AD-0522,Instagram,M 18-24,Product Demo,Completed,2025-09-07,57,14455.16,1363550.28,94.33,Not flagged,0.00,Excluded: roas_below_one.,/521
+AD-0523,Instagram,F 25-34,Before/After,Completed,2025-05-08,28,156538.84,16969249.83,108.4,Not flagged,0.00,Excluded: roas_below_one.,/522
+AD-0524,YouTube,F 18-24,Celebrity Endorsement,Completed,2025-02-20,80,58266.61,11421291.24,196.02,Not flagged,0.00,Excluded: roas_below_one.,/523
+AD-0525,Google,M 25-34,Product Demo,Active,2025-04-27,9,27480.31,17264630.62,628.25,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/524
+AD-0526,Google,M 35-44,UGC Style,Paused,2025-03-10,47,26417.84,2852240.97,107.97,Not flagged,0.00,Excluded: roas_below_one.,/525
+AD-0527,Meta,F 25-34,Before/After,Active,2025-03-20,83,104549.72,15037661.19,143.83,Not flagged,0.00,Excluded: roas_below_one.,/526
+AD-0528,Google,F 25-34,Product Demo,Active,2025-07-10,59,118674.62,3857.19,0.03,Wasted spend,118674.62,All three strict thresholds pass; full spend counts once in Google.,/527
+AD-0529,Meta,F 35-44,Testimonial,Paused,2025-11-11,22,62325.1,2290597.88,36.75,Not flagged,0.00,Excluded: roas_below_one.,/528
+AD-0530,Google,M 18-24,Before/After,Active,2025-07-24,35,180699.66,1674626.99,9.27,Not flagged,0.00,Excluded: roas_below_one.,/529
+AD-0531,Meta,M 35-44,UGC Style,Completed,2025-01-12,63,39063.12,13104313.73,335.47,Not flagged,0.00,Excluded: roas_below_one.,/530
+AD-0532,Google,F 25-34,Doctor Trust,Completed,2025-01-22,19,26861.83,1956698.7,72.84,Not flagged,0.00,Excluded: roas_below_one.,/531
+AD-0533,Instagram,F 35-44,Infographic,Completed,2025-02-04,6,55991.92,1879814.07,33.57,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/532
+AD-0534,Instagram,M 25-34,Before/After,Paused,2025-07-24,56,183348.39,581997.65,3.17,Not flagged,0.00,Excluded: roas_below_one.,/533
+AD-0535,Google,F 35-44,Product Demo,Paused,2025-05-17,4,146040.83,2634680.56,18.04,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/534
+AD-0536,Instagram,F 18-24,Celebrity Endorsement,Active,2025-11-06,71,134584.56,111888.08,0.83,Wasted spend,134584.56,All three strict thresholds pass; full spend counts once in Instagram.,/535
+AD-0537,Google,F 18-24,Celebrity Endorsement,Completed,2025-10-04,25,188800.13,44070126.27,233.42,Not flagged,0.00,Excluded: roas_below_one.,/536
+AD-0538,YouTube,M 18-24,UGC Style,Active,2025-10-09,76,192133,1020222.13,5.31,Not flagged,0.00,Excluded: roas_below_one.,/537
+AD-0539,YouTube,F 35-44,Doctor Trust,Active,2025-07-05,6,107346.68,2758242.11,25.69,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/538
+AD-0540,YouTube,F 18-24,Before/After,Paused,2025-10-13,61,64095,293704.59,4.58,Not flagged,0.00,Excluded: roas_below_one.,/539
+AD-0541,Instagram,M 25-34,Celebrity Endorsement,Paused,2025-04-24,38,110969.61,11430962.13,103.01,Not flagged,0.00,Excluded: roas_below_one.,/540
+AD-0542,Meta,M 18-24,Doctor Trust,Completed,2025-05-17,36,58676.68,459276.97,7.83,Not flagged,0.00,Excluded: roas_below_one.,/541
+AD-0543,YouTube,M 35-44,Infographic,Active,2025-04-13,61,55481.01,10520810.99,189.63,Not flagged,0.00,Excluded: roas_below_one.,/542
+AD-0544,Instagram,M 25-34,Infographic,Completed,2025-06-24,8,155031.15,9326178.12,60.16,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/543
+AD-0545,YouTube,M 25-34,UGC Style,Paused,2025-03-28,62,103943.46,760662.98,7.32,Not flagged,0.00,Excluded: roas_below_one.,/544
+AD-0546,YouTube,F 18-24,Before/After,Active,2025-01-11,12,1257.87,137942.31,109.66,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000, running_over_14_days.",/545
+AD-0547,Google,F 35-44,Lifestyle,Paused,2025-01-04,84,131540.58,35820853.25,272.32,Not flagged,0.00,Excluded: roas_below_one.,/546
+AD-0548,Instagram,F 18-24,Celebrity Endorsement,Active,2025-06-17,3,116273.58,4145651.33,35.65,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/547
+AD-0549,Meta,F 25-34,Infographic,Completed,2025-08-09,71,175091.61,34263940.05,195.69,Not flagged,0.00,Excluded: roas_below_one.,/548
+AD-0550,Meta,F 25-34,Before/After,Completed,2025-07-28,32,12908.11,185366.21,14.36,Not flagged,0.00,Excluded: roas_below_one.,/549
+AD-0551,Instagram,F 18-24,Before/After,Paused,2025-04-11,22,77817.71,2381419.57,30.6,Not flagged,0.00,Excluded: roas_below_one.,/550
+AD-0552,Google,M 18-24,Doctor Trust,Active,2025-08-26,59,68336.5,5315845.35,77.79,Not flagged,0.00,Excluded: roas_below_one.,/551
+AD-0553,Instagram,F 35-44,Doctor Trust,Paused,2025-03-22,32,157521.67,19127563.65,121.43,Not flagged,0.00,Excluded: roas_below_one.,/552
+AD-0554,Instagram,F 25-34,Celebrity Endorsement,Paused,2025-07-09,83,674.54,35634.63,52.83,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/553
+AD-0555,Instagram,F 18-24,Before/After,Paused,2025-07-17,34,38523.02,2662878.68,69.12,Not flagged,0.00,Excluded: roas_below_one.,/554
+AD-0556,YouTube,F 18-24,Doctor Trust,Active,2025-04-06,52,11659.47,280544.82,24.06,Not flagged,0.00,Excluded: roas_below_one.,/555
+AD-0557,YouTube,F 18-24,Testimonial,Paused,2025-07-06,45,46682.14,2622340.38,56.17,Not flagged,0.00,Excluded: roas_below_one.,/556
+AD-0558,Google,M 18-24,Lifestyle,Active,2025-11-06,43,4456.03,64104.81,14.39,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/557
+AD-0559,Instagram,F 35-44,Before/After,Completed,2025-06-23,58,5189.58,320805.76,61.82,Not flagged,0.00,Excluded: roas_below_one.,/558
+AD-0560,Google,F 35-44,Celebrity Endorsement,Active,2025-08-04,89,146780.83,34207503.41,233.05,Not flagged,0.00,Excluded: roas_below_one.,/559
+AD-0561,Meta,M 35-44,Lifestyle,Active,2025-09-11,40,122778.52,5306296.35,43.22,Not flagged,0.00,Excluded: roas_below_one.,/560
+AD-0562,Instagram,M 18-24,Doctor Trust,Active,2025-11-08,1,155793.52,47334519.75,303.83,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/561
+AD-0563,Meta,F 35-44,Celebrity Endorsement,Active,2025-06-20,22,76944.72,1077544.77,14,Not flagged,0.00,Excluded: roas_below_one.,/562
+AD-0564,Google,F 25-34,Lifestyle,Active,2025-02-09,84,29212.1,3827448.76,131.02,Not flagged,0.00,Excluded: roas_below_one.,/563
+AD-0565,Instagram,F 18-24,Before/After,Completed,2025-02-07,61,115463.93,252894.28,2.19,Not flagged,0.00,Excluded: roas_below_one.,/564
+AD-0566,Google,F 18-24,Celebrity Endorsement,Active,2025-05-19,29,5139.76,315828.78,61.45,Not flagged,0.00,Excluded: roas_below_one.,/565
+AD-0567,Meta,M 25-34,Product Demo,Completed,2025-05-12,35,85669.45,7432006.58,86.75,Not flagged,0.00,Excluded: roas_below_one.,/566
+AD-0568,Meta,F 18-24,Doctor Trust,Active,2025-06-24,51,142134.74,253877.64,1.79,Not flagged,0.00,Excluded: roas_below_one.,/567
+AD-0569,Instagram,F 18-24,UGC Style,Completed,2025-01-16,6,38727.29,1017757.83,26.28,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/568
+AD-0570,Meta,M 18-24,Product Demo,Active,2025-04-02,24,34663.36,5243209.3,151.26,Not flagged,0.00,Excluded: roas_below_one.,/569
+AD-0571,Instagram,M 25-34,Before/After,Active,2025-10-11,1,44909.28,3324337,74.02,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/570
+AD-0572,Google,M 35-44,Doctor Trust,Completed,2025-07-22,31,70773.34,1922608.46,27.17,Not flagged,0.00,Excluded: roas_below_one.,/571
+AD-0573,Instagram,M 35-44,UGC Style,Paused,2025-08-10,5,152707.55,3624140.47,23.73,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/572
+AD-0574,YouTube,M 35-44,Before/After,Completed,2025-01-15,43,10924.27,238777.52,21.86,Not flagged,0.00,Excluded: roas_below_one.,/573
+AD-0575,Meta,M 35-44,Product Demo,Completed,2025-06-11,17,196880.13,5047385.97,25.64,Not flagged,0.00,Excluded: roas_below_one.,/574
+AD-0576,Instagram,M 25-34,Before/After,Paused,2025-11-16,21,103923.1,1406103.44,13.53,Not flagged,0.00,Excluded: roas_below_one.,/575
+AD-0577,YouTube,M 25-34,Celebrity Endorsement,Completed,2025-02-21,16,89943.71,2074548.33,23.06,Not flagged,0.00,Excluded: roas_below_one.,/576
+AD-0578,YouTube,F 35-44,Doctor Trust,Paused,2025-09-10,60,28229.27,786971.28,27.88,Not flagged,0.00,Excluded: roas_below_one.,/577
+AD-0579,YouTube,M 18-24,UGC Style,Completed,2025-05-22,30,105899.11,16055209.8,151.61,Not flagged,0.00,Excluded: roas_below_one.,/578
+AD-0580,Google,F 25-34,Doctor Trust,Active,2025-07-26,60,64886.76,1505712.1,23.21,Not flagged,0.00,Excluded: roas_below_one.,/579
+AD-0581,Google,M 25-34,Before/After,Paused,2025-11-21,56,180199.72,8009052.05,44.45,Not flagged,0.00,Excluded: roas_below_one.,/580
+AD-0582,Meta,F 18-24,Infographic,Paused,2025-01-15,86,157530.34,9284662.37,58.94,Not flagged,0.00,Excluded: roas_below_one.,/581
+AD-0583,Meta,F 25-34,Product Demo,Completed,2025-10-09,32,53663.07,4525241.45,84.33,Not flagged,0.00,Excluded: roas_below_one.,/582
+AD-0584,Google,M 25-34,Testimonial,Completed,2025-03-13,75,37395.47,105349.19,2.82,Not flagged,0.00,Excluded: roas_below_one.,/583
+AD-0585,Meta,F 25-34,UGC Style,Paused,2025-07-25,88,68412.99,713047.22,10.42,Not flagged,0.00,Excluded: roas_below_one.,/584
+AD-0586,Meta,M 35-44,Doctor Trust,Completed,2025-10-20,78,102510.14,2317090.71,22.6,Not flagged,0.00,Excluded: roas_below_one.,/585
+AD-0587,Meta,F 35-44,Before/After,Paused,2025-07-28,11,190533.84,35427542.79,185.94,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/586
+AD-0588,YouTube,F 35-44,UGC Style,Paused,2025-03-10,27,13752.78,1658355.72,120.58,Not flagged,0.00,Excluded: roas_below_one.,/587
+AD-0589,YouTube,F 25-34,Testimonial,Completed,2025-11-23,9,22541.76,8360939.36,370.91,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/588
+AD-0590,Meta,F 25-34,UGC Style,Active,2025-10-20,55,62307.96,4004726.21,64.27,Not flagged,0.00,Excluded: roas_below_one.,/589
+AD-0591,Google,F 35-44,Doctor Trust,Completed,2025-04-12,62,130072.45,3190306.3,24.53,Not flagged,0.00,Excluded: roas_below_one.,/590
+AD-0592,YouTube,M 35-44,Product Demo,Paused,2025-03-06,19,21016.66,394247.22,18.76,Not flagged,0.00,Excluded: roas_below_one.,/591
+AD-0593,Instagram,M 18-24,Celebrity Endorsement,Active,2025-06-06,49,130556.56,19917687.88,152.56,Not flagged,0.00,Excluded: roas_below_one.,/592
+AD-0594,Google,M 25-34,Lifestyle,Paused,2025-01-22,61,191889.01,16999610.29,88.59,Not flagged,0.00,Excluded: roas_below_one.,/593
+AD-0595,Google,F 18-24,UGC Style,Paused,2025-09-15,35,27388.64,1097835.65,40.08,Not flagged,0.00,Excluded: roas_below_one.,/594
+AD-0596,Google,F 25-34,Doctor Trust,Completed,2025-09-01,20,174793.3,985009.75,5.64,Not flagged,0.00,Excluded: roas_below_one.,/595
+AD-0597,YouTube,F 25-34,Before/After,Completed,2025-07-07,37,113454.6,1994097.55,17.58,Not flagged,0.00,Excluded: roas_below_one.,/596
+AD-0598,Instagram,F 35-44,Infographic,Completed,2025-03-23,64,100231.96,31085534.73,310.14,Not flagged,0.00,Excluded: roas_below_one.,/597
+AD-0599,Google,M 25-34,Before/After,Completed,2025-09-24,30,57744.52,7970318.36,138.03,Not flagged,0.00,Excluded: roas_below_one.,/598
+AD-0600,Instagram,M 35-44,Before/After,Completed,2025-10-11,54,10788.48,2774617.84,257.18,Not flagged,0.00,Excluded: roas_below_one.,/599
+AD-0601,Meta,F 25-34,Product Demo,Active,2025-05-10,85,44839.45,1285305.45,28.66,Not flagged,0.00,Excluded: roas_below_one.,/600
+AD-0602,Instagram,M 35-44,Infographic,Paused,2025-05-20,39,152965.83,2362574.94,15.45,Not flagged,0.00,Excluded: roas_below_one.,/601
+AD-0603,Instagram,F 25-34,Doctor Trust,Active,2025-04-15,76,59455.46,6769036.17,113.85,Not flagged,0.00,Excluded: roas_below_one.,/602
+AD-0604,Meta,M 35-44,Testimonial,Paused,2025-08-19,68,189649.72,8340383.95,43.98,Not flagged,0.00,Excluded: roas_below_one.,/603
+AD-0605,Instagram,M 35-44,Celebrity Endorsement,Paused,2025-08-25,40,116720.2,3194545.95,27.37,Not flagged,0.00,Excluded: roas_below_one.,/604
+AD-0606,Google,F 25-34,UGC Style,Completed,2025-01-14,12,67570.25,13727791.23,203.16,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/605
+AD-0607,Meta,F 18-24,Lifestyle,Active,2025-02-23,77,183141.59,3376865.36,18.44,Not flagged,0.00,Excluded: roas_below_one.,/606
+AD-0608,YouTube,F 35-44,Doctor Trust,Paused,2025-08-04,46,174218.13,66497234.89,381.69,Not flagged,0.00,Excluded: roas_below_one.,/607
+AD-0609,Meta,M 18-24,UGC Style,Paused,2025-01-22,15,48924.77,1677756.64,34.29,Not flagged,0.00,Excluded: roas_below_one.,/608
+AD-0610,Instagram,M 25-34,Product Demo,Active,2025-02-09,50,116943.73,30419946.12,260.12,Not flagged,0.00,Excluded: roas_below_one.,/609
+AD-0611,Google,F 35-44,Celebrity Endorsement,Completed,2025-10-15,3,61001.93,2607002.47,42.74,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/610
+AD-0612,Meta,M 18-24,Before/After,Paused,2025-04-12,63,122984.32,8270031.34,67.24,Not flagged,0.00,Excluded: roas_below_one.,/611
+AD-0613,YouTube,F 25-34,Celebrity Endorsement,Completed,2025-10-24,85,125030.79,11971423.06,95.75,Not flagged,0.00,Excluded: roas_below_one.,/612
+AD-0614,YouTube,F 35-44,Doctor Trust,Active,2025-11-02,74,6703.02,463640.61,69.17,Not flagged,0.00,Excluded: roas_below_one.,/613
+AD-0615,Google,M 18-24,Celebrity Endorsement,Completed,2025-07-14,32,29886.82,3641214.98,121.83,Not flagged,0.00,Excluded: roas_below_one.,/614
+AD-0616,Google,M 35-44,Testimonial,Completed,2025-09-26,44,170558.54,16844201.3,98.76,Not flagged,0.00,Excluded: roas_below_one.,/615
+AD-0617,Meta,F 25-34,UGC Style,Active,2025-04-19,82,42241.75,2281972.17,54.02,Not flagged,0.00,Excluded: roas_below_one.,/616
+AD-0618,Google,M 25-34,Product Demo,Completed,2025-08-26,80,161292.95,5136399.96,31.85,Not flagged,0.00,Excluded: roas_below_one.,/617
+AD-0619,Meta,F 18-24,Product Demo,Paused,2025-10-08,59,136764.23,15956666.62,116.67,Not flagged,0.00,Excluded: roas_below_one.,/618
+AD-0620,Instagram,M 25-34,Lifestyle,Active,2025-03-06,71,105045.3,275217.19,2.62,Not flagged,0.00,Excluded: roas_below_one.,/619
+AD-0621,Meta,M 35-44,Testimonial,Active,2025-09-20,87,199249.64,16318097.85,81.9,Not flagged,0.00,Excluded: roas_below_one.,/620
+AD-0622,Meta,M 18-24,Infographic,Completed,2025-06-04,9,122322.88,1960081.33,16.02,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/621
+AD-0623,Instagram,F 35-44,Doctor Trust,Active,2025-02-19,52,131504.52,7870464.42,59.85,Not flagged,0.00,Excluded: roas_below_one.,/622
+AD-0624,Meta,M 25-34,Product Demo,Active,2025-10-20,69,118389.81,3176679.84,26.83,Not flagged,0.00,Excluded: roas_below_one.,/623
+AD-0625,YouTube,F 35-44,Infographic,Completed,2025-08-01,27,55587.72,4807334.79,86.48,Not flagged,0.00,Excluded: roas_below_one.,/624
+AD-0626,Google,F 18-24,Doctor Trust,Completed,2025-09-21,41,47302.33,1628664.99,34.43,Not flagged,0.00,Excluded: roas_below_one.,/625
+AD-0627,Google,F 35-44,Product Demo,Active,2025-11-15,28,149807.61,10121459.07,67.56,Not flagged,0.00,Excluded: roas_below_one.,/626
+AD-0628,Instagram,F 25-34,Infographic,Active,2025-02-20,84,194387.45,3019783.14,15.53,Not flagged,0.00,Excluded: roas_below_one.,/627
+AD-0629,YouTube,M 35-44,Lifestyle,Active,2025-10-06,83,143483.72,50572673.94,352.46,Not flagged,0.00,Excluded: roas_below_one.,/628
+AD-0630,Meta,F 35-44,Lifestyle,Paused,2025-09-24,87,92358.8,388831.78,4.21,Not flagged,0.00,Excluded: roas_below_one.,/629
+AD-0631,Google,F 18-24,Infographic,Completed,2025-09-17,77,196182.22,39417396.07,200.92,Not flagged,0.00,Excluded: roas_below_one.,/630
+AD-0632,YouTube,F 35-44,Testimonial,Completed,2025-11-05,18,194310.69,26667724.27,137.24,Not flagged,0.00,Excluded: roas_below_one.,/631
+AD-0633,Google,M 18-24,Infographic,Paused,2025-05-26,75,106927.24,2029251.66,18.98,Not flagged,0.00,Excluded: roas_below_one.,/632
+AD-0634,Google,M 35-44,Celebrity Endorsement,Paused,2025-04-22,52,78554.74,8171395.27,104.02,Not flagged,0.00,Excluded: roas_below_one.,/633
+AD-0635,Instagram,M 25-34,Testimonial,Paused,2025-05-21,7,27153.2,1205110.73,44.38,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/634
+AD-0636,Google,M 35-44,Testimonial,Completed,2025-08-20,88,156516.98,1407540.72,8.99,Not flagged,0.00,Excluded: roas_below_one.,/635
+AD-0637,Meta,M 18-24,Testimonial,Completed,2025-07-20,68,171318.91,34540051.05,201.61,Not flagged,0.00,Excluded: roas_below_one.,/636
+AD-0638,Google,F 18-24,Product Demo,Paused,2025-05-03,48,158199.34,10450431.58,66.06,Not flagged,0.00,Excluded: roas_below_one.,/637
+AD-0639,Meta,M 25-34,UGC Style,Active,2025-07-21,52,129784.43,52255653.43,402.63,Not flagged,0.00,Excluded: roas_below_one.,/638
+AD-0640,Google,F 18-24,Product Demo,Paused,2025-07-02,66,154634.46,7615312.83,49.25,Not flagged,0.00,Excluded: roas_below_one.,/639
+AD-0641,Meta,F 35-44,Before/After,Completed,2025-04-25,4,27550.6,4283827.2,155.49,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/640
+AD-0642,Google,M 25-34,Celebrity Endorsement,Paused,2025-05-23,45,36022.94,123320.71,3.42,Not flagged,0.00,Excluded: roas_below_one.,/641
+AD-0643,Meta,F 35-44,Doctor Trust,Paused,2025-01-25,13,84131.13,24468304.37,290.84,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/642
+AD-0644,Meta,M 35-44,Testimonial,Completed,2025-08-02,55,99923.91,688017.61,6.89,Not flagged,0.00,Excluded: roas_below_one.,/643
+AD-0645,Meta,M 35-44,Lifestyle,Completed,2025-08-28,26,187784.1,33950449.12,180.8,Not flagged,0.00,Excluded: roas_below_one.,/644
+AD-0646,YouTube,F 25-34,Celebrity Endorsement,Paused,2025-04-25,74,178806.57,26053818.3,145.71,Not flagged,0.00,Excluded: roas_below_one.,/645
+AD-0647,Instagram,M 18-24,Infographic,Paused,2025-05-03,78,126425.4,1164062.23,9.21,Not flagged,0.00,Excluded: roas_below_one.,/646
+AD-0648,Instagram,F 18-24,Testimonial,Paused,2025-09-08,90,33146.37,454865.36,13.72,Not flagged,0.00,Excluded: roas_below_one.,/647
+AD-0649,Google,M 25-34,Doctor Trust,Paused,2025-11-13,79,192233.21,6239677.68,32.46,Not flagged,0.00,Excluded: roas_below_one.,/648
+AD-0650,Instagram,F 35-44,Doctor Trust,Completed,2025-10-19,65,22757.85,391995.4,17.22,Not flagged,0.00,Excluded: roas_below_one.,/649
+AD-0651,Instagram,M 18-24,Doctor Trust,Paused,2025-08-27,15,112635.96,93135499.05,826.87,Not flagged,0.00,Excluded: roas_below_one.,/650
+AD-0652,Google,F 25-34,Product Demo,Active,2025-08-18,59,102832.45,548414.68,5.33,Not flagged,0.00,Excluded: roas_below_one.,/651
+AD-0653,Instagram,M 18-24,Celebrity Endorsement,Completed,2025-10-24,63,73698.91,1466877.65,19.9,Not flagged,0.00,Excluded: roas_below_one.,/652
+AD-0654,YouTube,M 35-44,Lifestyle,Active,2025-07-12,2,18083.39,1385003.17,76.59,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/653
+AD-0655,Meta,F 18-24,Product Demo,Active,2025-09-28,50,69271.35,18260121.97,263.6,Not flagged,0.00,Excluded: roas_below_one.,/654
+AD-0656,YouTube,F 18-24,Doctor Trust,Active,2025-10-10,78,102593.69,17998430.44,175.43,Not flagged,0.00,Excluded: roas_below_one.,/655
+AD-0657,Meta,F 25-34,Doctor Trust,Completed,2025-03-15,62,157568.37,22680776.08,143.94,Not flagged,0.00,Excluded: roas_below_one.,/656
+AD-0658,Instagram,F 18-24,Before/After,Active,2025-08-26,46,185857.62,35225834.78,189.53,Not flagged,0.00,Excluded: roas_below_one.,/657
+AD-0659,Google,M 18-24,Testimonial,Active,2025-11-23,43,59177.87,2390174.41,40.39,Not flagged,0.00,Excluded: roas_below_one.,/658
+AD-0660,Google,M 25-34,Celebrity Endorsement,Active,2025-07-02,53,106050.7,1009152.12,9.52,Not flagged,0.00,Excluded: roas_below_one.,/659
+AD-0661,Google,F 18-24,Lifestyle,Completed,2025-09-06,34,80491.46,1393860.65,17.32,Not flagged,0.00,Excluded: roas_below_one.,/660
+AD-0662,Instagram,F 18-24,Infographic,Paused,2025-06-20,30,46468.68,9688143.61,208.49,Not flagged,0.00,Excluded: roas_below_one.,/661
+AD-0663,YouTube,F 35-44,Lifestyle,Completed,2025-10-05,76,14567.42,792433.69,54.4,Not flagged,0.00,Excluded: roas_below_one.,/662
+AD-0664,Google,F 25-34,Testimonial,Active,2025-03-12,56,75939.28,5667666.82,74.63,Not flagged,0.00,Excluded: roas_below_one.,/663
+AD-0665,Instagram,F 35-44,Celebrity Endorsement,Completed,2025-07-26,31,143375,57700278.09,402.44,Not flagged,0.00,Excluded: roas_below_one.,/664
+AD-0666,Google,F 25-34,Celebrity Endorsement,Active,2025-01-26,33,193205.64,5629606.39,29.14,Not flagged,0.00,Excluded: roas_below_one.,/665
+AD-0667,YouTube,F 25-34,Celebrity Endorsement,Paused,2025-09-08,60,51253.8,13048516.35,254.59,Not flagged,0.00,Excluded: roas_below_one.,/666
+AD-0668,Google,M 25-34,Before/After,Active,2025-07-01,43,64765.93,1090416.29,16.84,Not flagged,0.00,Excluded: roas_below_one.,/667
+AD-0669,YouTube,F 25-34,UGC Style,Completed,2025-11-10,86,2593.03,542534.58,209.23,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/668
+AD-0670,YouTube,F 25-34,Before/After,Active,2025-10-17,74,92002.86,2989859.51,32.5,Not flagged,0.00,Excluded: roas_below_one.,/669
+AD-0671,Google,F 18-24,Lifestyle,Completed,2025-11-14,70,180159.27,5550654.65,30.81,Not flagged,0.00,Excluded: roas_below_one.,/670
+AD-0672,Instagram,M 18-24,Testimonial,Paused,2025-09-28,60,15043.41,438117.52,29.12,Not flagged,0.00,Excluded: roas_below_one.,/671
+AD-0673,YouTube,F 35-44,Testimonial,Completed,2025-10-21,54,69963.9,2927322.07,41.84,Not flagged,0.00,Excluded: roas_below_one.,/672
+AD-0674,Instagram,M 25-34,UGC Style,Completed,2025-04-12,65,56527.47,121148.88,2.14,Not flagged,0.00,Excluded: roas_below_one.,/673
+AD-0675,Instagram,F 35-44,Doctor Trust,Paused,2025-05-01,5,170733.12,53915604.35,315.79,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/674
+AD-0676,YouTube,F 18-24,Infographic,Active,2025-07-15,39,19443.08,2148197.88,110.49,Not flagged,0.00,Excluded: roas_below_one.,/675
+AD-0677,Instagram,F 35-44,UGC Style,Completed,2025-02-22,37,850.5,55716.33,65.51,Not flagged,0.00,"Excluded: roas_below_one, spend_above_5000.",/676
+AD-0678,Google,M 25-34,Lifestyle,Paused,2025-07-01,73,125940.58,23552283.13,187.01,Not flagged,0.00,Excluded: roas_below_one.,/677
+AD-0679,Meta,F 25-34,Before/After,Paused,2025-09-15,34,198197.36,1816686.56,9.17,Not flagged,0.00,Excluded: roas_below_one.,/678
+AD-0680,Meta,F 18-24,Product Demo,Paused,2025-09-26,27,114272.61,5870116.2,51.37,Not flagged,0.00,Excluded: roas_below_one.,/679
+AD-0681,Meta,F 18-24,UGC Style,Paused,2025-11-10,60,57289.82,10249369.49,178.9,Not flagged,0.00,Excluded: roas_below_one.,/680
+AD-0682,Instagram,M 25-34,Before/After,Paused,2025-08-18,49,103807.4,7968568.33,76.76,Not flagged,0.00,Excluded: roas_below_one.,/681
+AD-0683,Meta,M 25-34,Infographic,Paused,2025-10-14,78,143760.62,119297.06,0.83,Wasted spend,143760.62,All three strict thresholds pass; full spend counts once in Meta.,/682
+AD-0684,Instagram,F 35-44,Testimonial,Active,2025-08-13,16,62682.36,18621296.71,297.07,Not flagged,0.00,Excluded: roas_below_one.,/683
+AD-0685,Instagram,M 18-24,Infographic,Active,2025-07-03,11,123754.25,1480980.34,11.97,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/684
+AD-0686,Meta,F 35-44,Lifestyle,Active,2025-04-03,36,104444.7,58116675.41,556.43,Not flagged,0.00,Excluded: roas_below_one.,/685
+AD-0687,Meta,F 18-24,Lifestyle,Completed,2025-08-15,88,170647.72,1976505.93,11.58,Not flagged,0.00,Excluded: roas_below_one.,/686
+AD-0688,Google,M 25-34,Celebrity Endorsement,Active,2025-03-22,35,116901.73,2552713.08,21.84,Not flagged,0.00,Excluded: roas_below_one.,/687
+AD-0689,Meta,F 35-44,Infographic,Completed,2025-04-16,60,64485.68,1643977.05,25.49,Not flagged,0.00,Excluded: roas_below_one.,/688
+AD-0690,YouTube,M 25-34,Infographic,Completed,2025-06-09,31,90701.41,1392647.93,15.35,Not flagged,0.00,Excluded: roas_below_one.,/689
+AD-0691,Instagram,M 18-24,Lifestyle,Active,2025-05-15,1,42103.76,4910729.07,116.63,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/690
+AD-0692,Meta,F 18-24,Product Demo,Paused,2025-02-08,56,115702.89,16614545.85,143.6,Not flagged,0.00,Excluded: roas_below_one.,/691
+AD-0693,Instagram,M 25-34,Before/After,Paused,2025-08-19,18,95240.06,692732.52,7.27,Not flagged,0.00,Excluded: roas_below_one.,/692
+AD-0694,Google,F 35-44,Doctor Trust,Active,2025-01-21,13,11024.32,231324.84,20.98,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/693
+AD-0695,Google,F 18-24,Lifestyle,Paused,2025-01-14,39,81783.14,9455866.45,115.62,Not flagged,0.00,Excluded: roas_below_one.,/694
+AD-0696,Google,F 25-34,UGC Style,Completed,2025-01-18,34,92275.23,21586531.79,233.94,Not flagged,0.00,Excluded: roas_below_one.,/695
+AD-0697,Instagram,M 35-44,Lifestyle,Paused,2025-08-18,13,80506.21,2202475.72,27.36,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/696
+AD-0698,Meta,F 35-44,Celebrity Endorsement,Paused,2025-10-18,36,63288.6,11294042.99,178.45,Not flagged,0.00,Excluded: roas_below_one.,/697
+AD-0699,YouTube,F 18-24,Product Demo,Active,2025-07-18,33,62449.41,8490685.15,135.96,Not flagged,0.00,Excluded: roas_below_one.,/698
+AD-0700,Meta,F 25-34,Celebrity Endorsement,Paused,2025-03-02,77,179388.88,56370988.55,314.24,Not flagged,0.00,Excluded: roas_below_one.,/699
+AD-0701,YouTube,F 18-24,UGC Style,Active,2025-04-10,22,98978.73,22655625.63,228.89,Not flagged,0.00,Excluded: roas_below_one.,/700
+AD-0702,Google,M 25-34,Celebrity Endorsement,Active,2025-03-25,4,116912.77,2144474.93,18.34,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/701
+AD-0703,Google,F 25-34,Before/After,Paused,2025-09-03,45,62562.2,3152798.74,50.39,Not flagged,0.00,Excluded: roas_below_one.,/702
+AD-0704,Meta,F 35-44,Celebrity Endorsement,Completed,2025-11-28,13,32463.34,1552955.46,47.84,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/703
+AD-0705,Instagram,M 25-34,UGC Style,Paused,2025-05-18,42,157302.44,14309997.92,90.97,Not flagged,0.00,Excluded: roas_below_one.,/704
+AD-0706,Instagram,M 35-44,UGC Style,Active,2025-07-08,8,155008.26,1303097.97,8.41,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/705
+AD-0707,Meta,M 25-34,UGC Style,Active,2025-09-08,2,58589.16,4912949.66,83.85,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/706
+AD-0708,Meta,F 25-34,Product Demo,Paused,2025-08-22,35,35647.76,620629.03,17.41,Not flagged,0.00,Excluded: roas_below_one.,/707
+AD-0709,Meta,M 35-44,Infographic,Completed,2025-09-27,67,102377.99,10724764.96,104.76,Not flagged,0.00,Excluded: roas_below_one.,/708
+AD-0710,Google,M 18-24,Infographic,Paused,2025-10-25,79,10516.6,296841.03,28.23,Not flagged,0.00,Excluded: roas_below_one.,/709
+AD-0711,YouTube,M 25-34,Infographic,Completed,2025-05-04,35,108454.89,7636821.73,70.41,Not flagged,0.00,Excluded: roas_below_one.,/710
+AD-0712,Instagram,F 35-44,Celebrity Endorsement,Completed,2025-11-28,24,125487.78,4253217.62,33.89,Not flagged,0.00,Excluded: roas_below_one.,/711
+AD-0713,Meta,F 25-34,Infographic,Completed,2025-03-27,80,189364.86,190412.67,1.01,Not flagged,0.00,Excluded: roas_below_one.,/712
+AD-0714,Google,F 35-44,Doctor Trust,Completed,2025-11-10,8,68640.1,1342058.45,19.55,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/713
+AD-0715,Google,M 25-34,Product Demo,Paused,2025-11-13,41,64548.82,9473239.32,146.76,Not flagged,0.00,Excluded: roas_below_one.,/714
+AD-0716,YouTube,M 35-44,Infographic,Paused,2025-04-23,59,92830.66,16586990.05,178.68,Not flagged,0.00,Excluded: roas_below_one.,/715
+AD-0717,YouTube,F 18-24,UGC Style,Completed,2025-06-12,16,194903.9,59614412.67,305.87,Not flagged,0.00,Excluded: roas_below_one.,/716
+AD-0718,Google,F 25-34,Lifestyle,Active,2025-02-24,10,162537.01,873647.83,5.38,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/717
+AD-0719,Instagram,F 18-24,Before/After,Active,2025-01-19,69,122724.33,62788686.8,511.62,Not flagged,0.00,Excluded: roas_below_one.,/718
+AD-0720,Instagram,M 18-24,Infographic,Paused,2025-02-06,62,10312.52,1024637.02,99.36,Not flagged,0.00,Excluded: roas_below_one.,/719
+AD-0721,Google,F 35-44,Before/After,Paused,2025-07-03,6,25869.95,3587792.01,138.69,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/720
+AD-0722,Instagram,F 18-24,Doctor Trust,Paused,2025-08-20,57,133718.3,2049098.76,15.32,Not flagged,0.00,Excluded: roas_below_one.,/721
+AD-0723,Google,M 35-44,Celebrity Endorsement,Active,2025-03-20,80,33900.48,2224969.45,65.63,Not flagged,0.00,Excluded: roas_below_one.,/722
+AD-0724,Instagram,F 35-44,Testimonial,Active,2025-08-19,45,139173.77,15012346.2,107.87,Not flagged,0.00,Excluded: roas_below_one.,/723
+AD-0725,Meta,M 25-34,Lifestyle,Paused,2025-11-07,35,114816.29,15216784.32,132.53,Not flagged,0.00,Excluded: roas_below_one.,/724
+AD-0726,Meta,F 25-34,Doctor Trust,Completed,2025-02-25,90,76217.12,2412047.97,31.65,Not flagged,0.00,Excluded: roas_below_one.,/725
+AD-0727,YouTube,F 18-24,Before/After,Active,2025-11-13,85,99786.13,17155476.05,171.92,Not flagged,0.00,Excluded: roas_below_one.,/726
+AD-0728,YouTube,M 25-34,UGC Style,Paused,2025-04-06,2,52053.91,3186583.09,61.22,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/727
+AD-0729,YouTube,F 25-34,Doctor Trust,Paused,2025-03-18,90,59963.18,10395724.26,173.37,Not flagged,0.00,Excluded: roas_below_one.,/728
+AD-0730,Meta,M 25-34,Testimonial,Completed,2025-03-12,34,132262.21,3712103.27,28.07,Not flagged,0.00,Excluded: roas_below_one.,/729
+AD-0731,Google,F 35-44,UGC Style,Paused,2025-04-15,8,192879.36,9834162.86,50.99,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/730
+AD-0732,Google,F 25-34,Product Demo,Active,2025-09-28,23,79271.37,798259.16,10.07,Not flagged,0.00,Excluded: roas_below_one.,/731
+AD-0733,Meta,F 35-44,UGC Style,Active,2025-07-19,33,90183.84,439298.62,4.87,Not flagged,0.00,Excluded: roas_below_one.,/732
+AD-0734,Meta,M 18-24,Product Demo,Paused,2025-02-15,78,16755.29,287899.83,17.18,Not flagged,0.00,Excluded: roas_below_one.,/733
+AD-0735,Instagram,M 25-34,Product Demo,Paused,2025-05-26,18,78629.99,530981.85,6.75,Not flagged,0.00,Excluded: roas_below_one.,/734
+AD-0736,Meta,M 25-34,Testimonial,Completed,2025-11-20,5,123839.26,35736433.52,288.57,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/735
+AD-0737,Google,F 35-44,Before/After,Active,2025-08-18,66,45626.41,1263153.87,27.68,Not flagged,0.00,Excluded: roas_below_one.,/736
+AD-0738,Meta,F 25-34,Lifestyle,Completed,2025-06-17,21,138060.93,3241700.27,23.48,Not flagged,0.00,Excluded: roas_below_one.,/737
+AD-0739,YouTube,F 35-44,Celebrity Endorsement,Completed,2025-02-08,61,34365.27,328965.23,9.57,Not flagged,0.00,Excluded: roas_below_one.,/738
+AD-0740,Meta,F 25-34,Doctor Trust,Active,2025-01-22,18,84693.02,5447159.84,64.32,Not flagged,0.00,Excluded: roas_below_one.,/739
+AD-0741,Google,F 25-34,Infographic,Paused,2025-03-19,66,189248.28,9979730.84,52.73,Not flagged,0.00,Excluded: roas_below_one.,/740
+AD-0742,YouTube,M 18-24,Product Demo,Paused,2025-09-27,61,93978.54,826347.66,8.79,Not flagged,0.00,Excluded: roas_below_one.,/741
+AD-0743,Google,M 35-44,Infographic,Active,2025-10-20,1,195929.01,1169263.2,5.97,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/742
+AD-0744,YouTube,F 18-24,Doctor Trust,Paused,2025-10-24,16,154371.62,1537319.83,9.96,Not flagged,0.00,Excluded: roas_below_one.,/743
+AD-0745,YouTube,F 18-24,Lifestyle,Paused,2025-09-07,88,142525.26,2148245.13,15.07,Not flagged,0.00,Excluded: roas_below_one.,/744
+AD-0746,Meta,M 35-44,Product Demo,Completed,2025-05-19,12,33370.8,126887.14,3.8,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/745
+AD-0747,Instagram,F 35-44,Lifestyle,Active,2025-04-15,72,14456.52,993281.95,68.71,Not flagged,0.00,Excluded: roas_below_one.,/746
+AD-0748,YouTube,F 35-44,Infographic,Completed,2025-07-03,67,89441.57,19006043.9,212.5,Not flagged,0.00,Excluded: roas_below_one.,/747
+AD-0749,Meta,F 25-34,UGC Style,Completed,2025-07-06,6,199055.08,18721496.69,94.05,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/748
+AD-0750,Meta,F 25-34,Infographic,Active,2025-01-23,72,126241.06,857157.26,6.79,Not flagged,0.00,Excluded: roas_below_one.,/749
+AD-0751,Instagram,M 35-44,Before/After,Active,2025-04-06,4,150358.33,18811631.99,125.11,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/750
+AD-0752,YouTube,M 35-44,UGC Style,Active,2025-09-27,18,78935.29,4921244.64,62.35,Not flagged,0.00,Excluded: roas_below_one.,/751
+AD-0753,Google,M 35-44,Infographic,Completed,2025-04-10,58,158332.57,34108486.72,215.42,Not flagged,0.00,Excluded: roas_below_one.,/752
+AD-0754,Instagram,F 25-34,Infographic,Active,2025-09-04,13,89781.75,6526044.3,72.69,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/753
+AD-0755,Meta,F 25-34,UGC Style,Paused,2025-05-25,20,165040.19,1980005.81,12,Not flagged,0.00,Excluded: roas_below_one.,/754
+AD-0756,Meta,F 25-34,UGC Style,Paused,2025-04-13,65,8624.44,362628.67,42.05,Not flagged,0.00,Excluded: roas_below_one.,/755
+AD-0757,YouTube,F 18-24,Testimonial,Completed,2025-05-13,56,82019.59,7580899.42,92.43,Not flagged,0.00,Excluded: roas_below_one.,/756
+AD-0758,YouTube,M 35-44,Lifestyle,Active,2025-02-05,82,106126.13,2491733.69,23.48,Not flagged,0.00,Excluded: roas_below_one.,/757
+AD-0759,YouTube,M 18-24,Infographic,Completed,2025-03-11,72,196538.05,4660220.17,23.71,Not flagged,0.00,Excluded: roas_below_one.,/758
+AD-0760,Instagram,M 18-24,Testimonial,Paused,2025-05-25,9,156488.27,12706161.52,81.2,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/759
+AD-0761,YouTube,F 25-34,Product Demo,Completed,2025-03-16,19,85936.66,22588284.12,262.85,Not flagged,0.00,Excluded: roas_below_one.,/760
+AD-0762,Meta,F 18-24,Product Demo,Active,2025-10-10,83,17981.73,791672.76,44.03,Not flagged,0.00,Excluded: roas_below_one.,/761
+AD-0763,Instagram,F 18-24,Testimonial,Paused,2025-03-14,82,150780.05,8010044.79,53.12,Not flagged,0.00,Excluded: roas_below_one.,/762
+AD-0764,Meta,F 25-34,Testimonial,Paused,2025-05-09,75,196636.09,2454916.72,12.48,Not flagged,0.00,Excluded: roas_below_one.,/763
+AD-0765,Google,M 25-34,UGC Style,Active,2025-08-09,59,89845.9,5448792.42,60.65,Not flagged,0.00,Excluded: roas_below_one.,/764
+AD-0766,Meta,M 25-34,Lifestyle,Active,2025-06-11,32,15033.31,3224449.19,214.49,Not flagged,0.00,Excluded: roas_below_one.,/765
+AD-0767,Meta,M 25-34,Lifestyle,Active,2025-03-01,56,96571.55,24448086.7,253.16,Not flagged,0.00,Excluded: roas_below_one.,/766
+AD-0768,Google,M 18-24,Before/After,Paused,2025-05-23,13,18822.03,2369310.84,125.88,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/767
+AD-0769,Instagram,M 25-34,Doctor Trust,Completed,2025-04-13,11,186700.22,8339766.13,44.67,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/768
+AD-0770,YouTube,M 25-34,Infographic,Paused,2025-10-20,72,124581.35,25541816.71,205.02,Not flagged,0.00,Excluded: roas_below_one.,/769
+AD-0771,Meta,F 18-24,Infographic,Paused,2025-10-04,60,113418.27,48206050.68,425.03,Not flagged,0.00,Excluded: roas_below_one.,/770
+AD-0772,Instagram,M 18-24,Celebrity Endorsement,Active,2025-11-24,47,155584.68,11160877.9,71.74,Not flagged,0.00,Excluded: roas_below_one.,/771
+AD-0773,Google,M 35-44,Lifestyle,Completed,2025-02-15,84,44282.24,613171.78,13.85,Not flagged,0.00,Excluded: roas_below_one.,/772
+AD-0774,Instagram,M 25-34,UGC Style,Paused,2025-09-26,68,186895,32525510.5,174.03,Not flagged,0.00,Excluded: roas_below_one.,/773
+AD-0775,YouTube,F 25-34,Product Demo,Active,2025-07-21,85,113916.39,5466090.71,47.98,Not flagged,0.00,Excluded: roas_below_one.,/774
+AD-0776,Instagram,M 35-44,UGC Style,Paused,2025-08-08,4,44122.19,7898004.71,179,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/775
+AD-0777,Meta,F 25-34,Product Demo,Completed,2025-08-07,38,60392.55,963235.07,15.95,Not flagged,0.00,Excluded: roas_below_one.,/776
+AD-0778,Meta,M 35-44,Before/After,Active,2025-08-17,35,70931.9,1059162.85,14.93,Not flagged,0.00,Excluded: roas_below_one.,/777
+AD-0779,Meta,M 25-34,Infographic,Active,2025-02-11,20,122444.4,10503536.49,85.78,Not flagged,0.00,Excluded: roas_below_one.,/778
+AD-0780,Meta,M 25-34,Infographic,Paused,2025-10-15,35,67456.41,27693368.16,410.54,Not flagged,0.00,Excluded: roas_below_one.,/779
+AD-0781,YouTube,M 25-34,Doctor Trust,Active,2025-10-20,55,156229.05,17397643.58,111.36,Not flagged,0.00,Excluded: roas_below_one.,/780
+AD-0782,Google,M 25-34,Infographic,Active,2025-11-26,6,27049.43,798033.22,29.5,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/781
+AD-0783,YouTube,M 25-34,UGC Style,Paused,2025-08-23,20,31831.81,249746.5,7.85,Not flagged,0.00,Excluded: roas_below_one.,/782
+AD-0784,YouTube,M 25-34,Testimonial,Completed,2025-06-13,5,140323.61,35710152.09,254.48,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/783
+AD-0785,Google,F 35-44,Before/After,Completed,2025-02-27,26,137468.24,27637136.11,201.04,Not flagged,0.00,Excluded: roas_below_one.,/784
+AD-0786,YouTube,F 35-44,Product Demo,Paused,2025-02-20,34,182261.2,2312050.83,12.69,Not flagged,0.00,Excluded: roas_below_one.,/785
+AD-0787,Meta,M 25-34,UGC Style,Paused,2025-09-07,87,56452.44,429442.45,7.61,Not flagged,0.00,Excluded: roas_below_one.,/786
+AD-0788,YouTube,F 25-34,Testimonial,Paused,2025-05-15,7,70907.82,685038.42,9.66,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/787
+AD-0789,Meta,F 35-44,Lifestyle,Paused,2025-03-20,20,135865.87,24629268.81,181.28,Not flagged,0.00,Excluded: roas_below_one.,/788
+AD-0790,Meta,F 25-34,Celebrity Endorsement,Active,2025-05-24,71,98908.62,23186815.45,234.43,Not flagged,0.00,Excluded: roas_below_one.,/789
+AD-0791,Instagram,F 25-34,Product Demo,Completed,2025-11-27,49,163248.58,15249361.31,93.41,Not flagged,0.00,Excluded: roas_below_one.,/790
+AD-0792,YouTube,M 25-34,Before/After,Completed,2025-08-24,75,11563.92,121167.36,10.48,Not flagged,0.00,Excluded: roas_below_one.,/791
+AD-0793,Instagram,M 35-44,Product Demo,Completed,2025-04-27,22,130633.76,214350.98,1.64,Not flagged,0.00,Excluded: roas_below_one.,/792
+AD-0794,Google,M 18-24,Infographic,Paused,2025-02-27,37,148737.7,4024991.86,27.06,Not flagged,0.00,Excluded: roas_below_one.,/793
+AD-0795,Instagram,M 35-44,Before/After,Completed,2025-02-21,55,155567.54,25184946.19,161.89,Not flagged,0.00,Excluded: roas_below_one.,/794
+AD-0796,Instagram,F 25-34,Infographic,Active,2025-07-12,80,185476.09,6310437.34,34.02,Not flagged,0.00,Excluded: roas_below_one.,/795
+AD-0797,Instagram,F 25-34,UGC Style,Paused,2025-08-21,2,104398.78,5721723.49,54.81,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/796
+AD-0798,Meta,M 18-24,Lifestyle,Completed,2025-04-14,6,89670.9,5805855.89,64.75,Not flagged,0.00,"Excluded: roas_below_one, running_over_14_days.",/797
+AD-0799,Google,M 25-34,Doctor Trust,Paused,2025-03-25,64,40327.3,331590.11,8.22,Not flagged,0.00,Excluded: roas_below_one.,/798
+AD-0800,Meta,F 35-44,Lifestyle,Completed,2025-03-16,64,67324.37,12269404.31,182.24,Not flagged,0.00,Excluded: roas_below_one.,/799

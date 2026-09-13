@@ -1,0 +1,159 @@
+1
+00:00:00,093 --> 00:00:03,032
+Eight hundred ads Four platforms Which campaigns
+
+2
+00:00:03,044 --> 00:00:04,977
+had enough money and time but still
+
+3
+00:00:04,988 --> 00:00:07,211
+failed to earn back their spend Adlens
+
+4
+00:00:07,222 --> 00:00:09,560
+turns the official Mosaic dataset into a
+
+5
+00:00:09,572 --> 00:00:10,498
+traceable answer
+
+6
+00:00:11,304 --> 00:00:12,844
+The complete source is preserved with a
+
+7
+00:00:12,855 --> 00:00:15,876
+download timestamp and checksum Every ad retains
+
+8
+00:00:15,888 --> 00:00:19,823
+its platform audience creative theme spend revenue
+
+9
+00:00:20,066 --> 00:00:22,172
+and running days Nothing is sampled out
+
+10
+00:00:22,981 --> 00:00:24,868
+An ad qualifies only when return on
+
+11
+00:00:24,879 --> 00:00:27,252
+ad spend is below one spend exceeds
+
+12
+00:00:27,263 --> 00:00:29,358
+five thousand rupees and it has run
+
+13
+00:00:29,370 --> 00:00:31,395
+for more than fourteen days All three
+
+14
+00:00:31,407 --> 00:00:33,780
+must pass Its full spend counts once
+
+15
+00:00:34,604 --> 00:00:38,007
+The result fourteen lakh seventy-five thousand seven
+
+16
+00:00:38,018 --> 00:00:41,468
+hundred thirty-one rupees and seventy-nine paise Thirteen
+
+17
+00:00:41,479 --> 00:00:44,824
+ads qualify Instagram contributes the most and
+
+18
+00:00:44,836 --> 00:00:47,440
+the four platform totals reconcile exactly to
+
+19
+00:00:47,451 --> 00:00:48,018
+the answer
+
+20
+00:00:48,826 --> 00:00:51,500
+The explorer makes that result practical Filter
+
+21
+00:00:51,511 --> 00:00:54,659
+by platform audience or creative theme Search
+
+22
+00:00:54,671 --> 00:00:57,194
+for an individual ad sort its performance
+
+23
+00:00:57,402 --> 00:00:59,694
+and open the evidence behind its classification
+
+24
+00:01:00,504 --> 00:01:02,622
+Take this Instagram ad It spent roughly
+
+25
+00:01:02,634 --> 00:01:05,226
+one lakh thirty-nine thousand rupees and earned
+
+26
+00:01:05,238 --> 00:01:08,108
+about ninety-five thousand Its reported return is
+
+27
+00:01:08,120 --> 00:01:10,886
+zero point six eight over sixty-five days
+
+28
+00:01:11,268 --> 00:01:13,247
+All three checks pass so its full
+
+29
+00:01:13,259 --> 00:01:16,025
+spend contributes once The exact amounts and
+
+30
+00:01:16,037 --> 00:01:18,039
+original source index remain visible
+
+31
+00:01:18,826 --> 00:01:21,222
+Creative rankings use total revenue divided by
+
+32
+00:01:21,233 --> 00:01:24,439
+total spend Doctor Trust Lifestyle and Product
+
+33
+00:01:24,451 --> 00:01:27,159
+Demo lead These synthetic returns are unusually
+
+34
+00:01:27,171 --> 00:01:30,296
+high so relative underperformance does not automatically
+
+35
+00:01:30,307 --> 00:01:32,379
+mean a whole audience is losing money
+
+36
+00:01:33,204 --> 00:01:36,121
+Python Decimal and a separate JavaScript integer-cents
+
+37
+00:01:36,132 --> 00:01:38,933
+calculation agree on every flagged ad and
+
+38
+00:01:38,945 --> 00:01:42,579
+platform subtotal Download the records and reconciliation
+
+39
+00:01:42,672 --> 00:01:45,415
+to reproduce the result Adlens makes every
+
+40
+00:01:45,426 --> 00:01:46,480
+rupee explainable

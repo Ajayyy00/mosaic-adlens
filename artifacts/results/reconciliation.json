@@ -1,0 +1,118 @@
+{
+  "status": "PASS",
+  "official_category": "Wasted spend",
+  "presentation_partition": "Platform (mutually exclusive)",
+  "exact_total": "1475731.79",
+  "total": "1475731.79",
+  "category_sum": "1475731.79",
+  "rounding_residual": "0.00",
+  "count": 13,
+  "threshold_order": [
+    "roas_below_one",
+    "spend_above_5000",
+    "running_over_14_days"
+  ],
+  "threshold_combinations": {
+    "000": 1,
+    "001": 19,
+    "010": 127,
+    "011": 638,
+    "110": 2,
+    "111": 13
+  },
+  "rounding": "Decimal ROUND_HALF_UP at final reporting. Official inputs use at most two decimal places.",
+  "duplicate_policy": "Quarantine repeats/conflicting IDs and block final answer; official page supplies no resolution policy.",
+  "record_contributions": [
+    {
+      "ad_id": "AD-0029",
+      "category": "Instagram",
+      "amount": "139192.58",
+      "why": "All three strict thresholds pass; full spend counts once in Instagram.",
+      "source_pointer": "/28"
+    },
+    {
+      "ad_id": "AD-0030",
+      "category": "Google",
+      "amount": "162681.14",
+      "why": "All three strict thresholds pass; full spend counts once in Google.",
+      "source_pointer": "/29"
+    },
+    {
+      "ad_id": "AD-0098",
+      "category": "Google",
+      "amount": "70999.24",
+      "why": "All three strict thresholds pass; full spend counts once in Google.",
+      "source_pointer": "/97"
+    },
+    {
+      "ad_id": "AD-0136",
+      "category": "YouTube",
+      "amount": "139358.02",
+      "why": "All three strict thresholds pass; full spend counts once in YouTube.",
+      "source_pointer": "/135"
+    },
+    {
+      "ad_id": "AD-0140",
+      "category": "Instagram",
+      "amount": "88730.33",
+      "why": "All three strict thresholds pass; full spend counts once in Instagram.",
+      "source_pointer": "/139"
+    },
+    {
+      "ad_id": "AD-0154",
+      "category": "YouTube",
+      "amount": "186392.69",
+      "why": "All three strict thresholds pass; full spend counts once in YouTube.",
+      "source_pointer": "/153"
+    },
+    {
+      "ad_id": "AD-0194",
+      "category": "Google",
+      "amount": "44411.28",
+      "why": "All three strict thresholds pass; full spend counts once in Google.",
+      "source_pointer": "/193"
+    },
+    {
+      "ad_id": "AD-0214",
+      "category": "Google",
+      "amount": "32555.65",
+      "why": "All three strict thresholds pass; full spend counts once in Google.",
+      "source_pointer": "/213"
+    },
+    {
+      "ad_id": "AD-0241",
+      "category": "Instagram",
+      "amount": "124817.59",
+      "why": "All three strict thresholds pass; full spend counts once in Instagram.",
+      "source_pointer": "/240"
+    },
+    {
+      "ad_id": "AD-0322",
+      "category": "Instagram",
+      "amount": "89573.47",
+      "why": "All three strict thresholds pass; full spend counts once in Instagram.",
+      "source_pointer": "/321"
+    },
+    {
+      "ad_id": "AD-0528",
+      "category": "Google",
+      "amount": "118674.62",
+      "why": "All three strict thresholds pass; full spend counts once in Google.",
+      "source_pointer": "/527"
+    },
+    {
+      "ad_id": "AD-0536",
+      "category": "Instagram",
+      "amount": "134584.56",
+      "why": "All three strict thresholds pass; full spend counts once in Instagram.",
+      "source_pointer": "/535"
+    },
+    {
+      "ad_id": "AD-0683",
+      "category": "Meta",
+      "amount": "143760.62",
+      "why": "All three strict thresholds pass; full spend counts once in Meta.",
+      "source_pointer": "/682"
+    }
+  ]
+}

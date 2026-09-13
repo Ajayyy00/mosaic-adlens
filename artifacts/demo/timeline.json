@@ -1,0 +1,289 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "disclosure": "AI-generated neural male narration",
+  "duration": 107.19999999999999,
+  "scenes": [
+    {
+      "index": 0,
+      "shot": "overview",
+      "title": "A clear answer to wasted spend",
+      "text": "Eight hundred ads. Four platforms. Which campaigns had enough money and time, but still failed to earn back their spend? Adlens turns the official Mosaic dataset into a traceable answer.",
+      "start": 0.0,
+      "duration": 11.2,
+      "audio_duration": 10.848,
+      "audio": "narration-0.mp3"
+    },
+    {
+      "index": 1,
+      "shot": "explorer",
+      "title": "800 official records. No replacement data.",
+      "text": "The complete source is preserved with a download timestamp and checksum. Every ad retains its platform, audience, creative theme, spend, revenue, and running days. Nothing is sampled out.",
+      "start": 11.2,
+      "duration": 11.7,
+      "audio_duration": 11.328,
+      "audio": "narration-1.mp3"
+    },
+    {
+      "index": 2,
+      "shot": "methodology",
+      "title": "Three strict checks. One contribution.",
+      "text": "An ad qualifies only when return on ad spend is below one, spend exceeds five thousand rupees, and it has run for more than fourteen days. All three must pass. Its full spend counts once.",
+      "start": 22.9,
+      "duration": 11.6,
+      "audio_duration": 11.232,
+      "audio": "narration-2.mp3"
+    },
+    {
+      "index": 3,
+      "shot": "overview",
+      "title": "\u20b914,75,731.79 \u00b7 13 qualifying ads",
+      "text": "The result: fourteen lakh, seventy-five thousand, seven hundred thirty-one rupees and seventy-nine paise. Thirteen ads qualify. Instagram contributes the most, and the four platform totals reconcile exactly to the answer.",
+      "start": 34.5,
+      "duration": 14.233333333333333,
+      "audio_duration": 13.872,
+      "audio": "narration-3.mp3"
+    },
+    {
+      "index": 4,
+      "shot": "filtered",
+      "title": "Search. Filter. Inspect.",
+      "text": "The explorer makes that result practical. Filter by platform, audience, or creative theme. Search for an individual ad, sort its performance, and open the evidence behind its classification.",
+      "start": 48.733333333333334,
+      "duration": 11.666666666666666,
+      "audio_duration": 11.304,
+      "audio": "narration-4.mp3"
+    },
+    {
+      "index": 5,
+      "shot": "detail",
+      "title": "AD-0029 / Follow the evidence",
+      "text": "Take this Instagram ad. It spent roughly one lakh thirty-nine thousand rupees and earned about ninety-five thousand. Its reported return is zero point six eight, over sixty-five days. All three checks pass, so its full spend contributes once. The exact amounts and original source index remain visible.",
+      "start": 60.4,
+      "duration": 18.333333333333332,
+      "audio_duration": 17.976,
+      "audio": "narration-5.mp3"
+    },
+    {
+      "index": 6,
+      "shot": "insights",
+      "title": "Find patterns without overstating them",
+      "text": "Creative rankings use total revenue divided by total spend. Doctor Trust, Lifestyle, and Product Demo lead. These synthetic returns are unusually high, so relative underperformance does not automatically mean a whole audience is losing money.",
+      "start": 78.73333333333333,
+      "duration": 14.366666666666667,
+      "audio_duration": 13.992,
+      "audio": "narration-6.mp3"
+    },
+    {
+      "index": 7,
+      "shot": "downloads",
+      "title": "Reproduce the result",
+      "text": "Python Decimal and a separate JavaScript integer-cents calculation agree on every flagged ad and platform subtotal. Download the records and reconciliation to reproduce the result. Adlens makes every rupee explainable.",
+      "start": 93.1,
+      "duration": 14.1,
+      "audio_duration": 13.728,
+      "audio": "narration-7.mp3"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.092583,
+      "end": 3.032416,
+      "text": "Eight hundred ads Four platforms Which campaigns"
+    },
+    {
+      "start": 3.044,
+      "end": 4.976832,
+      "text": "had enough money and time but still"
+    },
+    {
+      "start": 4.988416,
+      "end": 7.210666,
+      "text": "failed to earn back their spend Adlens"
+    },
+    {
+      "start": 7.222208,
+      "end": 9.560208,
+      "text": "turns the official Mosaic dataset into a"
+    },
+    {
+      "start": 9.57175,
+      "end": 10.497708,
+      "text": "traceable answer"
+    },
+    {
+      "start": 11.304165999999999,
+      "end": 12.843540999999998,
+      "text": "The complete source is preserved with a"
+    },
+    {
+      "start": 12.855082999999999,
+      "end": 15.875916,
+      "text": "download timestamp and checksum Every ad retains"
+    },
+    {
+      "start": 15.8875,
+      "end": 19.822708,
+      "text": "its platform audience creative theme spend revenue"
+    },
+    {
+      "start": 20.06575,
+      "end": 22.17225,
+      "text": "and running days Nothing is sampled out"
+    },
+    {
+      "start": 22.980999999999998,
+      "end": 24.867583,
+      "text": "An ad qualifies only when return on"
+    },
+    {
+      "start": 24.879165999999998,
+      "end": 27.251873999999997,
+      "text": "ad spend is below one spend exceeds"
+    },
+    {
+      "start": 27.263416,
+      "end": 29.358331999999997,
+      "text": "five thousand rupees and it has run"
+    },
+    {
+      "start": 29.369915999999996,
+      "end": 31.395331999999996,
+      "text": "for more than fourteen days All three"
+    },
+    {
+      "start": 31.406957999999996,
+      "end": 33.779666,
+      "text": "must pass Its full spend counts once"
+    },
+    {
+      "start": 34.604166,
+      "end": 38.006958,
+      "text": "The result fourteen lakh seventy-five thousand seven"
+    },
+    {
+      "start": 38.0185,
+      "end": 41.467583,
+      "text": "hundred thirty-one rupees and seventy-nine paise Thirteen"
+    },
+    {
+      "start": 41.479166,
+      "end": 44.824081899999996,
+      "text": "ads qualify Instagram contributes the most and"
+    },
+    {
+      "start": 44.835666,
+      "end": 47.439833,
+      "text": "the four platform totals reconcile exactly to"
+    },
+    {
+      "start": 47.451375,
+      "end": 48.0185,
+      "text": "the answer"
+    },
+    {
+      "start": 48.82591633333333,
+      "end": 51.49954133333333,
+      "text": "The explorer makes that result practical Filter"
+    },
+    {
+      "start": 51.511124333333335,
+      "end": 54.659249333333335,
+      "text": "by platform audience or creative theme Search"
+    },
+    {
+      "start": 54.670833333333334,
+      "end": 57.19399933333334,
+      "text": "for an individual ad sort its performance"
+    },
+    {
+      "start": 57.40233333333333,
+      "end": 59.69399933333334,
+      "text": "and open the evidence behind its classification"
+    },
+    {
+      "start": 60.504166,
+      "end": 62.622208,
+      "text": "Take this Instagram ad It spent roughly"
+    },
+    {
+      "start": 62.633791,
+      "end": 65.226416,
+      "text": "one lakh thirty-nine thousand rupees and earned"
+    },
+    {
+      "start": 65.23795799999999,
+      "end": 68.108333,
+      "text": "about ninety-five thousand Its reported return is"
+    },
+    {
+      "start": 68.119916,
+      "end": 70.886083,
+      "text": "zero point six eight over sixty-five days"
+    },
+    {
+      "start": 71.268041,
+      "end": 73.247208,
+      "text": "All three checks pass so its full"
+    },
+    {
+      "start": 73.258791,
+      "end": 76.025,
+      "text": "spend contributes once The exact amounts and"
+    },
+    {
+      "start": 76.036583,
+      "end": 78.03887499999999,
+      "text": "original source index remain visible"
+    },
+    {
+      "start": 78.82591633333334,
+      "end": 81.22174933333334,
+      "text": "Creative rankings use total revenue divided by"
+    },
+    {
+      "start": 81.23333333333333,
+      "end": 84.43937433333333,
+      "text": "total spend Doctor Trust Lifestyle and Product"
+    },
+    {
+      "start": 84.45091633333334,
+      "end": 87.15924933333334,
+      "text": "Demo lead These synthetic returns are unusually"
+    },
+    {
+      "start": 87.17083333333333,
+      "end": 90.29583233333334,
+      "text": "high so relative underperformance does not automatically"
+    },
+    {
+      "start": 90.30741633333334,
+      "end": 92.37916633333333,
+      "text": "mean a whole audience is losing money"
+    },
+    {
+      "start": 93.204166,
+      "end": 96.120832,
+      "text": "Python Decimal and a separate JavaScript integer-cents"
+    },
+    {
+      "start": 96.13241599999999,
+      "end": 98.933332,
+      "text": "calculation agree on every flagged ad and"
+    },
+    {
+      "start": 98.94491599999999,
+      "end": 102.57916599999999,
+      "text": "platform subtotal Download the records and reconciliation"
+    },
+    {
+      "start": 102.67174999999999,
+      "end": 105.41483299999999,
+      "text": "to reproduce the result Adlens makes every"
+    },
+    {
+      "start": 105.426375,
+      "end": 106.479666,
+      "text": "rupee explainable"
+    }
+  ]
+}
