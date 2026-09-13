@@ -9,6 +9,7 @@
 - No malformed rows, missing required fields, repeated identical records, or conflicting IDs found.
 - Platform sum minus answer: 0.00.
 - Actual `npm run check`: 21 Python tests and 3 Node tests passed; ESLint passed; TypeScript and Vite production build passed.
+- Clean checkout at deployed commit `8dc74df87eaeb5ccf0e4a8257ba2c94dcfd43a86`: `npm ci` completed with zero reported vulnerabilities; all stages of `npm run check` passed again on 2026-09-13. Anonymous GitHub refs matched that source commit.
 
 ## Browser QA (local working app)
 
@@ -37,4 +38,6 @@ Real browser production actions verified every major view, Instagram + wasted-sp
 `artifacts/demo/validation.json` records an actually decoded 115.84-second MP4: H.264, 1920×1080, 30 fps, AAC audio. It contains 43 valid, nonoverlapping subtitle cues, matching the narration transcript after punctuation normalization. Word-boundary timings come from the actual synthesis, and scene durations are aligned to 30 fps. The final overview shot repeats the exact answer. Authentic public browser screenshot provenance is saved beside the demo. Representative decoded frames were visually inspected; captions were resized and recolored for readability before final rendering. Voice: en-US-AndrewNeural, disclosed neural male narration. A human realism assessment is subjective; no human voice recording is claimed.
 
 An independent local faster-whisper tiny.en transcription recovered the audio's core content, all thresholds, the AD-0029 example and final amount. ASR spelling errors include the product name and paise; the canonical transcript and on-screen exact figures are authoritative. Audio was processed locally, not uploaded to an external transcription API.
+
+Anonymous HTTP verification also checked the public MP4, SRT and transcript byte for byte against local artifacts. The MP4 SHA-256 is `2ec56503d093bd26ce4ab299867a57bef95e6bd78322508018335d6c7422314d`. The HTTP checker pins media hashes so it also runs from a clean checkout without the ignored MP4.
 
