@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-13T09:28:39.731921+00:00",
+  "checked_at": "2026-09-13T14:33:11.435600+00:00",
   "base_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site",
   "status": "PASS",
   "checks": [
@@ -12,11 +12,11 @@
       "anonymous": true
     },
     {
-      "path": "/assets/index-DL3b6CAy.js",
+      "path": "/assets/index-CxdYP73g.js",
       "status": 200,
-      "bytes": 256794,
+      "bytes": 257276,
       "content_type": "text/javascript",
-      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/assets/index-DL3b6CAy.js",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/assets/index-CxdYP73g.js",
       "anonymous": true
     },
     {
@@ -107,6 +107,39 @@
       "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/reports/nonexistent-report.json",
       "anonymous": true,
       "behavior": "Static host SPA fallback: HTML app shell, not a JSON report"
+    },
+    {
+      "path": "/demo/demo.mp4",
+      "status": 200,
+      "bytes": 4968407,
+      "content_type": "video/mp4",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/demo.mp4",
+      "anonymous": true,
+      "sha256": "2ec56503d093bd26ce4ab299867a57bef95e6bd78322508018335d6c7422314d",
+      "matches_pinned_hash": true,
+      "matches_local": true
+    },
+    {
+      "path": "/demo/demo.srt",
+      "status": 200,
+      "bytes": 3442,
+      "content_type": "text/plain",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/demo.srt",
+      "anonymous": true,
+      "sha256": "60a5afee5ec6141141db80168ff8a8df5061b5c6e50f322edf1200bc47f73443",
+      "matches_pinned_hash": true,
+      "matches_local": true
+    },
+    {
+      "path": "/demo/transcript.txt",
+      "status": 200,
+      "bytes": 1897,
+      "content_type": "text/plain",
+      "final_url": "https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/transcript.txt",
+      "anonymous": true,
+      "sha256": "22a1ef5a4034f775ed44f8aff3084a9d48ab9097de9261ec28237fd80ee954ea",
+      "matches_pinned_hash": true,
+      "matches_local": true
     }
   ],
   "routes": "The five UI views use URL fragments and are verified in real browser QA."
