@@ -47,7 +47,7 @@ npm run dev
 
 Open the URL printed by Vite. Routes use URL fragments (`#overview`, `#explorer`, `#insights`, `#methodology`, `#downloads`), so any static host can serve them without SPA rewrites. The initial page fetches generated static JSON reports; no runtime backend, database, API keys or login is needed. `npm run preview` serves the production build locally.
 
-`npm run check` runs tests, independent reconciliation, lint, typecheck and production build. For a clean checkout, generated reports and the official source are committed; downloading is also independently reproducible.
+`npm run check` runs tests, independent reconciliation, lint, typecheck and production build. The official source, generated reports and release MP4/SRT/transcript are committed for clean-checkout availability. The prebuild gate checks source integrity, mirrored reports, reconciliation and media hashes; a missing demo fails the build with an actionable message.
 
 ## Acquisition and completeness
 
@@ -64,7 +64,7 @@ All fields are validated by the engine. There are no missing required fields, ma
 
 ## Audit methodology and numerical discipline
 
-`engine/audit.py` parses raw JSON numbers directly as `Decimal`. Monetary addition and comparisons never use binary floating point. It retains exact spend and exact contributions; formatted output uses `ROUND_HALF_UP` to two decimal places only for reporting. The official page specifies two decimals but no tie-breaking mode. Because every supplied money value is already in cents, half-up, half-even and per-record rounding give the same final answer. A category rounding residual blocks the final result rather than silently adjusting a category.
+`engine/audit.py` parses raw JSON numbers directly as `Decimal`. Monetary addition and comparisons never use binary floating point. It retains exact spend and exact contributions; formatted output uses `ROUND_HALF_UP` to two decimal places only for reporting. The official page specifies two decimals but no tie-breaking mode. Because every supplied money value is already in cents, half-up, half-even and per-record rounding give the same final answer. Any mismatch between rounded records, their platform subtotals and the rounded grand total blocks the final result. Exact contributions remain in the evidence; no balancing adjustment is invented.
 
 The primary filter uses the supplied ROAS. `AD-0207` is reported as 1.00 although revenue/spend is slightly below one; its eight running days exclude it under both interpretations. A complete independent recomputed-ROAS filter agrees with the final total. All reported ROAS values are within 0.005 of revenue/spend.
 
@@ -76,11 +76,11 @@ The official page does not prescribe policies for malformed rows or duplicate ID
 
 `artifacts/results/` and `public/reports/` contain the summary, category breakdown, all 800 record results, reconciliation ledger, malformed and duplicate reports, independent validation, and CSV export. Every record preserves its original source fields, source array index/JSON pointer, all three boolean checks, exact contribution, display contribution and inclusion/exclusion explanation. Invoice-only fields are null with an explicit applicability note.
 
-The app provides a searchable, filterable, sortable and paginated explorer, keyboard-accessible record dialogs, platform breakdown, methodology, dataset provenance, creative insights and downloadable evidence. Global totals remain unchanged when explorer filters change.
+The app provides a searchable, filterable, sortable and paginated explorer, keyboard-accessible record dialogs, platform breakdown, methodology, dataset provenance, creative insights and downloadable evidence. Creative theme (`creative_theme`) and creative format (`ad_type`) have separate filters to cover both readings of the official “creative type” wording. Minimum spend accepts nonnegative decimal rupees with up to two decimal places; unsupported nonempty input pauses results with an error. Global totals remain unchanged when explorer filters change.
 
 ## Creative insights
 
-Rank by weighted ROAS = aggregate revenue / aggregate spend (not average ad ROAS), with deterministic label tie breaks. This ranking definition is an implementation choice; the official page does not specify one.
+Rank by weighted ROAS = aggregate revenue / aggregate spend (not average ad ROAS), with deterministic label tie breaks. Undefined zero-spend ROAS groups appear last in complete listings and are excluded from best/worst rankings. Quarantined records are excluded from secondary metrics. This ranking definition is an implementation choice; the official page does not specify one.
 
 - Lowest platform-audience groups: Meta / M 18–24 (66.64×), YouTube / M 18–24 (67.17×), Google / F 25–34 (67.85×).
 - Highest creative themes: Doctor Trust (122.51×), Lifestyle (110.08×), Product Demo (105.95×).
@@ -103,7 +103,7 @@ The public GitHub repository is [Ajayyy00/mosaic-adlens](https://github.com/Ajay
 
 ## Demo
 
-The narrated demo artifacts are in `artifacts/demo/`: `demo.mp4`, `demo.srt`, and `transcript.txt`. The MP4 is publicly hosted at the demo link above; [captions](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/demo.srt) and [transcript](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/transcript.txt) are also public. Video rendering additionally needs `edge-tts`, `Pillow`, and `imageio-ffmpeg`. Real browser screenshots are the visual source and must be recaptured to render from a fresh checkout. See `scripts/make_demo.py` and `artifacts/demo/validation.json` for actual validation results. Generated audio/video and temporary capture files are ignored by Git. `python scripts/http_check.py` verifies deployed reports and pinned media hashes without requiring a local MP4.
+The narrated demo artifacts are in `artifacts/demo/`: `demo.mp4`, `demo.srt`, and `transcript.txt`. The MP4 is publicly hosted at the demo link above; [captions](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/demo.srt) and [transcript](https://mosaic-adlens-audit.ochre-deer-1487.chatgpt.site/demo/transcript.txt) are also public. Video rendering additionally needs `edge-tts`, `Pillow`, and `imageio-ffmpeg`. Real browser screenshots are the visual source and must be recaptured to render from a fresh checkout. See `scripts/make_demo.py` and `artifacts/demo/validation.json` for actual validation results. The release MP4, SRT, transcript and checksum manifest in `public/demo/` are tracked. Intermediate audio/video and temporary captures under `artifacts/demo/` are ignored by Git. Validation/finalization additionally uses PyAV. Raw ASR timestamps are separately flagged when outside the actual media duration; ASR output does not certify caption timing. `python scripts/http_check.py` verifies deployed reports and pinned media hashes without requiring a local MP4.
 
 ## Project structure
 

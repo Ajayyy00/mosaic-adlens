@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
+    "prebuild": "node scripts/check_release.mjs",
     "build": "tsc -b && vite build",
     "typecheck": "tsc -b",
     "lint": "eslint frontend",
@@ -12,7 +13,8 @@
     "download": "python scripts/download.py",
     "audit": "python engine/audit.py",
     "verify": "node scripts/independent.mjs",
-    "test": "python -m unittest discover -s tests -v && node --test tests/independent.test.mjs",
+    "test": "python -m unittest discover -s tests -v && node --test tests/independent.test.mjs && npm run test:ui",
+    "test:ui": "tsc frontend/explorer.ts --outDir artifacts/test-build --target ES2022 --module ES2022 --strict --skipLibCheck && node --test tests/explorer.test.mjs tests/release.test.mjs",
     "check": "npm run test && npm run verify && npm run lint && npm run build"
   },
   "dependencies": {
